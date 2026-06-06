@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="ru">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Тренажер госэкзамена</title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <main class="shell">
+      <section id="startScreen" class="start-screen">
+        <div class="brand">
+          <span class="brand-mark" aria-hidden="true">+</span>
+          <span>Медицинский тренажер</span>
+        </div>
+        <div class="start-layout">
+          <div class="intro">
+            <p class="eyebrow">Подготовка к тесту</p>
+            <h1>Вика сказала, что надо сделать вам тест... удачи!</h1>
+            <p class="lead">Выберите объем попытки и решайте вопросы в случайном порядке. Ответы проверяются сразу после выбора.</p>
+            <div class="stats">
+              <div>
+                <strong id="totalQuestions">...</strong>
+                <span>вопросов в базе</span>
+              </div>
+              <div>
+                <strong>5</strong>
+                <span>итоговая оценка</span>
+              </div>
+            </div>
+          </div>
+          <form id="startForm" class="start-panel">
+            <label class="field-label">Сколько вопросов решить</label>
+            <div class="count-grid" id="countGrid"></div>
+            <button class="primary-action" type="submit">Начать тренировку</button>
+          </form>
+        </div>
+      </section>
+
+      <section id="quizScreen" class="quiz-screen hidden">
+        <header class="quiz-header">
+          <button class="ghost-button" id="backButton" type="button">На старт</button>
+          <div class="progress-wrap">
+            <div class="progress-text">
+              <span id="questionCounter">1 / 10</span>
+              <span id="scoreCounter">0 верно</span>
+            </div>
+            <div class="progress-bar"><span id="progressBar"></span></div>
+          </div>
+        </header>
+
+        <article class="question-area">
+          <p class="question-label">Вопрос</p>
+          <h2 id="questionText"></h2>
+          <div id="options" class="options"></div>
+          <div class="actions">
+            <button class="primary-action" id="nextButton" type="button" disabled>Следующий вопрос</button>
+          </div>
+        </article>
+      </section>
+
+      <section id="finalScreen" class="final-screen hidden">
+        <div class="result-card">
+          <p class="eyebrow">Результат</p>
+          <h2 id="resultTitle">Попытка завершена</h2>
+          <div class="result-score">
+            <span id="resultPercent">0%</span>
+            <strong id="resultGrade">Оценка 2</strong>
+          </div>
+          <h3 id="resultMessage"></h3>
+          <p id="resultDetails"></p>
+          <button class="primary-action" id="retryButton" type="button">Пройти ещё раз</button>
+        </div>
+      </section>
+    </main>
+    <script src="questions.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>
