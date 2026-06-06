@@ -400,6 +400,10 @@ h1 {
     font-size: 22px;
   }
 
+  .actions {
+    justify-content: center;
+  }
+
   #resultMessage {
     font-size: 22px;
   }
