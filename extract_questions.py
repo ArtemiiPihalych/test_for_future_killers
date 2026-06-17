@@ -7,12 +7,21 @@ from pathlib import Path
 from docx import Document
 
 
-SOURCE = Path("TEST_gosy.docx")
+SOURCE = Path("gosy_test_2.docx")
 OUT = Path("data/questions.private.json")
+JS_OUTS = [Path("questions.js"), Path("public/questions.js")]
 
 
 def clean(text: str) -> str:
     text = " ".join(text.replace("\u00a0", " ").split())
+    text = re.sub(r"\s*[-–]?\s*(?:это ключи|так в ключах|это оно)\s*", "", text, flags=re.IGNORECASE)
+    text = text.replace("\uf00c", "")
+    text = re.sub(
+        r"\s*\([^)]*(?:гпт|нейронк|не ебу|хз|карпова|ключ)[^)]*\)",
+        "",
+        text,
+        flags=re.IGNORECASE,
+    )
     if any(marker in text for marker in ("Р", "С", "вЂ", "О±", "ОІ", "Оі")):
         try:
             repaired = text.encode("cp1251").decode("utf-8")
@@ -59,7 +68,7 @@ def has_meaningful_bold(line: dict) -> bool:
     if option_prefix:
         prefix_key = "".join(ch for ch in option_prefix.group(0) if ch.isalnum())
         key = key[len(prefix_key) :] if key.startswith(prefix_key) else key
-    return len(key) >= 2 and any(ch.isalpha() for ch in key)
+    return len(key) >= 1 and any(ch.isalnum() for ch in key)
 
 
 def is_title(line: dict) -> bool:
@@ -82,6 +91,107 @@ def make_question(lines: list[dict], carry: list[str] | None = None, option_coun
     if not prompt or len(options) != option_count or len(correct) != 1:
         return None
     return {"question": prompt, "options": options, "answer": correct[0]}
+
+
+def make_manual_question(prompt: str, options: list[str], answer: int) -> dict:
+    return {"question": clean(prompt), "options": [clean(option) for option in options], "answer": answer}
+
+
+def manual_block(index: int, block: list[dict]) -> list[dict] | None:
+    simple_answers = {
+        70: 0,
+        78: 1,
+        79: 3,
+        80: 0,
+        87: 3,
+        104: 3,
+        117: 3,
+        294: 1,
+        295: 1,
+        298: 2,
+        299: 1,
+        300: 0,
+        301: 2,
+        304: 0,
+        305: 0,
+        307: 0,
+        309: 2,
+        310: 1,
+        311: 3,
+        312: 0,
+        313: 2,
+        314: 0,
+        315: 3,
+        316: 3,
+        317: 3,
+        318: 2,
+        319: 0,
+        320: 1,
+        321: 2,
+        322: 0,
+        323: 0,
+        324: 3,
+        325: 1,
+        326: 0,
+        327: 1,
+        328: 0,
+        329: 0,
+        396: 2,
+        475: 1,
+        552: 0,
+        553: 0,
+        622: 1,
+        1017: 0,
+        1037: 0,
+        1039: 3,
+        1048: 1,
+        1065: 0,
+        1069: 0,
+        1073: 0,
+        1134: 2,
+        1358: 2,
+    }
+    lines = [line["text"] for line in block]
+    if index in simple_answers:
+        answer = simple_answers[index]
+        if index == 1065:
+            return [make_manual_question(lines[0], [lines[1], lines[2], f"{lines[3]} {lines[4]}", lines[5]], answer)]
+        if index == 1069:
+            return [make_manual_question(lines[0], [f"{lines[1]} {lines[2]}", lines[3], lines[4], f"{lines[5]} {lines[6]}"], answer)]
+        if index == 1073:
+            return [make_manual_question(lines[0], [f"{lines[1]} {lines[2]}", f"{lines[3]} {lines[4]}", lines[5], lines[6]], answer)]
+        if index == 1358:
+            return [make_manual_question(lines[0], [lines[2], lines[3], f"{lines[4]} {lines[5]}", lines[6]], answer)]
+        return [make_manual_question(lines[0], lines[1:], answer)]
+
+    if index == 219:
+        return [
+            make_manual_question(
+                "1. ЛОГИЧЕСКИЙ ПРИЕМ, МЕТОД ИССЛЕДОВАНИЯ, ОЗНАЧАЮЩИЙ МЫСЛЕННОЕ РАЗЛОЖЕНИЕ ОБЪЕКТА НА СОСТАВНЫЕ ЭЛЕМЕНТЫ НАЗЫВАЕТСЯ:",
+                ["1. экстраполяцией", "2. синтезом", "3. аналогией", "4. анализом"],
+                3,
+            )
+        ]
+    if index == 220:
+        return [make_manual_question(lines[0], ["1. эмпиризм", "2. материализм", "3. идеализм", "4. гедонизм"], 0)]
+    if index == 308:
+        return [make_manual_question(lines[0], lines[1:5], 1), make_manual_question(lines[5], lines[6:10], 2)]
+    if index == 340:
+        return [
+            make_manual_question(
+                "10.Клон лимфоцитов – это:",
+                [
+                    "1.Потомство одной клетки, отличающееся по специфичности рецепторов",
+                    "2.Группа всех лимфоцитов",
+                    "3.Потомство разных клеток",
+                    "4.Группа лейкоцитов",
+                ],
+                0,
+            )
+        ]
+    if index == 1092:
+        return [make_manual_question(lines[0], lines[1:5], 0), make_manual_question(lines[5], lines[6:10], 0)]
+    return None
 
 
 def split_block(block: list[dict], carry: list[str] | None) -> tuple[list[dict], list[str] | None]:
@@ -166,6 +276,12 @@ def main() -> None:
     carry: list[str] | None = None
 
     for index, block in enumerate(blocks):
+        manual = manual_block(index, block)
+        if manual is not None:
+            questions.extend(manual)
+            carry = None
+            continue
+
         parsed, carry = split_block(block, carry)
         if parsed:
             questions.extend(parsed)
@@ -183,13 +299,18 @@ def main() -> None:
         deduped.append(question)
 
     OUT.parent.mkdir(exist_ok=True)
-    OUT.write_text(json.dumps(deduped, ensure_ascii=False, indent=2), encoding="utf-8")
+    json_payload = json.dumps(deduped, ensure_ascii=False, indent=2)
+    OUT.write_text(json_payload, encoding="utf-8")
+    js_payload = f"window.QUESTION_BANK = {json_payload};\n"
+    for path in JS_OUTS:
+        path.parent.mkdir(exist_ok=True)
+        path.write_text(js_payload, encoding="utf-8")
     Path("data/extraction-report.json").write_text(
         json.dumps(
             {
                 "source": str(SOURCE),
                 "questions": len(deduped),
-                "unresolved_blocks": unresolved[:50],
+                "unresolved_blocks": unresolved,
                 "unresolved_count": len(unresolved),
             },
             ensure_ascii=False,
