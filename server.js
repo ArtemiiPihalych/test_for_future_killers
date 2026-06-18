@@ -8,6 +8,8 @@ const PUBLIC = path.join(ROOT, "public");
 const QUESTIONS = JSON.parse(fs.readFileSync(path.join(ROOT, "data", "questions.private.json"), "utf8"));
 const sessions = new Map();
 const allowedCounts = new Set([10, 30, 50, 100]);
+const NEW_QUESTIONS_START_ID = 1300;
+const NEW_QUESTIONS_COUNT = 51;
 
 function sendJson(res, status, body) {
   const payload = JSON.stringify(body);
@@ -56,6 +58,15 @@ function pickQuestions(count) {
   return copy.slice(0, count);
 }
 
+function pickNewQuestions() {
+  const copy = QUESTIONS.filter(question => question.id >= NEW_QUESTIONS_START_ID);
+  for (let i = copy.length - 1; i > 0; i -= 1) {
+    const j = crypto.randomInt(i + 1);
+    [copy[i], copy[j]] = [copy[j], copy[i]];
+  }
+  return copy.slice(0, NEW_QUESTIONS_COUNT);
+}
+
 function gradeFor(percent) {
   if (percent >= 90) return 5;
   if (percent >= 75) return 4;
@@ -67,17 +78,21 @@ async function handleApi(req, res) {
   if (req.method === "GET" && req.url === "/api/meta") {
     return sendJson(res, 200, {
       totalQuestions: QUESTIONS.length,
-      counts: [10, 30, 50, 100]
+      counts: [10, 30, 50, 100],
+      newQuestions: {
+        count: NEW_QUESTIONS_COUNT
+      }
     });
   }
 
   if (req.method === "POST" && req.url === "/api/start") {
     const body = await readBody(req);
+    const isNewQuestionsMode = body.mode === "new";
     const count = Number(body.count);
-    if (!allowedCounts.has(count) || count > QUESTIONS.length) {
+    if (!isNewQuestionsMode && (!allowedCounts.has(count) || count > QUESTIONS.length)) {
       return sendJson(res, 400, { error: "Недопустимое количество вопросов" });
     }
-    const selected = pickQuestions(count);
+    const selected = isNewQuestionsMode ? pickNewQuestions() : pickQuestions(count);
     const sessionId = crypto.randomUUID();
     sessions.set(sessionId, {
       selected,

@@ -18,12 +18,15 @@ const resultMessage = document.querySelector("#resultMessage");
 const resultDetails = document.querySelector("#resultDetails");
 
 let selectedCount = 10;
+let selectedMode = "random";
 let sessionId = null;
 let questions = [];
 let currentIndex = 0;
 let score = 0;
 let answeredCurrent = false;
 let staticSession = null;
+const NEW_QUESTIONS_START_ID = 1300;
+const NEW_QUESTIONS_COUNT = 51;
 
 const gradeMessages = {
   2: "Ты совсем дурак? Развивайся!",
@@ -68,13 +71,18 @@ function staticApi(path, body) {
   if (path === "/api/meta") {
     return Promise.resolve({
       totalQuestions: window.QUESTION_BANK.length,
-      counts: [10, 30, 50, 100]
+      counts: [10, 30, 50, 100],
+      newQuestions: {
+        count: NEW_QUESTIONS_COUNT
+      }
     });
   }
 
   if (path === "/api/start") {
-    const count = Number(body.count);
-    const selected = shuffle(window.QUESTION_BANK).slice(0, count);
+    const selected =
+      body.mode === "new"
+        ? shuffle(window.QUESTION_BANK.filter(question => question.id >= NEW_QUESTIONS_START_ID)).slice(0, NEW_QUESTIONS_COUNT)
+        : shuffle(window.QUESTION_BANK).slice(0, Number(body.count));
     staticSession = {
       id: crypto.randomUUID(),
       selected,
@@ -157,19 +165,32 @@ function show(screen) {
   screen.classList.remove("hidden");
 }
 
-function renderCounts(counts) {
+function renderCounts(counts, newQuestions) {
   countGrid.innerHTML = "";
   counts.forEach(count => {
     const button = document.createElement("button");
     button.type = "button";
-    button.className = `count-option ${count === selectedCount ? "selected" : ""}`;
+    button.className = `count-option ${selectedMode === "random" && count === selectedCount ? "selected" : ""}`;
     button.innerHTML = `${count}<span>вопросов</span>`;
     button.addEventListener("click", () => {
       selectedCount = count;
-      renderCounts(counts);
+      selectedMode = "random";
+      renderCounts(counts, newQuestions);
     });
     countGrid.append(button);
   });
+
+  if (newQuestions) {
+    const button = document.createElement("button");
+    button.type = "button";
+    button.className = `count-option ${selectedMode === "new" ? "selected" : ""}`;
+    button.innerHTML = `Новые<span>${newQuestions.count} вопрос</span>`;
+    button.addEventListener("click", () => {
+      selectedMode = "new";
+      renderCounts(counts, newQuestions);
+    });
+    countGrid.append(button);
+  }
 }
 
 function renderQuestion() {
@@ -212,7 +233,7 @@ async function submitAnswer(questionId, optionIndex) {
 }
 
 async function startQuiz() {
-  const data = await api("/api/start", { count: selectedCount });
+  const data = await api("/api/start", { count: selectedCount, mode: selectedMode });
   sessionId = data.sessionId;
   questions = data.questions;
   currentIndex = 0;
@@ -250,7 +271,7 @@ retryButton.addEventListener("click", () => show(startScreen));
 api("/api/meta")
   .then(meta => {
     totalQuestions.textContent = meta.totalQuestions;
-    renderCounts(meta.counts);
+    renderCounts(meta.counts, meta.newQuestions);
   })
   .catch(error => {
     totalQuestions.textContent = "0";
