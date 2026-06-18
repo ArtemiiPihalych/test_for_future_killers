@@ -7,7 +7,10 @@ from pathlib import Path
 from docx import Document
 
 
-SOURCE = Path("gosy_test_2.docx")
+SOURCES = [
+    {"path": Path("gosy_test_2.docx"), "manual": True},
+    {"path": Path("gosy_test.docx"), "manual": False},
+]
 OUT = Path("data/questions.private.json")
 JS_OUTS = [Path("questions.js"), Path("public/questions.js")]
 
@@ -241,8 +244,8 @@ def split_block(block: list[dict], carry: list[str] | None) -> tuple[list[dict],
     return ([question] if question else []), None
 
 
-def main() -> None:
-    document = Document(SOURCE)
+def extract_from_document(source: Path, use_manual: bool) -> tuple[list[dict], list[dict]]:
+    document = Document(source)
     blocks: list[list[dict]] = []
     current: list[dict] = []
 
@@ -276,7 +279,7 @@ def main() -> None:
     carry: list[str] | None = None
 
     for index, block in enumerate(blocks):
-        manual = manual_block(index, block)
+        manual = manual_block(index, block) if use_manual else None
         if manual is not None:
             questions.extend(manual)
             carry = None
@@ -288,14 +291,34 @@ def main() -> None:
         elif not carry and not (len(block) == 1 and is_title(block[0])):
             unresolved.append({"block": index, "lines": [line["text"] for line in block]})
 
+    return questions, unresolved
+
+
+def main() -> None:
+    questions: list[dict] = []
+    report_sources: list[dict] = []
+
+    for source_config in SOURCES:
+        source = source_config["path"]
+        extracted, unresolved = extract_from_document(source, bool(source_config["manual"]))
+        questions.extend(extracted)
+        report_sources.append(
+            {
+                "source": str(source),
+                "questions_extracted": len(extracted),
+                "unresolved_blocks": unresolved,
+                "unresolved_count": len(unresolved),
+            }
+        )
+
     deduped: list[dict] = []
     seen: set[tuple[str, tuple[str, ...]]] = set()
-    for idx, question in enumerate(questions, start=1):
+    for question in questions:
         key = (question["question"], tuple(question["options"]))
         if key in seen:
             continue
         seen.add(key)
-        question["id"] = idx
+        question["id"] = len(deduped) + 1
         deduped.append(question)
 
     OUT.parent.mkdir(exist_ok=True)
@@ -308,17 +331,17 @@ def main() -> None:
     Path("data/extraction-report.json").write_text(
         json.dumps(
             {
-                "source": str(SOURCE),
+                "sources": report_sources,
                 "questions": len(deduped),
-                "unresolved_blocks": unresolved,
-                "unresolved_count": len(unresolved),
+                "unresolved_count": sum(source["unresolved_count"] for source in report_sources),
             },
             ensure_ascii=False,
             indent=2,
         ),
         encoding="utf-8",
     )
-    print(f"questions={len(deduped)} unresolved={len(unresolved)}")
+    total_unresolved = sum(source["unresolved_count"] for source in report_sources)
+    print(f"questions={len(deduped)} unresolved={total_unresolved}")
 
 
 if __name__ == "__main__":
