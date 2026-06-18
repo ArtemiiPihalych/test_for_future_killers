@@ -8,8 +8,7 @@ const PUBLIC = path.join(ROOT, "public");
 const QUESTIONS = JSON.parse(fs.readFileSync(path.join(ROOT, "data", "questions.private.json"), "utf8"));
 const sessions = new Map();
 const allowedCounts = new Set([10, 30, 50, 100]);
-const NEW_QUESTIONS_START_ID = 1300;
-const NEW_QUESTIONS_COUNT = 51;
+const NEW_QUESTIONS_SOURCE = "gosy_test";
 
 function sendJson(res, status, body) {
   const payload = JSON.stringify(body);
@@ -59,12 +58,12 @@ function pickQuestions(count) {
 }
 
 function pickNewQuestions() {
-  const copy = QUESTIONS.filter(question => question.id >= NEW_QUESTIONS_START_ID);
+  const copy = QUESTIONS.filter(question => question.source === NEW_QUESTIONS_SOURCE);
   for (let i = copy.length - 1; i > 0; i -= 1) {
     const j = crypto.randomInt(i + 1);
     [copy[i], copy[j]] = [copy[j], copy[i]];
   }
-  return copy.slice(0, NEW_QUESTIONS_COUNT);
+  return copy;
 }
 
 function gradeFor(percent) {
@@ -80,7 +79,7 @@ async function handleApi(req, res) {
       totalQuestions: QUESTIONS.length,
       counts: [10, 30, 50, 100],
       newQuestions: {
-        count: NEW_QUESTIONS_COUNT
+        count: QUESTIONS.filter(question => question.source === NEW_QUESTIONS_SOURCE).length
       }
     });
   }

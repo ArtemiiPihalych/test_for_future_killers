@@ -301,6 +301,8 @@ def main() -> None:
     for source_config in SOURCES:
         source = source_config["path"]
         extracted, unresolved = extract_from_document(source, bool(source_config["manual"]))
+        for question in extracted:
+            question["source"] = source.stem
         questions.extend(extracted)
         report_sources.append(
             {

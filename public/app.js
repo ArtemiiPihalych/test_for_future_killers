@@ -25,8 +25,7 @@ let currentIndex = 0;
 let score = 0;
 let answeredCurrent = false;
 let staticSession = null;
-const NEW_QUESTIONS_START_ID = 1300;
-const NEW_QUESTIONS_COUNT = 51;
+const NEW_QUESTIONS_SOURCE = "gosy_test";
 
 const gradeMessages = {
   2: "Ты совсем дурак? Развивайся!",
@@ -73,7 +72,7 @@ function staticApi(path, body) {
       totalQuestions: window.QUESTION_BANK.length,
       counts: [10, 30, 50, 100],
       newQuestions: {
-        count: NEW_QUESTIONS_COUNT
+        count: getNewQuestions().length
       }
     });
   }
@@ -81,7 +80,7 @@ function staticApi(path, body) {
   if (path === "/api/start") {
     const selected =
       body.mode === "new"
-        ? shuffle(window.QUESTION_BANK.filter(question => question.id >= NEW_QUESTIONS_START_ID)).slice(0, NEW_QUESTIONS_COUNT)
+        ? shuffle(getNewQuestions())
         : shuffle(window.QUESTION_BANK).slice(0, Number(body.count));
     staticSession = {
       id: crypto.randomUUID(),
@@ -135,6 +134,10 @@ function publicQuestion(question) {
     question: question.question,
     options: question.options
   };
+}
+
+function getNewQuestions() {
+  return window.QUESTION_BANK.filter(question => question.source === NEW_QUESTIONS_SOURCE);
 }
 
 function shuffle(items) {

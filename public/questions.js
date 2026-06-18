@@ -8,6 +8,7 @@ window.QUESTION_BANK = [
       "Эклептика"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1
   },
   {
@@ -19,6 +20,7 @@ window.QUESTION_BANK = [
       "Добровольность, толерантность, оптимизм"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 2
   },
   {
@@ -30,6 +32,7 @@ window.QUESTION_BANK = [
       "Политология"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 3
   },
   {
@@ -41,6 +44,7 @@ window.QUESTION_BANK = [
       "Рациональный"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 4
   },
   {
@@ -52,6 +56,7 @@ window.QUESTION_BANK = [
       "Община"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 5
   },
   {
@@ -63,6 +68,7 @@ window.QUESTION_BANK = [
       "Меценатство и частные пожертвования"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 6
   },
   {
@@ -74,6 +80,7 @@ window.QUESTION_BANK = [
       "Китая"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 7
   },
   {
@@ -85,6 +92,7 @@ window.QUESTION_BANK = [
       "Сибирское ханство"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 8
   },
   {
@@ -96,6 +104,7 @@ window.QUESTION_BANK = [
       "Жертвенность"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 9
   },
   {
@@ -107,6 +116,7 @@ window.QUESTION_BANK = [
       "Целеустремленность"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 10
   },
   {
@@ -118,6 +128,7 @@ window.QUESTION_BANK = [
       "4 диалектический материализм;"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 11
   },
   {
@@ -129,6 +140,7 @@ window.QUESTION_BANK = [
       "4 Арнольд из Виллановы"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 12
   },
   {
@@ -140,6 +152,7 @@ window.QUESTION_BANK = [
       "4. \"О сердечных средствах"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 13
   },
   {
@@ -151,6 +164,7 @@ window.QUESTION_BANK = [
       "4. Леонардо да Винчи;"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 14
   },
   {
@@ -162,6 +176,7 @@ window.QUESTION_BANK = [
       "4. Амбруазом Паре;"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 15
   },
   {
@@ -173,6 +188,7 @@ window.QUESTION_BANK = [
       "4. Э.Беринг;"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 16
   },
   {
@@ -184,6 +200,7 @@ window.QUESTION_BANK = [
       "ислама"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 17
   },
   {
@@ -195,6 +212,7 @@ window.QUESTION_BANK = [
       "хирургия цирюльников;"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 18
   },
   {
@@ -206,6 +224,7 @@ window.QUESTION_BANK = [
       "4 греческие медики;"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 19
   },
   {
@@ -217,6 +236,7 @@ window.QUESTION_BANK = [
       "4.Н.В.Склифосовский;"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 20
   },
   {
@@ -228,6 +248,7 @@ window.QUESTION_BANK = [
       "блага"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 21
   },
   {
@@ -239,6 +260,7 @@ window.QUESTION_BANK = [
       "изменение объема продаж."
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 22
   },
   {
@@ -250,6 +272,7 @@ window.QUESTION_BANK = [
       "застойной формой безработицы"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 23
   },
   {
@@ -261,6 +284,7 @@ window.QUESTION_BANK = [
       "4. взаимосвязями между средствами и предметами труда."
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 24
   },
   {
@@ -272,6 +296,7 @@ window.QUESTION_BANK = [
       "4. к неоплате государственного заказа предприятиям."
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 25
   },
   {
@@ -283,6 +308,7 @@ window.QUESTION_BANK = [
       "4. все перечисленное верно."
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 26
   },
   {
@@ -294,6 +320,7 @@ window.QUESTION_BANK = [
       "4. уровнем реальных доходов населения, превышающих прожиточный минимум."
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 27
   },
   {
@@ -305,6 +332,7 @@ window.QUESTION_BANK = [
       "4. оплату труда в виде наименьшей месячной ставки или почасовой оплаты."
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 28
   },
   {
@@ -316,6 +344,7 @@ window.QUESTION_BANK = [
       "4. уровень безработицы и уровень благосостояния не связан между собой."
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 29
   },
   {
@@ -327,6 +356,7 @@ window.QUESTION_BANK = [
       "увеличение спроса на товар"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 30
   },
   {
@@ -338,6 +368,7 @@ window.QUESTION_BANK = [
       "4. снижение уровня конкуренции в отдельных отраслях"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 31
   },
   {
@@ -349,6 +380,7 @@ window.QUESTION_BANK = [
       "4. Увеличить сумму собираемых налогов и повысить величину трансфертных платежей."
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 32
   },
   {
@@ -360,6 +392,7 @@ window.QUESTION_BANK = [
       "4. эффективной утилизации отходов."
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 33
   },
   {
@@ -371,6 +404,7 @@ window.QUESTION_BANK = [
       "4. превращение науки в крупную сферу общественного производства ,вызвавший качественно новый прогресс производительных сил."
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 34
   },
   {
@@ -382,6 +416,7 @@ window.QUESTION_BANK = [
       "4. цены на товары остаются неизменными."
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 35
   },
   {
@@ -393,6 +428,7 @@ window.QUESTION_BANK = [
       "4. величина спроса увеличивается."
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 36
   },
   {
@@ -404,6 +440,7 @@ window.QUESTION_BANK = [
       "падает цена ресурсов"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 37
   },
   {
@@ -415,6 +452,7 @@ window.QUESTION_BANK = [
       "4. государством"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 38
   },
   {
@@ -426,6 +464,7 @@ window.QUESTION_BANK = [
       "уходу за детьми и престарелыми в форме лечебных процедур"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 39
   },
   {
@@ -437,6 +476,7 @@ window.QUESTION_BANK = [
       "предмет труда"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 40
   },
   {
@@ -448,6 +488,7 @@ window.QUESTION_BANK = [
       "оборотным фондам и фондам обращения"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 41
   },
   {
@@ -459,6 +500,7 @@ window.QUESTION_BANK = [
       "горюче-смазочными материалами."
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 42
   },
   {
@@ -470,6 +512,7 @@ window.QUESTION_BANK = [
       "4. предельные издержки равны предельному доходу."
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 43
   },
   {
@@ -481,6 +524,7 @@ window.QUESTION_BANK = [
       "lymphoma"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 44
   },
   {
@@ -492,6 +536,7 @@ window.QUESTION_BANK = [
       "gastroenterologia"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 45
   },
   {
@@ -503,6 +548,7 @@ window.QUESTION_BANK = [
       "endocervicalis, e"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 46
   },
   {
@@ -514,6 +560,7 @@ window.QUESTION_BANK = [
       "…stomia"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 47
   },
   {
@@ -525,6 +572,7 @@ window.QUESTION_BANK = [
       "arthritis"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 48
   },
   {
@@ -536,6 +584,7 @@ window.QUESTION_BANK = [
       "colotomia"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 49
   },
   {
@@ -547,6 +596,7 @@ window.QUESTION_BANK = [
       "…lysis"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 50
   },
   {
@@ -558,6 +608,7 @@ window.QUESTION_BANK = [
       "nephroptosis"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 51
   },
   {
@@ -569,6 +620,7 @@ window.QUESTION_BANK = [
       "cephalometria"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 52
   },
   {
@@ -580,6 +632,7 @@ window.QUESTION_BANK = [
       "extraperitonealis, e"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 53
   },
   {
@@ -591,6 +644,7 @@ window.QUESTION_BANK = [
       "…ectomia"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 54
   },
   {
@@ -602,6 +656,7 @@ window.QUESTION_BANK = [
       "osteopathia"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 55
   },
   {
@@ -613,6 +668,7 @@ window.QUESTION_BANK = [
       "myocardiopathia"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 56
   },
   {
@@ -624,6 +680,7 @@ window.QUESTION_BANK = [
       "acholia"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 57
   },
   {
@@ -635,6 +692,7 @@ window.QUESTION_BANK = [
       "4. Субъект"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 58
   },
   {
@@ -646,6 +704,7 @@ window.QUESTION_BANK = [
       "4. Неорганизованностью"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 59
   },
   {
@@ -657,6 +716,7 @@ window.QUESTION_BANK = [
       "4. Наличие предрассудков"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 60
   },
   {
@@ -668,6 +728,7 @@ window.QUESTION_BANK = [
       "4. Коммуникативное взаимодействие"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 61
   },
   {
@@ -679,6 +740,7 @@ window.QUESTION_BANK = [
       "4. Мировоззренческий конфликт"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 62
   },
   {
@@ -690,6 +752,7 @@ window.QUESTION_BANK = [
       "4. Принуждение"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 63
   },
   {
@@ -701,6 +764,7 @@ window.QUESTION_BANK = [
       "4. Консенсусе"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 64
   },
   {
@@ -712,6 +776,7 @@ window.QUESTION_BANK = [
       "4. Это коммуникация, т.е. обмен мнениями, переживаниями, настроениями, желаниями;"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 65
   },
   {
@@ -723,6 +788,7 @@ window.QUESTION_BANK = [
       "4.Ориентационная функция"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 66
   },
   {
@@ -734,6 +800,7 @@ window.QUESTION_BANK = [
       "4. Знаками"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 67
   },
   {
@@ -745,6 +812,7 @@ window.QUESTION_BANK = [
       "интегралом функции"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 68
   },
   {
@@ -756,6 +824,7 @@ window.QUESTION_BANK = [
       "аргумент и неизвестную функцию"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 69
   },
   {
@@ -767,6 +836,7 @@ window.QUESTION_BANK = [
       "волна повышенного давления, распространяющаяся по аорте и артериям"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 70
   },
   {
@@ -778,6 +848,7 @@ window.QUESTION_BANK = [
       "В, Г"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 71
   },
   {
@@ -789,6 +860,7 @@ window.QUESTION_BANK = [
       "Б, Г"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 72
   },
   {
@@ -800,6 +872,7 @@ window.QUESTION_BANK = [
       "вариационным рядом"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 73
   },
   {
@@ -811,6 +884,7 @@ window.QUESTION_BANK = [
       "33"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 74
   },
   {
@@ -821,6 +895,7 @@ window.QUESTION_BANK = [
       "2"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 75
   },
   {
@@ -832,6 +907,7 @@ window.QUESTION_BANK = [
       "интервал, в котором находится неизвестный параметр с вероятностью равной 1"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 76
   },
   {
@@ -843,6 +919,7 @@ window.QUESTION_BANK = [
       "4. моль вещества содержится в 1 л раствора."
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 77
   },
   {
@@ -854,6 +931,7 @@ window.QUESTION_BANK = [
       "4. в 8 раз."
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 78
   },
   {
@@ -865,6 +943,7 @@ window.QUESTION_BANK = [
       "4. +6."
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 79
   },
   {
@@ -876,6 +955,7 @@ window.QUESTION_BANK = [
       "4. радикалом."
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 80
   },
   {
@@ -887,6 +967,7 @@ window.QUESTION_BANK = [
       "4. 16."
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 81
   },
   {
@@ -898,6 +979,7 @@ window.QUESTION_BANK = [
       "4. отрицательный десятичный логарифм активной концентрации ионов водорода."
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 82
   },
   {
@@ -909,6 +991,7 @@ window.QUESTION_BANK = [
       "4. ультрамикроэлементам."
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 83
   },
   {
@@ -920,6 +1003,7 @@ window.QUESTION_BANK = [
       "4. 6, +2."
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 84
   },
   {
@@ -931,6 +1015,7 @@ window.QUESTION_BANK = [
       "4. так как щелочи вызывают коагуляционный некроз, задерживающий химическое вещество на поверхности."
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 85
   },
   {
@@ -942,6 +1027,7 @@ window.QUESTION_BANK = [
       "4. гемолизу вследствие эндосмоса."
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 86
   },
   {
@@ -953,6 +1039,7 @@ window.QUESTION_BANK = [
       "4. коагуляцией."
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 87
   },
   {
@@ -964,6 +1051,7 @@ window.QUESTION_BANK = [
       "4. проникает в костную ткань."
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 88
   },
   {
@@ -975,6 +1063,7 @@ window.QUESTION_BANK = [
       "4. разрушают буферные системы в организме."
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 89
   },
   {
@@ -986,6 +1075,7 @@ window.QUESTION_BANK = [
       "4. уменьшается, чтобы осмотическое давление во внутриклеточном пространстве уменьшилось."
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 90
   },
   {
@@ -997,6 +1087,7 @@ window.QUESTION_BANK = [
       "4. метаболический ацидоз."
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 91
   },
   {
@@ -1008,6 +1099,7 @@ window.QUESTION_BANK = [
       "4. пены."
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 92
   },
   {
@@ -1019,6 +1111,7 @@ window.QUESTION_BANK = [
       "4. закон Вант-Гоффа."
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 93
   },
   {
@@ -1030,6 +1123,7 @@ window.QUESTION_BANK = [
       "4. энергию Гиббса, энергию активации реакции."
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 94
   },
   {
@@ -1041,6 +1135,7 @@ window.QUESTION_BANK = [
       "4. стадия, не влияющая на скорость химической реакции."
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 95
   },
   {
@@ -1052,6 +1147,7 @@ window.QUESTION_BANK = [
       "4. K2SO4."
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 96
   },
   {
@@ -1063,6 +1159,7 @@ window.QUESTION_BANK = [
       "4. подагра."
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 97
   },
   {
@@ -1074,6 +1171,7 @@ window.QUESTION_BANK = [
       "4. мицеллой."
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 98
   },
   {
@@ -1085,6 +1183,7 @@ window.QUESTION_BANK = [
       "4. существуют в виде незаряженных молекул."
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 99
   },
   {
@@ -1096,6 +1195,7 @@ window.QUESTION_BANK = [
       "4. коллоидная защита."
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 100
   },
   {
@@ -1107,6 +1207,7 @@ window.QUESTION_BANK = [
       "4. потенциала электрода сравнения в анализируемом растворе."
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 101
   },
   {
@@ -1118,6 +1219,7 @@ window.QUESTION_BANK = [
       "4. гемоглобиновая."
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 102
   },
   {
@@ -1129,6 +1231,7 @@ window.QUESTION_BANK = [
       "4. потенциала электрода сравнения в анализируемом растворе."
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 103
   },
   {
@@ -1140,6 +1243,7 @@ window.QUESTION_BANK = [
       "4. направленный самопроизвольный переход молекул растворённого вещества через полупроницаемую мембрану из раствора с большей концентрацией в раствор с меньшей концентрацией."
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 104
   },
   {
@@ -1151,6 +1255,7 @@ window.QUESTION_BANK = [
       "4. измерении вязкости растворов ВМС."
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 105
   },
   {
@@ -1162,6 +1267,7 @@ window.QUESTION_BANK = [
       "4. воды относительно дисперсной фазы."
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 106
   },
   {
@@ -1173,6 +1279,7 @@ window.QUESTION_BANK = [
       "4. гранул мицелл и противоионов с гидратными оболочками навстречу друг другу."
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 107
   },
   {
@@ -1184,6 +1291,7 @@ window.QUESTION_BANK = [
       "4. задерживать молекулы воды и свободно пропускать ионы."
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 108
   },
   {
@@ -1195,6 +1303,7 @@ window.QUESTION_BANK = [
       "4. агрегативной устойчивости в условиях in vivo."
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 109
   },
   {
@@ -1206,6 +1315,7 @@ window.QUESTION_BANK = [
       "4. тиксотропия. Ключи"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 110
   },
   {
@@ -1217,6 +1327,7 @@ window.QUESTION_BANK = [
       "4. 4."
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 111
   },
   {
@@ -1228,6 +1339,7 @@ window.QUESTION_BANK = [
       "4. виннокаменная – мезовинная кислоты."
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 112
   },
   {
@@ -1239,6 +1351,7 @@ window.QUESTION_BANK = [
       "совокупность химических процессов, протекающих в желудочно – кишечном тракте"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 113
   },
   {
@@ -1250,6 +1363,7 @@ window.QUESTION_BANK = [
       "совокупность экспрессированных белков в организме."
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 114
   },
   {
@@ -1261,6 +1375,7 @@ window.QUESTION_BANK = [
       "4.химическая биохимия"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 115
   },
   {
@@ -1272,6 +1387,7 @@ window.QUESTION_BANK = [
       "для получения информации об изменениях метаболизма, связанных с внешними факторами окружающей среды, патологическими процессами и негенетическими изменениями"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 116
   },
   {
@@ -1283,6 +1399,7 @@ window.QUESTION_BANK = [
       "нуклеиновые кислоты"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 117
   },
   {
@@ -1294,6 +1411,7 @@ window.QUESTION_BANK = [
       "структура полипептидной цепи, стабилизированная водородными связями"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 118
   },
   {
@@ -1305,6 +1423,7 @@ window.QUESTION_BANK = [
       "синтез глюкозы их высших жирных кислот"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 119
   },
   {
@@ -1316,6 +1435,7 @@ window.QUESTION_BANK = [
       "коллагены"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 120
   },
   {
@@ -1327,6 +1447,7 @@ window.QUESTION_BANK = [
       "4. во внутренней мембране митохондрий"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 121
   },
   {
@@ -1338,6 +1459,7 @@ window.QUESTION_BANK = [
       "рецептор инсулина"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 122
   },
   {
@@ -1349,6 +1471,7 @@ window.QUESTION_BANK = [
       "в образовании галактозы при переваривании"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 123
   },
   {
@@ -1360,6 +1483,7 @@ window.QUESTION_BANK = [
       "жирных кислот"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 124
   },
   {
@@ -1371,6 +1495,7 @@ window.QUESTION_BANK = [
       "Цитохромоксидаза"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 125
   },
   {
@@ -1382,6 +1507,7 @@ window.QUESTION_BANK = [
       "потребление углекислого газа"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 126
   },
   {
@@ -1393,6 +1519,7 @@ window.QUESTION_BANK = [
       "понижает концентрацию глюкозы и повышает количество СЖК"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 127
   },
   {
@@ -1404,6 +1531,7 @@ window.QUESTION_BANK = [
       "разветвленный"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 128
   },
   {
@@ -1415,6 +1543,7 @@ window.QUESTION_BANK = [
       "ацетил-КоА образуется в основном из пирувата (глюкозы)"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 129
   },
   {
@@ -1426,6 +1555,7 @@ window.QUESTION_BANK = [
       "усиленный диурез"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 130
   },
   {
@@ -1437,6 +1567,7 @@ window.QUESTION_BANK = [
       "120 – 140 г/л"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 131
   },
   {
@@ -1448,6 +1579,7 @@ window.QUESTION_BANK = [
       "протеинурия"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 132
   },
   {
@@ -1459,6 +1591,7 @@ window.QUESTION_BANK = [
       "4. серная кислота"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 133
   },
   {
@@ -1470,6 +1603,7 @@ window.QUESTION_BANK = [
       "определяют массу пробирок"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 134
   },
   {
@@ -1481,6 +1615,7 @@ window.QUESTION_BANK = [
       "определение ключевых свойств и структуры фермента"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 135
   },
   {
@@ -1492,6 +1627,7 @@ window.QUESTION_BANK = [
       "рибосомы"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 136
   },
   {
@@ -1503,6 +1639,7 @@ window.QUESTION_BANK = [
       "аспартатаминотрансфераза"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 137
   },
   {
@@ -1514,6 +1651,7 @@ window.QUESTION_BANK = [
       "ксантиноксидаза"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 138
   },
   {
@@ -1525,6 +1663,7 @@ window.QUESTION_BANK = [
       "гамма-глутамилтрансферазы"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 139
   },
   {
@@ -1536,6 +1675,7 @@ window.QUESTION_BANK = [
       "моноаминоксидазу, ксантиноксидазу"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 140
   },
   {
@@ -1547,6 +1687,7 @@ window.QUESTION_BANK = [
       "моноаминоксидаза"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 141
   },
   {
@@ -1558,6 +1699,7 @@ window.QUESTION_BANK = [
       "глутаматдегидрогеназа"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 142
   },
   {
@@ -1569,6 +1711,7 @@ window.QUESTION_BANK = [
       "ацил-КоА – транслоказа"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 143
   },
   {
@@ -1580,6 +1723,7 @@ window.QUESTION_BANK = [
       "образование токсичных метаболитов"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 144
   },
   {
@@ -1591,6 +1735,7 @@ window.QUESTION_BANK = [
       "4. Профаза митофаза"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 145
   },
   {
@@ -1602,6 +1747,7 @@ window.QUESTION_BANK = [
       "4.Расхождение центриолей клеточного центра к полюсам"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 146
   },
   {
@@ -1613,6 +1759,7 @@ window.QUESTION_BANK = [
       "4. Эндомитоза"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 147
   },
   {
@@ -1624,6 +1771,7 @@ window.QUESTION_BANK = [
       "4. Отрезок ДНК, расположенный в межнуклеосомном пространстве"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 148
   },
   {
@@ -1635,6 +1783,7 @@ window.QUESTION_BANK = [
       "4. Расхождением гомологических хромосом к полюсам"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 149
   },
   {
@@ -1646,6 +1795,7 @@ window.QUESTION_BANK = [
       "4. В период формирования"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 150
   },
   {
@@ -1657,6 +1807,7 @@ window.QUESTION_BANK = [
       "4. Адаптивностью"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 151
   },
   {
@@ -1668,6 +1819,7 @@ window.QUESTION_BANK = [
       "4. Качественные, прерывистые, устойчивые изменения в генотипе, передающие потомству"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 152
   },
   {
@@ -1679,6 +1831,7 @@ window.QUESTION_BANK = [
       "4. Потеря двух и более генов"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 153
   },
   {
@@ -1690,6 +1843,7 @@ window.QUESTION_BANK = [
       "4. IOIO"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 154
   },
   {
@@ -1701,6 +1855,7 @@ window.QUESTION_BANK = [
       "4. Частичная моносомия"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 155
   },
   {
@@ -1712,6 +1867,7 @@ window.QUESTION_BANK = [
       "4. Посттрансляционный процесс"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 156
   },
   {
@@ -1723,6 +1879,7 @@ window.QUESTION_BANK = [
       "4. В связи с ухудшением условий жизни и загрязнением атмосферы"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 157
   },
   {
@@ -1734,6 +1891,7 @@ window.QUESTION_BANK = [
       "4. Кожный лейшманиоз"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 158
   },
   {
@@ -1745,6 +1903,7 @@ window.QUESTION_BANK = [
       "4. В клетках костного мозга, взятого из грудины"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 159
   },
   {
@@ -1756,6 +1915,7 @@ window.QUESTION_BANK = [
       "4. Путем активного внедрения церкариев через кожу"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 160
   },
   {
@@ -1767,6 +1927,7 @@ window.QUESTION_BANK = [
       "4.Мирацидий"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 161
   },
   {
@@ -1778,6 +1939,7 @@ window.QUESTION_BANK = [
       "4. Карповые рыбы"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 162
   },
   {
@@ -1789,6 +1951,7 @@ window.QUESTION_BANK = [
       "4. При активном внедрении личинок через кожу"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 163
   },
   {
@@ -1800,6 +1963,7 @@ window.QUESTION_BANK = [
       "4. В половых путях"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 164
   },
   {
@@ -1811,6 +1975,7 @@ window.QUESTION_BANK = [
       "4 межбугорковая борозда."
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 165
   },
   {
@@ -1822,6 +1987,7 @@ window.QUESTION_BANK = [
       "4.на подвздошной кости"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 166
   },
   {
@@ -1833,6 +1999,7 @@ window.QUESTION_BANK = [
       "4. малое крыло клиновидной кости."
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 167
   },
   {
@@ -1844,6 +2011,7 @@ window.QUESTION_BANK = [
       "4. выйная связка."
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 168
   },
   {
@@ -1855,6 +2023,7 @@ window.QUESTION_BANK = [
       "4. плоский."
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 169
   },
   {
@@ -1866,6 +2035,7 @@ window.QUESTION_BANK = [
       "4. грудине."
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 170
   },
   {
@@ -1877,6 +2047,7 @@ window.QUESTION_BANK = [
       "4.шило-подъязычная мышца."
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 171
   },
   {
@@ -1888,6 +2059,7 @@ window.QUESTION_BANK = [
       "4. верхнего края 6-го грудного позвонка"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 172
   },
   {
@@ -1899,6 +2071,7 @@ window.QUESTION_BANK = [
       "4. мочевом пузыре."
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 173
   },
   {
@@ -1910,6 +2083,7 @@ window.QUESTION_BANK = [
       "4. бульбоуретральных железах."
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 174
   },
   {
@@ -1921,6 +2095,7 @@ window.QUESTION_BANK = [
       "4. 4-го поясничного позвонка."
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 175
   },
   {
@@ -1932,6 +2107,7 @@ window.QUESTION_BANK = [
       "4. сосцевидные тела."
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 176
   },
   {
@@ -1943,6 +2119,7 @@ window.QUESTION_BANK = [
       "4. аортой."
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 177
   },
   {
@@ -1954,6 +2131,7 @@ window.QUESTION_BANK = [
       "4. правый желудочек."
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 178
   },
   {
@@ -1965,6 +2143,7 @@ window.QUESTION_BANK = [
       "4. желудочную вену."
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 179
   },
   {
@@ -1976,6 +2155,7 @@ window.QUESTION_BANK = [
       "4. правый поясничный ствол."
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 180
   },
   {
@@ -1987,6 +2167,7 @@ window.QUESTION_BANK = [
       "4. локтевой нерв."
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 181
   },
   {
@@ -1998,6 +2179,7 @@ window.QUESTION_BANK = [
       "4. трофическая"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 182
   },
   {
@@ -2009,6 +2191,7 @@ window.QUESTION_BANK = [
       "4. пищевод"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 183
   },
   {
@@ -2020,6 +2203,7 @@ window.QUESTION_BANK = [
       "4. сердечная мышечная ткань"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 184
   },
   {
@@ -2031,6 +2215,7 @@ window.QUESTION_BANK = [
       "4. фибриноген"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 185
   },
   {
@@ -2042,6 +2227,7 @@ window.QUESTION_BANK = [
       "4. макрофаги"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 186
   },
   {
@@ -2053,6 +2239,7 @@ window.QUESTION_BANK = [
       "4. среди клеточных элементов преобладают остеобласты"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 187
   },
   {
@@ -2064,6 +2251,7 @@ window.QUESTION_BANK = [
       "4. состоит из мышечных волокон с центрально расположенными ядрами"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 188
   },
   {
@@ -2075,6 +2263,7 @@ window.QUESTION_BANK = [
       "4. коже"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 189
   },
   {
@@ -2086,6 +2275,7 @@ window.QUESTION_BANK = [
       "4. унипотентных"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 190
   },
   {
@@ -2097,6 +2287,7 @@ window.QUESTION_BANK = [
       "4. мышечной основой языка"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 191
   },
   {
@@ -2108,6 +2299,7 @@ window.QUESTION_BANK = [
       "4. мышечной оболочке"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 192
   },
   {
@@ -2119,6 +2311,7 @@ window.QUESTION_BANK = [
       "4. обеспечивают пристеночное пищеварение"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 193
   },
   {
@@ -2130,6 +2323,7 @@ window.QUESTION_BANK = [
       "4. клетки Панета"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 194
   },
   {
@@ -2141,6 +2335,7 @@ window.QUESTION_BANK = [
       "4. синтез альбуминов"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 195
   },
   {
@@ -2152,6 +2347,7 @@ window.QUESTION_BANK = [
       "4. ямочные клетки (Рit-клетки)"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 196
   },
   {
@@ -2163,6 +2359,7 @@ window.QUESTION_BANK = [
       "4. органоидный"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 197
   },
   {
@@ -2174,6 +2371,7 @@ window.QUESTION_BANK = [
       "4. панкреатический полипептид"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 198
   },
   {
@@ -2185,6 +2383,7 @@ window.QUESTION_BANK = [
       "4. В-клетки"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 199
   },
   {
@@ -2196,6 +2395,7 @@ window.QUESTION_BANK = [
       "4. примордиальный фолликул"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 200
   },
   {
@@ -2207,6 +2407,7 @@ window.QUESTION_BANK = [
       "4. наличие сегментированного ядра"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 201
   },
   {
@@ -2218,6 +2419,7 @@ window.QUESTION_BANK = [
       "- принцип социальной справедливости."
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 202
   },
   {
@@ -2229,6 +2431,7 @@ window.QUESTION_BANK = [
       "- область культуры,связанная с оценкой физической подготовленности и уровня развития двигательных качеств отдельных категорий населения в ходе спортивных соревнований."
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 203
   },
   {
@@ -2240,6 +2443,7 @@ window.QUESTION_BANK = [
       "- физические упражнения."
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 204
   },
   {
@@ -2251,6 +2455,7 @@ window.QUESTION_BANK = [
       "- принцип постоянного варьирования состава применяемых физических упражнений."
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 205
   },
   {
@@ -2262,6 +2467,7 @@ window.QUESTION_BANK = [
       "- силовые, скоростные, гибкость, ловкость и выносливость."
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 206
   },
   {
@@ -2273,6 +2479,7 @@ window.QUESTION_BANK = [
       "- общая выносливость."
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 207
   },
   {
@@ -2284,6 +2491,7 @@ window.QUESTION_BANK = [
       "- длительные циклические локомоции."
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 208
   },
   {
@@ -2295,6 +2503,7 @@ window.QUESTION_BANK = [
       "- общей и специальной выносливости."
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 209
   },
   {
@@ -2306,6 +2515,7 @@ window.QUESTION_BANK = [
       "- сложнокоординационные упражнения, подвижные и спортивные игры."
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 210
   },
   {
@@ -2317,6 +2527,7 @@ window.QUESTION_BANK = [
       "- силовые упражнения и упражнения на развитие быстроты."
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 211
   },
   {
@@ -2328,6 +2539,7 @@ window.QUESTION_BANK = [
       "- для закрепления и совершенствования двигательных навыков."
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 212
   },
   {
@@ -2339,6 +2551,7 @@ window.QUESTION_BANK = [
       "- свыше 170 ударов в минуту."
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 213
   },
   {
@@ -2350,6 +2563,7 @@ window.QUESTION_BANK = [
       "- ежедневно."
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 214
   },
   {
@@ -2361,6 +2575,7 @@ window.QUESTION_BANK = [
       "- циклические локомоции."
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 215
   },
   {
@@ -2372,6 +2587,7 @@ window.QUESTION_BANK = [
       "- обеспечить регуляцию эмоционального состояния и профилактику утомления организма."
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 216
   },
   {
@@ -2383,6 +2599,7 @@ window.QUESTION_BANK = [
       "- с улучшением координации движений и совершенствованием двигательных способностей."
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 217
   },
   {
@@ -2394,6 +2611,7 @@ window.QUESTION_BANK = [
       "-истощение запасов гликогена в рабочих мышцах."
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 218
   },
   {
@@ -2405,6 +2623,7 @@ window.QUESTION_BANK = [
       "-истощение запасов гликогена в рабочих мышцах."
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 219
   },
   {
@@ -2416,6 +2635,7 @@ window.QUESTION_BANK = [
       "-истощение запасов гликогена в рабочих мышцах."
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 220
   },
   {
@@ -2427,6 +2647,7 @@ window.QUESTION_BANK = [
       "-истощение запасов гликогена в рабочих мышцах."
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 221
   },
   {
@@ -2438,6 +2659,7 @@ window.QUESTION_BANK = [
       "4. анализом"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 222
   },
   {
@@ -2449,6 +2671,7 @@ window.QUESTION_BANK = [
       "4. гедонизм"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 223
   },
   {
@@ -2460,6 +2683,7 @@ window.QUESTION_BANK = [
       "4. модусом"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 224
   },
   {
@@ -2471,6 +2695,7 @@ window.QUESTION_BANK = [
       "4. закон отрицания отрицания"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 225
   },
   {
@@ -2482,6 +2707,7 @@ window.QUESTION_BANK = [
       "4. объективностью, верифицируемостью, эклектичностью"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 226
   },
   {
@@ -2493,6 +2719,7 @@ window.QUESTION_BANK = [
       "наука о формах, приемах и законах мышления"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 227
   },
   {
@@ -2504,6 +2731,7 @@ window.QUESTION_BANK = [
       "4. самосознанием"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 228
   },
   {
@@ -2515,6 +2743,7 @@ window.QUESTION_BANK = [
       "4. трансцендентальными"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 229
   },
   {
@@ -2526,6 +2755,7 @@ window.QUESTION_BANK = [
       "4. интенционального"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 230
   },
   {
@@ -2537,6 +2767,7 @@ window.QUESTION_BANK = [
       "4. базисные документы органов здравоохранения"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 231
   },
   {
@@ -2548,6 +2779,7 @@ window.QUESTION_BANK = [
       "4. правом"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 232
   },
   {
@@ -2559,6 +2791,7 @@ window.QUESTION_BANK = [
       "4. 114"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 233
   },
   {
@@ -2570,6 +2803,7 @@ window.QUESTION_BANK = [
       "4. только юридическими обязанностями"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 234
   },
   {
@@ -2581,6 +2815,7 @@ window.QUESTION_BANK = [
       "4. за 2 недели"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 235
   },
   {
@@ -2592,6 +2827,7 @@ window.QUESTION_BANK = [
       "4. круг общественных отношений, связанный с основами конституционного строя РФ"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 236
   },
   {
@@ -2603,6 +2839,7 @@ window.QUESTION_BANK = [
       "4. осознавало общественную опасность своих действий (бездействий), но не предвидело возможность их наступления"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 237
   },
   {
@@ -2614,6 +2851,7 @@ window.QUESTION_BANK = [
       "4. гражданско-процессуальный кодекс"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 238
   },
   {
@@ -2625,6 +2863,7 @@ window.QUESTION_BANK = [
       "4. 16 лет"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 239
   },
   {
@@ -2636,6 +2875,7 @@ window.QUESTION_BANK = [
       "4. главный врач"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 240
   },
   {
@@ -2647,6 +2887,7 @@ window.QUESTION_BANK = [
       "4. если не разделяет религиозных убеждений пациента"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 241
   },
   {
@@ -2658,6 +2899,7 @@ window.QUESTION_BANK = [
       "4. при проведении научных исследований"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 242
   },
   {
@@ -2669,6 +2911,7 @@ window.QUESTION_BANK = [
       "4. диплом кандидата медицинских наук"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 243
   },
   {
@@ -2680,6 +2923,7 @@ window.QUESTION_BANK = [
       "4. обычай"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 244
   },
   {
@@ -2691,6 +2935,7 @@ window.QUESTION_BANK = [
       "4. медицинских традициях"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 245
   },
   {
@@ -2702,6 +2947,7 @@ window.QUESTION_BANK = [
       "4. не могут быть выше интересов отдельных граждан"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 246
   },
   {
@@ -2713,6 +2959,7 @@ window.QUESTION_BANK = [
       "4. наука, изучающая криминалистические аспекты преступления"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 247
   },
   {
@@ -2724,6 +2971,7 @@ window.QUESTION_BANK = [
       "4. проступком"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 248
   },
   {
@@ -2735,6 +2983,7 @@ window.QUESTION_BANK = [
       "4. деспособностью"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 249
   },
   {
@@ -2746,6 +2995,7 @@ window.QUESTION_BANK = [
       "4. несчастный случай"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 250
   },
   {
@@ -2757,6 +3007,7 @@ window.QUESTION_BANK = [
       "4. врачебной ошибкой"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 251
   },
   {
@@ -2768,6 +3019,7 @@ window.QUESTION_BANK = [
       "4. увольнение"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 252
   },
   {
@@ -2779,6 +3031,7 @@ window.QUESTION_BANK = [
       "4. 36 рабочих дней"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 253
   },
   {
@@ -2790,6 +3043,7 @@ window.QUESTION_BANK = [
       "4. по договоренностисупругов"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 254
   },
   {
@@ -2801,6 +3055,7 @@ window.QUESTION_BANK = [
       "4. маршрутизатором"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 255
   },
   {
@@ -2812,6 +3067,7 @@ window.QUESTION_BANK = [
       "4. утилита"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 256
   },
   {
@@ -2823,6 +3079,7 @@ window.QUESTION_BANK = [
       "4. служебные программы"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 257
   },
   {
@@ -2834,6 +3091,7 @@ window.QUESTION_BANK = [
       "4. информационную систему"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 258
   },
   {
@@ -2845,6 +3103,7 @@ window.QUESTION_BANK = [
       "4. автоматизация всего технологического процесса врача соответствующей специальности"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 259
   },
   {
@@ -2856,6 +3115,7 @@ window.QUESTION_BANK = [
       "4. хранение информации"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 260
   },
   {
@@ -2867,6 +3127,7 @@ window.QUESTION_BANK = [
       "4. экспертные системы"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 261
   },
   {
@@ -2878,6 +3139,7 @@ window.QUESTION_BANK = [
       "4. ввод текста"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 262
   },
   {
@@ -2889,6 +3151,7 @@ window.QUESTION_BANK = [
       "4. хранение и обработка числовой информации"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 263
   },
   {
@@ -2900,6 +3163,7 @@ window.QUESTION_BANK = [
       "4. адрес ячейки, используемой в формуле, имеет некорректный тип данных."
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 264
   },
   {
@@ -2911,6 +3175,7 @@ window.QUESTION_BANK = [
       "4. Сверху – processus coracoideus, снаружи – m. pectoralis minor, снутри – m. deltoideus"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 265
   },
   {
@@ -2922,6 +3187,7 @@ window.QUESTION_BANK = [
       "4. V. basilica и v. cephalica"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 266
   },
   {
@@ -2933,6 +3199,7 @@ window.QUESTION_BANK = [
       "4. Такой зоны на кисти нет"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 267
   },
   {
@@ -2944,6 +3211,7 @@ window.QUESTION_BANK = [
       "4. Может образоваться затек кпереди между m. vastus medialis и бедренной костью"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 268
   },
   {
@@ -2955,6 +3223,7 @@ window.QUESTION_BANK = [
       "4. Длинного сгибателя пальцев"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 269
   },
   {
@@ -2966,6 +3235,7 @@ window.QUESTION_BANK = [
       "4.Направление кожного разреза проводят п- образно, выбирают, ориентируясь на естественные складки кожи. Раздвигая края раны кровоостанавливающим зажимом, вскрывают гнойный очаг, эвакуируют гной"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 270
   },
   {
@@ -2977,6 +3247,7 @@ window.QUESTION_BANK = [
       "4. Твердая"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 271
   },
   {
@@ -2988,6 +3259,7 @@ window.QUESTION_BANK = [
       "4.4"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 272
   },
   {
@@ -2999,6 +3271,7 @@ window.QUESTION_BANK = [
       "4.Пирогов и Кохер"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 273
   },
   {
@@ -3010,6 +3283,7 @@ window.QUESTION_BANK = [
       "4.Треугольнике Шипо"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 274
   },
   {
@@ -3021,6 +3295,7 @@ window.QUESTION_BANK = [
       "4. Изолированный"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 275
   },
   {
@@ -3032,6 +3307,7 @@ window.QUESTION_BANK = [
       "4. Терминальная линия"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 276
   },
   {
@@ -3043,6 +3319,7 @@ window.QUESTION_BANK = [
       "4. Томпсонова пластинка"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 277
   },
   {
@@ -3054,6 +3331,7 @@ window.QUESTION_BANK = [
       "4.Дежардена"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 278
   },
   {
@@ -3065,6 +3343,7 @@ window.QUESTION_BANK = [
       "4.Малым сальником"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 279
   },
   {
@@ -3076,6 +3355,7 @@ window.QUESTION_BANK = [
       "4.Лебедева"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 280
   },
   {
@@ -3087,6 +3367,7 @@ window.QUESTION_BANK = [
       "4. Подвздошноободочная артерия"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 281
   },
   {
@@ -3098,6 +3379,7 @@ window.QUESTION_BANK = [
       "4.Бойдена"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 282
   },
   {
@@ -3109,6 +3391,7 @@ window.QUESTION_BANK = [
       "4. А. hepaticacommunis"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 283
   },
   {
@@ -3120,6 +3403,7 @@ window.QUESTION_BANK = [
       "4.На животе"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 284
   },
   {
@@ -3131,6 +3415,7 @@ window.QUESTION_BANK = [
       "4) моторная"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 285
   },
   {
@@ -3142,6 +3427,7 @@ window.QUESTION_BANK = [
       "4) баллистокардиография"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 286
   },
   {
@@ -3153,6 +3439,7 @@ window.QUESTION_BANK = [
       "4) 5,0±0,5 × 1012"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 287
   },
   {
@@ -3164,6 +3451,7 @@ window.QUESTION_BANK = [
       "4) 8-12 × 109"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 288
   },
   {
@@ -3175,6 +3463,7 @@ window.QUESTION_BANK = [
       "4) перенос кислорода"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 289
   },
   {
@@ -3186,6 +3475,7 @@ window.QUESTION_BANK = [
       "4) гипоталамо-гипофизарно-тиреоидная система"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 290
   },
   {
@@ -3197,6 +3487,7 @@ window.QUESTION_BANK = [
       "4) уменьшение выброса в кровь жирных кислот"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 291
   },
   {
@@ -3208,6 +3499,7 @@ window.QUESTION_BANK = [
       "4) нарушение центрального зрения"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 292
   },
   {
@@ -3220,6 +3512,7 @@ window.QUESTION_BANK = [
       "4) оценку речевых функций"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 293
   },
   {
@@ -3231,6 +3524,7 @@ window.QUESTION_BANK = [
       "4) полная утрата чувствительности и движений"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 294
   },
   {
@@ -3242,6 +3536,7 @@ window.QUESTION_BANK = [
       "4) перераспределительный лейкоцитоз"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 295
   },
   {
@@ -3253,6 +3548,7 @@ window.QUESTION_BANK = [
       "4) трансферрина"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 296
   },
   {
@@ -3265,6 +3561,7 @@ window.QUESTION_BANK = [
       "4) эпифиз"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 297
   },
   {
@@ -3276,6 +3573,7 @@ window.QUESTION_BANK = [
       "4) тиреотропного гормона"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 298
   },
   {
@@ -3287,6 +3585,7 @@ window.QUESTION_BANK = [
       "4) в 2 раза меньше, чем минутный объем левого"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 299
   },
   {
@@ -3299,6 +3598,7 @@ window.QUESTION_BANK = [
       "4) уширение зубца Р"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 300
   },
   {
@@ -3310,6 +3610,7 @@ window.QUESTION_BANK = [
       "4) релаксации напряжения сосудистой стенки"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 301
   },
   {
@@ -3321,6 +3622,7 @@ window.QUESTION_BANK = [
       "4) изменение концентрации катехоламинов в крови"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 302
   },
   {
@@ -3332,6 +3634,7 @@ window.QUESTION_BANK = [
       "4) физиологическую теплоту сгорания белков, жиров и углеводов"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 303
   },
   {
@@ -3343,6 +3646,7 @@ window.QUESTION_BANK = [
       "4) дистальный каналец"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 304
   },
   {
@@ -3354,6 +3658,7 @@ window.QUESTION_BANK = [
       "4) Вакцина Энджерикс В"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 305
   },
   {
@@ -3365,6 +3670,7 @@ window.QUESTION_BANK = [
       "4) Сыворотка туляремийная агглютинирующая"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 306
   },
   {
@@ -3376,6 +3682,7 @@ window.QUESTION_BANK = [
       "4) Сыворотка бруцеллёзная поливалентная агглютинирующая"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 307
   },
   {
@@ -3387,6 +3694,7 @@ window.QUESTION_BANK = [
       "Анатоксином"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 308
   },
   {
@@ -3398,6 +3706,7 @@ window.QUESTION_BANK = [
       "Вакцина БЦЖ"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 309
   },
   {
@@ -3409,6 +3718,7 @@ window.QUESTION_BANK = [
       "Не проводится"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 310
   },
   {
@@ -3420,6 +3730,7 @@ window.QUESTION_BANK = [
       "4) Пассивный антибактериальный иммунитет"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 311
   },
   {
@@ -3431,6 +3742,7 @@ window.QUESTION_BANK = [
       "4) Диагностикумы"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 312
   },
   {
@@ -3442,6 +3754,7 @@ window.QUESTION_BANK = [
       "Бактериофаг клебсиеллёзный поливалентный"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 313
   },
   {
@@ -3453,6 +3766,7 @@ window.QUESTION_BANK = [
       "Вакцина БЦЖ"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 314
   },
   {
@@ -3464,6 +3778,7 @@ window.QUESTION_BANK = [
       "Вируса гриппа типа С"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 315
   },
   {
@@ -3475,6 +3790,7 @@ window.QUESTION_BANK = [
       "Введение антибиотиков"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 316
   },
   {
@@ -3486,6 +3802,7 @@ window.QUESTION_BANK = [
       "Бактериофаги"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 317
   },
   {
@@ -3497,6 +3814,7 @@ window.QUESTION_BANK = [
       "Нарушение функционирования цитоплазматической мембраны"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 318
   },
   {
@@ -3508,6 +3826,7 @@ window.QUESTION_BANK = [
       "Адсорбции на эритроцитах I группы крови человека"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 319
   },
   {
@@ -3519,6 +3838,7 @@ window.QUESTION_BANK = [
       "Вибрионы"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 320
   },
   {
@@ -3530,6 +3850,7 @@ window.QUESTION_BANK = [
       "Рекомбинантных"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 321
   },
   {
@@ -3541,6 +3862,7 @@ window.QUESTION_BANK = [
       "Убитые вакцины"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 322
   },
   {
@@ -3552,6 +3874,7 @@ window.QUESTION_BANK = [
       "Ботулизма"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 323
   },
   {
@@ -3563,6 +3886,7 @@ window.QUESTION_BANK = [
       "Вакцина против клещевого энцефалита «Энцепур»"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 324
   },
   {
@@ -3574,6 +3898,7 @@ window.QUESTION_BANK = [
       "4) Капсула"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 325
   },
   {
@@ -3585,6 +3910,7 @@ window.QUESTION_BANK = [
       "Вакцина БЦЖ"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 326
   },
   {
@@ -3596,6 +3922,7 @@ window.QUESTION_BANK = [
       "Дифтерийный анатоксин"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 327
   },
   {
@@ -3607,6 +3934,7 @@ window.QUESTION_BANK = [
       "Нарушение функционирования цитоплазматической мембраны"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 328
   },
   {
@@ -3618,6 +3946,7 @@ window.QUESTION_BANK = [
       "4. Селезенка"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 329
   },
   {
@@ -3629,6 +3958,7 @@ window.QUESTION_BANK = [
       "4. Минимальное разведение сыворотки, дающее агглютинацию"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 330
   },
   {
@@ -3640,6 +3970,7 @@ window.QUESTION_BANK = [
       "4. Адгезия, фагоцитоз, внеклеточный киллинг, внутриклеточный киллинг"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 331
   },
   {
@@ -3651,6 +3982,7 @@ window.QUESTION_BANK = [
       "4. Процессинг и презентация антигена"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 332
   },
   {
@@ -3662,6 +3994,7 @@ window.QUESTION_BANK = [
       "4. Миелопептиды"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 333
   },
   {
@@ -3673,6 +4006,7 @@ window.QUESTION_BANK = [
       "4. В периферических органах иммунной системы"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 334
   },
   {
@@ -3684,6 +4018,7 @@ window.QUESTION_BANK = [
       "4.Поздняя про-В-клетка"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 335
   },
   {
@@ -3695,6 +4030,7 @@ window.QUESTION_BANK = [
       "4. Печень и селезенка"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 336
   },
   {
@@ -3706,6 +4042,7 @@ window.QUESTION_BANK = [
       "4. 50 лет"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 337
   },
   {
@@ -3717,6 +4054,7 @@ window.QUESTION_BANK = [
       "4.Группа лейкоцитов"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 338
   },
   {
@@ -3728,6 +4066,7 @@ window.QUESTION_BANK = [
       "4. Включает накопленные и не закрепленные в ходе эволюции механизмы устойчивости к патогенам, характерные для всего биологического вида"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 339
   },
   {
@@ -3739,6 +4078,7 @@ window.QUESTION_BANK = [
       "4.Синтез гистамина"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 340
   },
   {
@@ -3750,6 +4090,7 @@ window.QUESTION_BANK = [
       "4.Тимоциты"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 341
   },
   {
@@ -3761,6 +4102,7 @@ window.QUESTION_BANK = [
       "4.В тимусе"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 342
   },
   {
@@ -3772,6 +4114,7 @@ window.QUESTION_BANK = [
       "4.Пролиферация клонов лимфоцитов, распознавших антиген"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 343
   },
   {
@@ -3783,6 +4126,7 @@ window.QUESTION_BANK = [
       "4. Восьми полипептидных цепей"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 344
   },
   {
@@ -3794,6 +4138,7 @@ window.QUESTION_BANK = [
       "4.Пре-В-клетки"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 345
   },
   {
@@ -3805,6 +4150,7 @@ window.QUESTION_BANK = [
       "4.Т-клеточный рецептор"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 346
   },
   {
@@ -3816,6 +4162,7 @@ window.QUESTION_BANK = [
       "4.В тимусе"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 347
   },
   {
@@ -3827,6 +4174,7 @@ window.QUESTION_BANK = [
       "4.Активация системы комплемента"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 348
   },
   {
@@ -3838,6 +4186,7 @@ window.QUESTION_BANK = [
       "4. здоровье - это состояние оптимального функционирования организма, позволяющее ему наилучшим образом выполнять свои видоспецифические социальные функции"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 349
   },
   {
@@ -3849,6 +4198,7 @@ window.QUESTION_BANK = [
       "4. правильное экологическое поведение, направленное на сохранение здоровья как условия развития других сторон жизни"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 350
   },
   {
@@ -3860,6 +4210,7 @@ window.QUESTION_BANK = [
       "4. генерализирующим методом ежегодно"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 351
   },
   {
@@ -3871,6 +4222,7 @@ window.QUESTION_BANK = [
       "4. трудовой потенциал населения"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 352
   },
   {
@@ -3882,6 +4234,7 @@ window.QUESTION_BANK = [
       "4. пожилые"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 353
   },
   {
@@ -3893,6 +4246,7 @@ window.QUESTION_BANK = [
       "4.дезинфекционно-стерилизационные мероприятия"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 354
   },
   {
@@ -3904,6 +4258,7 @@ window.QUESTION_BANK = [
       "4. система комплексного мониторинга за динамикой эпидемического процесса инфекций, связанных с оказанием медицинской помощи, факторами и условиями, влияющими на их распространение, анализ и обобщение полученной информации для разработки научно-обоснованной системы мер борьбы и профилактики"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 355
   },
   {
@@ -3915,6 +4270,7 @@ window.QUESTION_BANK = [
       "4. сравнение частоты встречаемости факторов риска у больных и здоровых лиц"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 356
   },
   {
@@ -3926,6 +4282,7 @@ window.QUESTION_BANK = [
       "4. соматическим, отдаленным, генетическим, наследственным"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 357
   },
   {
@@ -3937,6 +4294,7 @@ window.QUESTION_BANK = [
       "4. основные дозовые пределы, допустимые уровни, контрольные уровни и рекомендуемые уровни"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 358
   },
   {
@@ -3948,6 +4306,7 @@ window.QUESTION_BANK = [
       "4. промышленных предприятий"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 359
   },
   {
@@ -3959,6 +4318,7 @@ window.QUESTION_BANK = [
       "4. упаковка из пленочных и полимерных материалов"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 360
   },
   {
@@ -3970,6 +4330,7 @@ window.QUESTION_BANK = [
       "4. для приготовления пищи используется укрытие"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 361
   },
   {
@@ -3981,6 +4342,7 @@ window.QUESTION_BANK = [
       "4. показатели заболеваемости по обращаемости"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 362
   },
   {
@@ -3992,6 +4354,7 @@ window.QUESTION_BANK = [
       "4. конструктивными решениями зданий"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 363
   },
   {
@@ -4003,6 +4366,7 @@ window.QUESTION_BANK = [
       "4. при инфекциях с контактным механизмом передачи"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 364
   },
   {
@@ -4014,6 +4378,7 @@ window.QUESTION_BANK = [
       "4. НРБ 99/2009"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 365
   },
   {
@@ -4025,6 +4390,7 @@ window.QUESTION_BANK = [
       "4. ретроспективная оценка реальных дозовых нагрузок"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 366
   },
   {
@@ -4036,6 +4402,7 @@ window.QUESTION_BANK = [
       "4. для обоснования очередности оздоровления среды обитания"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 367
   },
   {
@@ -4047,6 +4414,7 @@ window.QUESTION_BANK = [
       "4. для предупреждения нарушений здоровья работающих во вредных и особых условиях труда и для повышения общей сопротивляемости организма"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 368
   },
   {
@@ -4058,6 +4426,7 @@ window.QUESTION_BANK = [
       "4. все вновь принимаемые лица на предприятия"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 369
   },
   {
@@ -4069,6 +4438,7 @@ window.QUESTION_BANK = [
       "4. незамедлительно"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 370
   },
   {
@@ -4080,6 +4450,7 @@ window.QUESTION_BANK = [
       "4. результаты аллергических проб"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 371
   },
   {
@@ -4091,6 +4462,7 @@ window.QUESTION_BANK = [
       "4. бюджетный"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 372
   },
   {
@@ -4102,6 +4474,7 @@ window.QUESTION_BANK = [
       "4. для осуществления Роспотребнадзора при разработке схем и проектов генпланов городов, промышленных зон"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 373
   },
   {
@@ -4113,6 +4486,7 @@ window.QUESTION_BANK = [
       "4. здоровье, пол, год рождения, национальность родителей, место жительства"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 374
   },
   {
@@ -4124,6 +4498,7 @@ window.QUESTION_BANK = [
       "4. заочная"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 375
   },
   {
@@ -4135,6 +4510,7 @@ window.QUESTION_BANK = [
       "согреть пораженную часть тела"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 376
   },
   {
@@ -4146,6 +4522,7 @@ window.QUESTION_BANK = [
       "4. наложить шину с внутренней стороны плеча и туго прибинтовать руку к туловищу"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 377
   },
   {
@@ -4157,6 +4534,7 @@ window.QUESTION_BANK = [
       "лежа на спине"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 378
   },
   {
@@ -4168,6 +4546,7 @@ window.QUESTION_BANK = [
       "соответствующее нормам и стандартам и не соответствующее нормам и стандартам"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 379
   },
   {
@@ -4179,6 +4558,7 @@ window.QUESTION_BANK = [
       "наличие пораженных, нуждающихя в госпитализации"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 380
   },
   {
@@ -4190,6 +4570,7 @@ window.QUESTION_BANK = [
       "изучение закономерностей и механизмов взаимодействия организма с химическими, физическими, биологическими факторами окружающей среды при чрезвычайной ситуации"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 381
   },
   {
@@ -4201,6 +4582,7 @@ window.QUESTION_BANK = [
       "зарин"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 382
   },
   {
@@ -4212,6 +4594,7 @@ window.QUESTION_BANK = [
       "организация специальной комендантской службы"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 383
   },
   {
@@ -4223,6 +4606,7 @@ window.QUESTION_BANK = [
       "состояния прилегающих территорий"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 384
   },
   {
@@ -4234,6 +4618,7 @@ window.QUESTION_BANK = [
       "сбор и передача сведений о санитарно-гигиенической и эпидемиологической обстановке в прилегающих к зоне чрезвычайной ситуации территориях"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 385
   },
   {
@@ -4245,6 +4630,7 @@ window.QUESTION_BANK = [
       "отселение населения с пораженной территории"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 386
   },
   {
@@ -4256,6 +4642,7 @@ window.QUESTION_BANK = [
       "3-4 часа"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 387
   },
   {
@@ -4267,6 +4654,7 @@ window.QUESTION_BANK = [
       "наложение окклюзионной повязки при открытом пневмотораксе"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 388
   },
   {
@@ -4278,6 +4666,7 @@ window.QUESTION_BANK = [
       "проведение лампасных разрезов при обширных ожогах"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 389
   },
   {
@@ -4289,6 +4678,7 @@ window.QUESTION_BANK = [
       "калия йодид"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 390
   },
   {
@@ -4300,6 +4690,7 @@ window.QUESTION_BANK = [
       "потеря сознания, судороги, задержка дыхания"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 391
   },
   {
@@ -4311,6 +4702,7 @@ window.QUESTION_BANK = [
       "розыск, сбор, вывоз (вынос) раненых с места ранения и очагов массовых санитарных потерь"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 392
   },
   {
@@ -4322,6 +4714,7 @@ window.QUESTION_BANK = [
       "90 в минуту"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 393
   },
   {
@@ -4333,6 +4726,7 @@ window.QUESTION_BANK = [
       "дефибрилляция"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 394
   },
   {
@@ -4344,6 +4738,7 @@ window.QUESTION_BANK = [
       "областная администрация"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 395
   },
   {
@@ -4355,6 +4750,7 @@ window.QUESTION_BANK = [
       "условный"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 396
   },
   {
@@ -4366,6 +4762,7 @@ window.QUESTION_BANK = [
       "искусство"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 397
   },
   {
@@ -4377,6 +4774,7 @@ window.QUESTION_BANK = [
       "4. ислама"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 398
   },
   {
@@ -4388,6 +4786,7 @@ window.QUESTION_BANK = [
       "4. медицинские показания"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 399
   },
   {
@@ -4399,6 +4798,7 @@ window.QUESTION_BANK = [
       "исполнение долга"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 400
   },
   {
@@ -4410,6 +4810,7 @@ window.QUESTION_BANK = [
       "теория справедливости"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 401
   },
   {
@@ -4421,6 +4822,7 @@ window.QUESTION_BANK = [
       "религиозная"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 402
   },
   {
@@ -4432,6 +4834,7 @@ window.QUESTION_BANK = [
       "до 18 лет"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 403
   },
   {
@@ -4443,6 +4846,7 @@ window.QUESTION_BANK = [
       "испрошенное согласие родственников на посмертное изъятие органов"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 404
   },
   {
@@ -4454,6 +4858,7 @@ window.QUESTION_BANK = [
       "4. Хельсинская декларация"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 405
   },
   {
@@ -4465,6 +4870,7 @@ window.QUESTION_BANK = [
       "Средство, влияющее на ренин-ангиотензиновую систему"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 406
   },
   {
@@ -4476,6 +4882,7 @@ window.QUESTION_BANK = [
       "Неостигмина"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 407
   },
   {
@@ -4487,6 +4894,7 @@ window.QUESTION_BANK = [
       "Угнетения активности Н+К+-АТФ-зы"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 408
   },
   {
@@ -4498,6 +4906,7 @@ window.QUESTION_BANK = [
       "Снижения агрегации тромбоцитов"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 409
   },
   {
@@ -4509,6 +4918,7 @@ window.QUESTION_BANK = [
       "Блокаторы \"протонового насоса\" (Н+, К+-АТФазы)"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 410
   },
   {
@@ -4520,6 +4930,7 @@ window.QUESTION_BANK = [
       "Флуоцинолона ацетонида"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 411
   },
   {
@@ -4531,6 +4942,7 @@ window.QUESTION_BANK = [
       "Хронических запорах"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 412
   },
   {
@@ -4542,6 +4954,7 @@ window.QUESTION_BANK = [
       "Макролиды"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 413
   },
   {
@@ -4553,6 +4966,7 @@ window.QUESTION_BANK = [
       "Активации утилизации глюкозы тканями"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 414
   },
   {
@@ -4564,6 +4978,7 @@ window.QUESTION_BANK = [
       "Хлорамфеникол"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 415
   },
   {
@@ -4575,6 +4990,7 @@ window.QUESTION_BANK = [
       "Ослабление слуха"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 416
   },
   {
@@ -4586,6 +5002,7 @@ window.QUESTION_BANK = [
       "Центральные адренорецепторы"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 417
   },
   {
@@ -4597,6 +5014,7 @@ window.QUESTION_BANK = [
       "Приступ бронхиальной астмы"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 418
   },
   {
@@ -4608,6 +5026,7 @@ window.QUESTION_BANK = [
       "Суксаметония хлорид"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 419
   },
   {
@@ -4619,6 +5038,7 @@ window.QUESTION_BANK = [
       "Висмута трикалия дицитрат"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 420
   },
   {
@@ -4630,6 +5050,7 @@ window.QUESTION_BANK = [
       "Нитразепам"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 421
   },
   {
@@ -4641,6 +5062,7 @@ window.QUESTION_BANK = [
       "Каптоприл"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 422
   },
   {
@@ -4652,6 +5074,7 @@ window.QUESTION_BANK = [
       "Простагландинов"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 423
   },
   {
@@ -4663,6 +5086,7 @@ window.QUESTION_BANK = [
       "Экстракт коры крушины"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 424
   },
   {
@@ -4674,6 +5098,7 @@ window.QUESTION_BANK = [
       "М-холинорецепторов"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 425
   },
   {
@@ -4685,6 +5110,7 @@ window.QUESTION_BANK = [
       "4. к воздушной эмболии"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 426
   },
   {
@@ -4696,6 +5122,7 @@ window.QUESTION_BANK = [
       "4. снижения сердечного выброса"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 427
   },
   {
@@ -4707,6 +5134,7 @@ window.QUESTION_BANK = [
       "4. кости"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 428
   },
   {
@@ -4718,6 +5146,7 @@ window.QUESTION_BANK = [
       "4. глинистого вида"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 429
   },
   {
@@ -4728,6 +5157,7 @@ window.QUESTION_BANK = [
       "3. бурая индурация4. мукоидное набухание"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 430
   },
   {
@@ -4739,6 +5169,7 @@ window.QUESTION_BANK = [
       "4. жировая"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 431
   },
   {
@@ -4750,6 +5181,7 @@ window.QUESTION_BANK = [
       "4. следствием ДВС-синдрома"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 432
   },
   {
@@ -4761,6 +5193,7 @@ window.QUESTION_BANK = [
       "4. слизистых оболочках, покрытых переходным эпителием"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 433
   },
   {
@@ -4772,6 +5205,7 @@ window.QUESTION_BANK = [
       "4. катаральное"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 434
   },
   {
@@ -4783,6 +5217,7 @@ window.QUESTION_BANK = [
       "4. все перечисленное"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 435
   },
   {
@@ -4794,6 +5229,7 @@ window.QUESTION_BANK = [
       "4. геморрагического"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 436
   },
   {
@@ -4805,6 +5241,7 @@ window.QUESTION_BANK = [
       "4. гнойное"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 437
   },
   {
@@ -4816,6 +5253,7 @@ window.QUESTION_BANK = [
       "4. полиэтиологичность"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 438
   },
   {
@@ -4827,6 +5265,7 @@ window.QUESTION_BANK = [
       "4. пневмосклероз"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 439
   },
   {
@@ -4838,6 +5277,7 @@ window.QUESTION_BANK = [
       "4. замещение цилиндрическим эпителием"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 440
   },
   {
@@ -4849,6 +5289,7 @@ window.QUESTION_BANK = [
       "4. белковые цилиндры в канальцах"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 441
   },
   {
@@ -4860,6 +5301,7 @@ window.QUESTION_BANK = [
       "4. персистирующую"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 442
   },
   {
@@ -4871,6 +5313,7 @@ window.QUESTION_BANK = [
       "4. кубическим эпителием"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 443
   },
   {
@@ -4882,6 +5325,7 @@ window.QUESTION_BANK = [
       "4. гидронефроз"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 444
   },
   {
@@ -4893,6 +5337,7 @@ window.QUESTION_BANK = [
       "4. гидроцефалия"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 445
   },
   {
@@ -4904,6 +5349,7 @@ window.QUESTION_BANK = [
       "4. Мультикаузальный генез"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 446
   },
   {
@@ -4915,6 +5361,7 @@ window.QUESTION_BANK = [
       "4. Заболевание"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 447
   },
   {
@@ -4926,6 +5373,7 @@ window.QUESTION_BANK = [
       "4. Контроль за качеством клинической диагностики и лечебного процесса"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 448
   },
   {
@@ -4937,6 +5385,7 @@ window.QUESTION_BANK = [
       "4. Научном анализе обследуемого пациента"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 449
   },
   {
@@ -4948,6 +5397,7 @@ window.QUESTION_BANK = [
       "4. Нозологической форме в составе сложного заболевания"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 450
   },
   {
@@ -4959,6 +5409,7 @@ window.QUESTION_BANK = [
       "г – медицинское обслуживание"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 451
   },
   {
@@ -4970,6 +5421,7 @@ window.QUESTION_BANK = [
       "г – избыточная масса тела"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 452
   },
   {
@@ -4981,6 +5433,7 @@ window.QUESTION_BANK = [
       "г - 45-50 мм.рт.ст."
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 453
   },
   {
@@ -4992,6 +5445,7 @@ window.QUESTION_BANK = [
       "г – канцероген"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 454
   },
   {
@@ -5003,6 +5457,7 @@ window.QUESTION_BANK = [
       "г - стояния температуры, снижения температуры, повышения температуры"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 455
   },
   {
@@ -5014,6 +5469,7 @@ window.QUESTION_BANK = [
       "г - преимущественное увеличение содержания электролитов, а не воды"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 456
   },
   {
@@ -5025,6 +5481,7 @@ window.QUESTION_BANK = [
       "г – хронический стресс"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 457
   },
   {
@@ -5036,6 +5493,7 @@ window.QUESTION_BANK = [
       "г – тахикардию"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 458
   },
   {
@@ -5047,6 +5505,7 @@ window.QUESTION_BANK = [
       "г – E"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 459
   },
   {
@@ -5058,6 +5517,7 @@ window.QUESTION_BANK = [
       "г – ингибиторов роста клеток"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 460
   },
   {
@@ -5069,6 +5529,7 @@ window.QUESTION_BANK = [
       "г – цитостатики"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 461
   },
   {
@@ -5080,6 +5541,7 @@ window.QUESTION_BANK = [
       "г – избыточная масса тела"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 462
   },
   {
@@ -5091,6 +5553,7 @@ window.QUESTION_BANK = [
       "г – увеличением постнагрузки"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 463
   },
   {
@@ -5102,6 +5565,7 @@ window.QUESTION_BANK = [
       "г – обтурацию воздухоносных путей инородным телом"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 464
   },
   {
@@ -5113,6 +5577,7 @@ window.QUESTION_BANK = [
       "г – камень в мочеточнике"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 465
   },
   {
@@ -5124,6 +5589,7 @@ window.QUESTION_BANK = [
       "г – угнетение миело- и мегакариоцитопоэза"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 466
   },
   {
@@ -5135,6 +5601,7 @@ window.QUESTION_BANK = [
       "г – лейкопенией"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 467
   },
   {
@@ -5146,6 +5613,7 @@ window.QUESTION_BANK = [
       "г – эндотелиальной дисфункцией"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 468
   },
   {
@@ -5157,6 +5625,7 @@ window.QUESTION_BANK = [
       "г – кровопотеря"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 469
   },
   {
@@ -5168,6 +5637,7 @@ window.QUESTION_BANK = [
       "г – обесцвеченный кал"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 470
   },
   {
@@ -5179,6 +5649,7 @@ window.QUESTION_BANK = [
       "рассеянный склероз"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 471
   },
   {
@@ -5190,6 +5661,7 @@ window.QUESTION_BANK = [
       "обонятельной луковицы"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 472
   },
   {
@@ -5201,6 +5673,7 @@ window.QUESTION_BANK = [
       "монофазное"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 473
   },
   {
@@ -5212,6 +5685,7 @@ window.QUESTION_BANK = [
       "васкулит"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 474
   },
   {
@@ -5223,6 +5697,7 @@ window.QUESTION_BANK = [
       "атрофия мышц голени"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 475
   },
   {
@@ -5234,6 +5709,7 @@ window.QUESTION_BANK = [
       "стреляющий характер"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 476
   },
   {
@@ -5245,6 +5721,7 @@ window.QUESTION_BANK = [
       "рентгенография черепа"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 477
   },
   {
@@ -5256,6 +5733,7 @@ window.QUESTION_BANK = [
       "васкулит"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 478
   },
   {
@@ -5267,6 +5745,7 @@ window.QUESTION_BANK = [
       "ЭХО- энцефалоскопия"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 479
   },
   {
@@ -5278,6 +5757,7 @@ window.QUESTION_BANK = [
       "бронхиальной астмы"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 480
   },
   {
@@ -5289,6 +5769,7 @@ window.QUESTION_BANK = [
       "деменция"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 481
   },
   {
@@ -5300,6 +5781,7 @@ window.QUESTION_BANK = [
       "синдром вялого тетрапареза"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 482
   },
   {
@@ -5311,6 +5793,7 @@ window.QUESTION_BANK = [
       "нижний вялый парапарез"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 483
   },
   {
@@ -5322,6 +5805,7 @@ window.QUESTION_BANK = [
       "повышение внутричерепного давления"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 484
   },
   {
@@ -5333,6 +5817,7 @@ window.QUESTION_BANK = [
       "миелография"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 485
   },
   {
@@ -5344,6 +5829,7 @@ window.QUESTION_BANK = [
       "скорости оседания эритроцитов"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 486
   },
   {
@@ -5355,6 +5841,7 @@ window.QUESTION_BANK = [
       "пирацетам"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 487
   },
   {
@@ -5366,6 +5853,7 @@ window.QUESTION_BANK = [
       "астереогноз"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 488
   },
   {
@@ -5377,6 +5865,7 @@ window.QUESTION_BANK = [
       "кортикостероидов"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 489
   },
   {
@@ -5388,6 +5877,7 @@ window.QUESTION_BANK = [
       "скандированная речь"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 490
   },
   {
@@ -5399,6 +5889,7 @@ window.QUESTION_BANK = [
       "4) 6-7 см"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 491
   },
   {
@@ -5410,6 +5901,7 @@ window.QUESTION_BANK = [
       "4) коробочный"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 492
   },
   {
@@ -5421,6 +5913,7 @@ window.QUESTION_BANK = [
       "4) 15 - 25 ммоль/л"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 493
   },
   {
@@ -5432,6 +5925,7 @@ window.QUESTION_BANK = [
       "4) паралитической грудной клетки"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 494
   },
   {
@@ -5443,6 +5937,7 @@ window.QUESTION_BANK = [
       "4) IV-VI ребер"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 495
   },
   {
@@ -5454,6 +5949,7 @@ window.QUESTION_BANK = [
       "4) в шестом межреберье на 1,5 – 2 см кнутри от левой срединно-ключичной линии"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 496
   },
   {
@@ -5465,6 +5961,7 @@ window.QUESTION_BANK = [
       "4) 0,12 - 0,20 сек"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 497
   },
   {
@@ -5476,6 +5973,7 @@ window.QUESTION_BANK = [
       "4) голосовое дрожание нормальной силы"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 498
   },
   {
@@ -5487,6 +5985,7 @@ window.QUESTION_BANK = [
       "4) проба Каковского-Аддиса"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 499
   },
   {
@@ -5498,6 +5997,7 @@ window.QUESTION_BANK = [
       "4) опухолевого поражения"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 500
   },
   {
@@ -5509,6 +6009,7 @@ window.QUESTION_BANK = [
       "4) полном закрытии просвета бронха"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 501
   },
   {
@@ -5520,6 +6021,7 @@ window.QUESTION_BANK = [
       "4) митральном стенозе"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 502
   },
   {
@@ -5531,6 +6033,7 @@ window.QUESTION_BANK = [
       "4) атрио-вентрикулярной блокаде"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 503
   },
   {
@@ -5542,6 +6045,7 @@ window.QUESTION_BANK = [
       "4) дилатации правого желудочка"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 504
   },
   {
@@ -5553,6 +6057,7 @@ window.QUESTION_BANK = [
       "4) уплотнения легочной ткани"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 505
   },
   {
@@ -5564,6 +6069,7 @@ window.QUESTION_BANK = [
       "4) хронического пиелонефрита"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 506
   },
   {
@@ -5575,6 +6081,7 @@ window.QUESTION_BANK = [
       "4) гидротораксу"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 507
   },
   {
@@ -5586,6 +6093,7 @@ window.QUESTION_BANK = [
       "4) патологический III тон"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 508
   },
   {
@@ -5597,6 +6105,7 @@ window.QUESTION_BANK = [
       "4) синдрома неязвенной диспепсии"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 509
   },
   {
@@ -5608,6 +6117,7 @@ window.QUESTION_BANK = [
       "4) застойных явлений в легких"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 510
   },
   {
@@ -5619,6 +6129,7 @@ window.QUESTION_BANK = [
       "4) описание посещений больного лечебных учреждений"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 511
   },
   {
@@ -5630,6 +6141,7 @@ window.QUESTION_BANK = [
       "4) непереносимости лекарственных препаратов"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 512
   },
   {
@@ -5641,6 +6153,7 @@ window.QUESTION_BANK = [
       "являются методом санитарно- просветительской работы с населением"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 513
   },
   {
@@ -5652,6 +6165,7 @@ window.QUESTION_BANK = [
       "биологической антисептики"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 514
   },
   {
@@ -5663,6 +6177,7 @@ window.QUESTION_BANK = [
       "биологической антисептики"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 515
   },
   {
@@ -5674,6 +6189,7 @@ window.QUESTION_BANK = [
       "химической антисептики"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 516
   },
   {
@@ -5685,6 +6201,7 @@ window.QUESTION_BANK = [
       "биологической антисептики"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 517
   },
   {
@@ -5696,6 +6213,7 @@ window.QUESTION_BANK = [
       "аррозивное"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 518
   },
   {
@@ -5707,6 +6225,7 @@ window.QUESTION_BANK = [
       "полостное"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 519
   },
   {
@@ -5718,6 +6237,7 @@ window.QUESTION_BANK = [
       "олигоурия"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 520
   },
   {
@@ -5729,6 +6249,7 @@ window.QUESTION_BANK = [
       "наложение жгута"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 521
   },
   {
@@ -5740,6 +6261,7 @@ window.QUESTION_BANK = [
       "биологического окончательного гемостаза"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 522
   },
   {
@@ -5751,6 +6273,7 @@ window.QUESTION_BANK = [
       "IV группе крови"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 523
   },
   {
@@ -5762,6 +6285,7 @@ window.QUESTION_BANK = [
       "dEce"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 524
   },
   {
@@ -5773,6 +6297,7 @@ window.QUESTION_BANK = [
       "трепанобиопсию кости"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 525
   },
   {
@@ -5784,6 +6309,7 @@ window.QUESTION_BANK = [
       "флегмоны"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 526
   },
   {
@@ -5795,6 +6321,7 @@ window.QUESTION_BANK = [
       "галактооофорита"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 527
   },
   {
@@ -5806,6 +6333,7 @@ window.QUESTION_BANK = [
       "дренирование по Бюлау"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 528
   },
   {
@@ -5817,6 +6345,7 @@ window.QUESTION_BANK = [
       "наличие секвестральной полости"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 529
   },
   {
@@ -5828,6 +6357,7 @@ window.QUESTION_BANK = [
       "4) обширное затемнение"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 530
   },
   {
@@ -5839,6 +6369,7 @@ window.QUESTION_BANK = [
       "4) гемоперитонеума"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 531
   },
   {
@@ -5850,6 +6381,7 @@ window.QUESTION_BANK = [
       "эндоскопическое ультразвуковое исследование"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 532
   },
   {
@@ -5861,6 +6393,7 @@ window.QUESTION_BANK = [
       "крестообразная повязка на затылочную область"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 533
   },
   {
@@ -5872,6 +6405,7 @@ window.QUESTION_BANK = [
       "деротационный гипсовый сапожок"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 534
   },
   {
@@ -5883,6 +6417,7 @@ window.QUESTION_BANK = [
       "бедра"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 535
   },
   {
@@ -5894,6 +6429,7 @@ window.QUESTION_BANK = [
       "петля Глиссона"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 536
   },
   {
@@ -5905,6 +6441,7 @@ window.QUESTION_BANK = [
       "расходящаяся «черепашья» повязка"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 537
   },
   {
@@ -5916,6 +6453,7 @@ window.QUESTION_BANK = [
       "фибриновый клей"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 538
   },
   {
@@ -5927,6 +6465,7 @@ window.QUESTION_BANK = [
       "крючок Фарабефа"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 539
   },
   {
@@ -5938,6 +6477,7 @@ window.QUESTION_BANK = [
       "выполнение трахеостомии"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 540
   },
   {
@@ -5949,6 +6489,7 @@ window.QUESTION_BANK = [
       "сигарообразный дренаж"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 541
   },
   {
@@ -5960,6 +6501,7 @@ window.QUESTION_BANK = [
       "зонд Миллера - Эббота"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 542
   },
   {
@@ -5971,6 +6513,7 @@ window.QUESTION_BANK = [
       "4. Под слизистой оболочкой альвеолярного отростка."
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 543
   },
   {
@@ -5982,6 +6525,7 @@ window.QUESTION_BANK = [
       "4. Альвеолярного отростка нижней челюсти"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 544
   },
   {
@@ -5993,6 +6537,7 @@ window.QUESTION_BANK = [
       "4. Подглазничную область"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 545
   },
   {
@@ -6004,6 +6549,7 @@ window.QUESTION_BANK = [
       "4. Гипертонический криз"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 546
   },
   {
@@ -6015,6 +6561,7 @@ window.QUESTION_BANK = [
       "4. Выбухание подъязычных валиков"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 547
   },
   {
@@ -6026,6 +6573,7 @@ window.QUESTION_BANK = [
       "4. Отек Квинке"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 548
   },
   {
@@ -6037,6 +6585,7 @@ window.QUESTION_BANK = [
       "4. Выраженный болевой симптом"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 549
   },
   {
@@ -6048,6 +6597,7 @@ window.QUESTION_BANK = [
       "4. Окклюзионная травма моляров верхней челюсти"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 550
   },
   {
@@ -6059,6 +6609,7 @@ window.QUESTION_BANK = [
       "4. Перелом мыщелкового отростка нижней челюсти"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 551
   },
   {
@@ -6070,6 +6621,7 @@ window.QUESTION_BANK = [
       "4. Острый лимфаденит"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 552
   },
   {
@@ -6082,6 +6634,7 @@ window.QUESTION_BANK = [
       "5. В околоушно-жевательной области"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 553
   },
   {
@@ -6094,6 +6647,7 @@ window.QUESTION_BANK = [
       "5. Ограничение открывания рта"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 554
   },
   {
@@ -6105,6 +6659,7 @@ window.QUESTION_BANK = [
       "4. На боковой поверхности шеи"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 555
   },
   {
@@ -6116,6 +6671,7 @@ window.QUESTION_BANK = [
       "4. Нескольких зубах при жевании"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 556
   },
   {
@@ -6127,6 +6683,7 @@ window.QUESTION_BANK = [
       "4. Заложенность в ухе"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 557
   },
   {
@@ -6138,6 +6695,7 @@ window.QUESTION_BANK = [
       "4. Гемангиомой"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 558
   },
   {
@@ -6149,6 +6707,7 @@ window.QUESTION_BANK = [
       "4. Остистое"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 559
   },
   {
@@ -6160,6 +6719,7 @@ window.QUESTION_BANK = [
       "4. Назначить физиотерапевтическое лечение"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 560
   },
   {
@@ -6171,6 +6731,7 @@ window.QUESTION_BANK = [
       "4. Назначении миогимнастики и механотерапии"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 561
   },
   {
@@ -6182,6 +6743,7 @@ window.QUESTION_BANK = [
       "4. Перевести ребенка на искусственное вскармливание"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 562
   },
   {
@@ -6193,6 +6755,7 @@ window.QUESTION_BANK = [
       "4. До 1 года"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 563
   },
   {
@@ -6204,6 +6767,7 @@ window.QUESTION_BANK = [
       "4. До 14 лет11 мес.29 дней"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 564
   },
   {
@@ -6215,6 +6779,7 @@ window.QUESTION_BANK = [
       "4. Числа посещений по поводу заболеваний/ на среднегодовую численность населения"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 565
   },
   {
@@ -6226,6 +6791,7 @@ window.QUESTION_BANK = [
       "4. Образ жизни"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 566
   },
   {
@@ -6237,6 +6803,7 @@ window.QUESTION_BANK = [
       "4.Доходы от ценных бумаг"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 567
   },
   {
@@ -6248,6 +6815,7 @@ window.QUESTION_BANK = [
       "4. ЛПУ"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 568
   },
   {
@@ -6259,6 +6827,7 @@ window.QUESTION_BANK = [
       "4.В центре санэпиднадзора"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 569
   },
   {
@@ -6270,6 +6839,7 @@ window.QUESTION_BANK = [
       "4. 5,1%"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 570
   },
   {
@@ -6281,6 +6851,7 @@ window.QUESTION_BANK = [
       "4.Отпуска по родам"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 571
   },
   {
@@ -6292,6 +6863,7 @@ window.QUESTION_BANK = [
       "4.Реклама"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 572
   },
   {
@@ -6303,6 +6875,7 @@ window.QUESTION_BANK = [
       "4.Докладом"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 573
   },
   {
@@ -6314,6 +6887,7 @@ window.QUESTION_BANK = [
       "4.Движение населения в течение суток"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 574
   },
   {
@@ -6325,6 +6899,7 @@ window.QUESTION_BANK = [
       "4.Движение населения в течение суток"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 575
   },
   {
@@ -6336,6 +6911,7 @@ window.QUESTION_BANK = [
       "4.Движение населения в течение суток в пределах разных административно-территориальных образований"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 576
   },
   {
@@ -6347,6 +6923,7 @@ window.QUESTION_BANK = [
       "4.Смешанный"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 577
   },
   {
@@ -6358,6 +6935,7 @@ window.QUESTION_BANK = [
       "4. 1 раз в 15 лет"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 578
   },
   {
@@ -6369,6 +6947,7 @@ window.QUESTION_BANK = [
       "4.На 10000 работающих."
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 579
   },
   {
@@ -6380,6 +6959,7 @@ window.QUESTION_BANK = [
       "4.Посещаемость"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 580
   },
   {
@@ -6391,6 +6971,7 @@ window.QUESTION_BANK = [
       "4.Государственный бюджет муниципального, территориального и федерального уровней"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 581
   },
   {
@@ -6402,6 +6983,7 @@ window.QUESTION_BANK = [
       "4.На 10000 работающих."
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 582
   },
   {
@@ -6413,6 +6995,7 @@ window.QUESTION_BANK = [
       "4) Зависимости от состояния пациента."
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 583
   },
   {
@@ -6424,6 +7007,7 @@ window.QUESTION_BANK = [
       "4) В первые 48 часов от начала заболевания"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 584
   },
   {
@@ -6435,6 +7019,7 @@ window.QUESTION_BANK = [
       "4) кардиогенный шок"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 585
   },
   {
@@ -6446,6 +7031,7 @@ window.QUESTION_BANK = [
       "4) гидротерапия"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 586
   },
   {
@@ -6457,6 +7043,7 @@ window.QUESTION_BANK = [
       "4) физиотерапии"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 587
   },
   {
@@ -6468,6 +7055,7 @@ window.QUESTION_BANK = [
       "4) прикроватная маркерная информационная доска"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 588
   },
   {
@@ -6479,6 +7067,7 @@ window.QUESTION_BANK = [
       "4) пресс-скамья"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 589
   },
   {
@@ -6490,6 +7079,7 @@ window.QUESTION_BANK = [
       "4) Положительная динамика лабораторных показателей"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 590
   },
   {
@@ -6501,6 +7091,7 @@ window.QUESTION_BANK = [
       "4) сколиотическая болезнь более второй степени"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 591
   },
   {
@@ -6512,6 +7103,7 @@ window.QUESTION_BANK = [
       "4) Инфаркт миокарда"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 592
   },
   {
@@ -6523,6 +7115,7 @@ window.QUESTION_BANK = [
       "4) компенсаторное"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 593
   },
   {
@@ -6534,6 +7127,7 @@ window.QUESTION_BANK = [
       "4) занятия на тренажерах субмаксимальной мощности"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 594
   },
   {
@@ -6545,6 +7139,7 @@ window.QUESTION_BANK = [
       "4) переменный ток"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 595
   },
   {
@@ -6556,6 +7151,7 @@ window.QUESTION_BANK = [
       "4) пресные"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 596
   },
   {
@@ -6567,6 +7163,7 @@ window.QUESTION_BANK = [
       "4) лимфоток"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 597
   },
   {
@@ -6578,6 +7175,7 @@ window.QUESTION_BANK = [
       "4) рефлексотерапия"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 598
   },
   {
@@ -6589,6 +7187,7 @@ window.QUESTION_BANK = [
       "4) только специальных дыхательных упражнений"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 599
   },
   {
@@ -6600,6 +7199,7 @@ window.QUESTION_BANK = [
       "4) идеомоторные"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 600
   },
   {
@@ -6611,6 +7211,7 @@ window.QUESTION_BANK = [
       "4) двигательная активность"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 601
   },
   {
@@ -6622,6 +7223,7 @@ window.QUESTION_BANK = [
       "4) влажные хрипы"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 602
   },
   {
@@ -6633,6 +7235,7 @@ window.QUESTION_BANK = [
       "4. выпадение из памяти событий, непосредственно предшествовавших бессознательному состоянию или другим психическим расстройствам"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 603
   },
   {
@@ -6644,6 +7247,7 @@ window.QUESTION_BANK = [
       "4. сновидное помрачение сознания с наплывом непроизвольно возникающих фантастических представлений"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 604
   },
   {
@@ -6655,6 +7259,7 @@ window.QUESTION_BANK = [
       "4. изменения личности"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 605
   },
   {
@@ -6666,6 +7271,7 @@ window.QUESTION_BANK = [
       "4. сновидное помрачение сознания с наплывом непроизвольно возникающих фантастических представлений"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 606
   },
   {
@@ -6677,6 +7283,7 @@ window.QUESTION_BANK = [
       "4. приобретение предметами, событиями и окружающими лицами особого смысла"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 607
   },
   {
@@ -6688,6 +7295,7 @@ window.QUESTION_BANK = [
       "4. возникающее при глубоком нарушении сознания, ограничивающееся пределами постели двигательное беспокойство, проявляющееся небольшими по амплитуде движениями преимущественно пальцев рук (больной теребит простыню, одежду, \"обирается\")"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 608
   },
   {
@@ -6699,6 +7307,7 @@ window.QUESTION_BANK = [
       "4. при алкогольном галлюцинозе"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 609
   },
   {
@@ -6710,6 +7319,7 @@ window.QUESTION_BANK = [
       "4. циклотимия."
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 610
   },
   {
@@ -6721,6 +7331,7 @@ window.QUESTION_BANK = [
       "4. повышение толерантности"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 611
   },
   {
@@ -6732,6 +7343,7 @@ window.QUESTION_BANK = [
       "4. диссоциального расстройства личности"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 612
   },
   {
@@ -6743,6 +7355,7 @@ window.QUESTION_BANK = [
       "4. депрессивный синдром"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 613
   },
   {
@@ -6754,6 +7367,7 @@ window.QUESTION_BANK = [
       "4. отсутствие критики к болезненным переживаниям"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 614
   },
   {
@@ -6765,6 +7379,7 @@ window.QUESTION_BANK = [
       "4. истинные галлюцинации"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 615
   },
   {
@@ -6776,6 +7391,7 @@ window.QUESTION_BANK = [
       "4. эйфория"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 616
   },
   {
@@ -6787,6 +7403,7 @@ window.QUESTION_BANK = [
       "4. обсессивно–компульсивном расстройстве"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 617
   },
   {
@@ -6798,6 +7415,7 @@ window.QUESTION_BANK = [
       "4. эйфория"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 618
   },
   {
@@ -6809,6 +7427,7 @@ window.QUESTION_BANK = [
       "4. психоорганический синдром"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 619
   },
   {
@@ -6820,6 +7439,7 @@ window.QUESTION_BANK = [
       "4. соли лития"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 620
   },
   {
@@ -6831,6 +7451,7 @@ window.QUESTION_BANK = [
       "4. феназепам"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 621
   },
   {
@@ -6842,6 +7463,7 @@ window.QUESTION_BANK = [
       "4. нормотимиков"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 622
   },
   {
@@ -6853,6 +7475,7 @@ window.QUESTION_BANK = [
       "4. наружное акушерское исследование"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 623
   },
   {
@@ -6864,6 +7487,7 @@ window.QUESTION_BANK = [
       "4. положительного признака Альфельда"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 624
   },
   {
@@ -6875,6 +7499,7 @@ window.QUESTION_BANK = [
       "4. 90-119 г/л"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 625
   },
   {
@@ -6886,6 +7511,7 @@ window.QUESTION_BANK = [
       "наличие «ключевых клеток» в мазке, окрашенном по Грамму"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 626
   },
   {
@@ -6897,6 +7523,7 @@ window.QUESTION_BANK = [
       "4. повышением показателей АЛТ, АСТ"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 627
   },
   {
@@ -6908,6 +7535,7 @@ window.QUESTION_BANK = [
       "4. снижением базального тонуса и возбудимости матки (изменением темпа и силы схваток) без расстройства координации сокращений матки в отдельных её частях"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 628
   },
   {
@@ -6919,6 +7547,7 @@ window.QUESTION_BANK = [
       "4. регулярными схватками"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 629
   },
   {
@@ -6930,6 +7559,7 @@ window.QUESTION_BANK = [
       "4. трихомонадный вагинит"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 630
   },
   {
@@ -6941,6 +7571,7 @@ window.QUESTION_BANK = [
       "4. острую, подострую, хроническую преэклампсию"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 631
   },
   {
@@ -6952,6 +7583,7 @@ window.QUESTION_BANK = [
       "4. пальпация частей плода"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 632
   },
   {
@@ -6963,6 +7595,7 @@ window.QUESTION_BANK = [
       "4. ультразвуковое исследование, допплерометрическое исследование кровотока"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 633
   },
   {
@@ -6974,6 +7607,7 @@ window.QUESTION_BANK = [
       "4. лицевое"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 634
   },
   {
@@ -6985,6 +7619,7 @@ window.QUESTION_BANK = [
       "4. повышение двигательной активности плода"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 635
   },
   {
@@ -6996,6 +7631,7 @@ window.QUESTION_BANK = [
       "4. тактика не регламентирована"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 636
   },
   {
@@ -7007,6 +7643,7 @@ window.QUESTION_BANK = [
       "4. «зрелой» шейки матки"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 637
   },
   {
@@ -7018,6 +7655,7 @@ window.QUESTION_BANK = [
       "односторонняя овариоэктомия"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 638
   },
   {
@@ -7029,6 +7667,7 @@ window.QUESTION_BANK = [
       "4.антагонисты кальция"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 639
   },
   {
@@ -7040,6 +7679,7 @@ window.QUESTION_BANK = [
       "раствор магния сульфата"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 640
   },
   {
@@ -7051,6 +7691,7 @@ window.QUESTION_BANK = [
       "4. все вышеперечисленное"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 641
   },
   {
@@ -7062,6 +7703,7 @@ window.QUESTION_BANK = [
       "Антигипертензивные препараты (клонидин)"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 642
   },
   {
@@ -7073,6 +7715,7 @@ window.QUESTION_BANK = [
       "4.«браслетки»"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 643
   },
   {
@@ -7084,6 +7727,7 @@ window.QUESTION_BANK = [
       "4.уровня ферритина в сыворотке крови"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 644
   },
   {
@@ -7095,6 +7739,7 @@ window.QUESTION_BANK = [
       "4.лимфаденопатия"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 645
   },
   {
@@ -7106,6 +7751,7 @@ window.QUESTION_BANK = [
       "4.повышение ретикулоцитов"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 646
   },
   {
@@ -7117,6 +7763,7 @@ window.QUESTION_BANK = [
       "4.в первые сутки"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 647
   },
   {
@@ -7128,6 +7775,7 @@ window.QUESTION_BANK = [
       "4.компенсированном алкалозе"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 648
   },
   {
@@ -7139,6 +7787,7 @@ window.QUESTION_BANK = [
       "4.<70 уд\\мин"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 649
   },
   {
@@ -7150,6 +7799,7 @@ window.QUESTION_BANK = [
       "4.<90 уд\\мин"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 650
   },
   {
@@ -7161,6 +7811,7 @@ window.QUESTION_BANK = [
       "4.желудочках мозга"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 651
   },
   {
@@ -7172,6 +7823,7 @@ window.QUESTION_BANK = [
       "4.повышение температуры тела под воздействием физического (теплового) фактора внешней среды"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 652
   },
   {
@@ -7183,6 +7835,7 @@ window.QUESTION_BANK = [
       "4.любое повышение температуры тела"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 653
   },
   {
@@ -7194,6 +7847,7 @@ window.QUESTION_BANK = [
       "4.артериальная гипотензия"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 654
   },
   {
@@ -7205,6 +7859,7 @@ window.QUESTION_BANK = [
       "4.10 месяцев"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 655
   },
   {
@@ -7216,6 +7871,7 @@ window.QUESTION_BANK = [
       "4.модифицированное коровье молоко"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 656
   },
   {
@@ -7227,6 +7883,7 @@ window.QUESTION_BANK = [
       "4.9 лет"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 657
   },
   {
@@ -7238,6 +7895,7 @@ window.QUESTION_BANK = [
       "4.осиплый голос"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 658
   },
   {
@@ -7249,6 +7907,7 @@ window.QUESTION_BANK = [
       "4.обструктивный бронхит"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 659
   },
   {
@@ -7260,6 +7919,7 @@ window.QUESTION_BANK = [
       "4.антигистаминные препараты препараты"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 660
   },
   {
@@ -7271,6 +7931,7 @@ window.QUESTION_BANK = [
       "4.диазепам"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 661
   },
   {
@@ -7282,6 +7943,7 @@ window.QUESTION_BANK = [
       "4.кромогликат натрия"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 662
   },
   {
@@ -7293,6 +7955,7 @@ window.QUESTION_BANK = [
       "4. 10 дней"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 663
   },
   {
@@ -7304,6 +7967,7 @@ window.QUESTION_BANK = [
       "4. Индекс симптомов по шкале mMRC< 2 баллов"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 664
   },
   {
@@ -7315,6 +7979,7 @@ window.QUESTION_BANK = [
       "4. Фуросемид"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 665
   },
   {
@@ -7326,6 +7991,7 @@ window.QUESTION_BANK = [
       "4. Курение"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 666
   },
   {
@@ -7337,6 +8003,7 @@ window.QUESTION_BANK = [
       "4. Церебро-васкулярный"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 667
   },
   {
@@ -7348,6 +8015,7 @@ window.QUESTION_BANK = [
       "4. Кольцевидная эритема"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 668
   },
   {
@@ -7359,6 +8027,7 @@ window.QUESTION_BANK = [
       "4. Микроальбуминурия"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 669
   },
   {
@@ -7370,6 +8039,7 @@ window.QUESTION_BANK = [
       "4. Отек легких"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 670
   },
   {
@@ -7381,6 +8051,7 @@ window.QUESTION_BANK = [
       "4. Нарушение всасывания железа в кишечнике"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 671
   },
   {
@@ -7392,6 +8063,7 @@ window.QUESTION_BANK = [
       "4. Транексамовая кислота"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 672
   },
   {
@@ -7403,6 +8075,7 @@ window.QUESTION_BANK = [
       "4. Панкреатогенные"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 673
   },
   {
@@ -7414,6 +8087,7 @@ window.QUESTION_BANK = [
       "4. Дефицит белка и избыток жира в пище"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 674
   },
   {
@@ -7425,6 +8099,7 @@ window.QUESTION_BANK = [
       "4. Асцит"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 675
   },
   {
@@ -7436,6 +8111,7 @@ window.QUESTION_BANK = [
       "4. Боли в животе, протеинурия, полиартрит"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 676
   },
   {
@@ -7447,6 +8123,7 @@ window.QUESTION_BANK = [
       "4. Секреторно-экскреторная урография"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 677
   },
   {
@@ -7458,6 +8135,7 @@ window.QUESTION_BANK = [
       "4. Лефлуномид"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 678
   },
   {
@@ -7469,6 +8147,7 @@ window.QUESTION_BANK = [
       "4. Похудание"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 679
   },
   {
@@ -7480,6 +8159,7 @@ window.QUESTION_BANK = [
       "4. Реополиглюкин"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 680
   },
   {
@@ -7491,6 +8171,7 @@ window.QUESTION_BANK = [
       "4. Ламивудин"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 681
   },
   {
@@ -7502,6 +8183,7 @@ window.QUESTION_BANK = [
       "4. Полисерозиты"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 682
   },
   {
@@ -7513,6 +8195,7 @@ window.QUESTION_BANK = [
       "4. Контрактура Дюпюитрена"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 683
   },
   {
@@ -7524,6 +8207,7 @@ window.QUESTION_BANK = [
       "4. Исследование тактильной чувствительности"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 684
   },
   {
@@ -7535,6 +8219,7 @@ window.QUESTION_BANK = [
       "4. Бериллиоз"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 685
   },
   {
@@ -7546,6 +8231,7 @@ window.QUESTION_BANK = [
       "4. Мозжечок"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 686
   },
   {
@@ -7557,6 +8243,7 @@ window.QUESTION_BANK = [
       "4. Болеваячувствительность"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 687
   },
   {
@@ -7568,6 +8255,7 @@ window.QUESTION_BANK = [
       "4. Бронхоэктатическая болезнь"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 688
   },
   {
@@ -7579,6 +8267,7 @@ window.QUESTION_BANK = [
       "4. Нарастающая лейкопения"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 689
   },
   {
@@ -7590,6 +8279,7 @@ window.QUESTION_BANK = [
       "4. Заключение по результатам периодического медицинского осмотра"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 690
   },
   {
@@ -7601,6 +8291,7 @@ window.QUESTION_BANK = [
       "4. Купренил."
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 691
   },
   {
@@ -7612,6 +8303,7 @@ window.QUESTION_BANK = [
       "4.Тетацин кальция"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 692
   },
   {
@@ -7623,6 +8315,7 @@ window.QUESTION_BANK = [
       "г) разлитой перитонит"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 693
   },
   {
@@ -7634,6 +8327,7 @@ window.QUESTION_BANK = [
       "г) сигмовидной кишке"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 694
   },
   {
@@ -7645,6 +8339,7 @@ window.QUESTION_BANK = [
       "г) резко положительным симптомом Щеткина-Блюмберга"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 695
   },
   {
@@ -7656,6 +8351,7 @@ window.QUESTION_BANK = [
       "г) употреблением жирной пищи"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 696
   },
   {
@@ -7667,6 +8363,7 @@ window.QUESTION_BANK = [
       "г) варикозное расширение вен пищевода"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 697
   },
   {
@@ -7678,6 +8375,7 @@ window.QUESTION_BANK = [
       "г) \"кинжальных\""
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 698
   },
   {
@@ -7689,6 +8387,7 @@ window.QUESTION_BANK = [
       "г) асимметрия живота"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 699
   },
   {
@@ -7700,6 +8399,7 @@ window.QUESTION_BANK = [
       "г) с каловым запахом"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 700
   },
   {
@@ -7711,6 +8411,7 @@ window.QUESTION_BANK = [
       "г) инваганации"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 701
   },
   {
@@ -7722,6 +8423,7 @@ window.QUESTION_BANK = [
       "г) острый сальпингит"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 702
   },
   {
@@ -7733,6 +8435,7 @@ window.QUESTION_BANK = [
       "г) кишечной непроходимости"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 703
   },
   {
@@ -7744,6 +8447,7 @@ window.QUESTION_BANK = [
       "г) марлевую повязку"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 704
   },
   {
@@ -7755,6 +8459,7 @@ window.QUESTION_BANK = [
       "г) измерения АД"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 705
   },
   {
@@ -7766,6 +8471,7 @@ window.QUESTION_BANK = [
       "г) обильная многократная рвота"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 706
   },
   {
@@ -7777,6 +8483,7 @@ window.QUESTION_BANK = [
       "г) все ответы верны"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 707
   },
   {
@@ -7788,6 +8495,7 @@ window.QUESTION_BANK = [
       "г) делать лапароскопию"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 708
   },
   {
@@ -7799,6 +8507,7 @@ window.QUESTION_BANK = [
       "г) диарея"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 709
   },
   {
@@ -7810,6 +8519,7 @@ window.QUESTION_BANK = [
       "г) черного цвета"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 710
   },
   {
@@ -7821,6 +8531,7 @@ window.QUESTION_BANK = [
       "г) токсикологическое"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 711
   },
   {
@@ -7832,6 +8543,7 @@ window.QUESTION_BANK = [
       "г) ректороманоскопия"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 712
   },
   {
@@ -7843,6 +8555,7 @@ window.QUESTION_BANK = [
       "г) в грудную клетку"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 713
   },
   {
@@ -7854,6 +8567,7 @@ window.QUESTION_BANK = [
       "г) обильное слюнотечение"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 714
   },
   {
@@ -7865,6 +8579,7 @@ window.QUESTION_BANK = [
       "г) варикоцеле"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 715
   },
   {
@@ -7876,6 +8591,7 @@ window.QUESTION_BANK = [
       "г) эректильная дисфункция"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 716
   },
   {
@@ -7887,6 +8603,7 @@ window.QUESTION_BANK = [
       "г) пальцевое исследование прямой кишки"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 717
   },
   {
@@ -7898,6 +8615,7 @@ window.QUESTION_BANK = [
       "г) надлобковая пункция"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 718
   },
   {
@@ -7909,6 +8627,7 @@ window.QUESTION_BANK = [
       "г) мочеточниковый катетер"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 719
   },
   {
@@ -7920,6 +8639,7 @@ window.QUESTION_BANK = [
       "г) воспаление вен полового члена"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 720
   },
   {
@@ -7931,6 +8651,7 @@ window.QUESTION_BANK = [
       "г) в промежности и крестце"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 721
   },
   {
@@ -7942,6 +8663,7 @@ window.QUESTION_BANK = [
       "г) боли"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 722
   },
   {
@@ -7953,6 +8675,7 @@ window.QUESTION_BANK = [
       "4. Фактор передачи"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 723
   },
   {
@@ -7964,6 +8687,7 @@ window.QUESTION_BANK = [
       "4. Заболеваемость любыми инфекционными болезнями, нехарактерными для данной территории."
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 724
   },
   {
@@ -7975,6 +8699,7 @@ window.QUESTION_BANK = [
       "4. Распространенные в определенных природных зонах."
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 725
   },
   {
@@ -7986,6 +8711,7 @@ window.QUESTION_BANK = [
       "4. Антропонозы с контактным механизмом передачи."
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 726
   },
   {
@@ -7997,6 +8723,7 @@ window.QUESTION_BANK = [
       "4. Использование неспецифических средств защиты в очаге инфекционной"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 727
   },
   {
@@ -8008,6 +8735,7 @@ window.QUESTION_BANK = [
       "4. Объекты внешней среды."
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 728
   },
   {
@@ -8019,6 +8747,7 @@ window.QUESTION_BANK = [
       "4. Воздушно-пылевым."
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 729
   },
   {
@@ -8030,6 +8759,7 @@ window.QUESTION_BANK = [
       "4. Туберкулин."
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 730
   },
   {
@@ -8041,6 +8771,7 @@ window.QUESTION_BANK = [
       "4. Человеческий лейкоцитарный интерферон."
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 731
   },
   {
@@ -8052,6 +8783,7 @@ window.QUESTION_BANK = [
       "4. Вирусный гепатит В;"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 732
   },
   {
@@ -8063,6 +8795,7 @@ window.QUESTION_BANK = [
       "4. Вирусному гепатиту Д."
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 733
   },
   {
@@ -8074,6 +8807,7 @@ window.QUESTION_BANK = [
       "4. Вирусного гепатита В"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 734
   },
   {
@@ -8085,6 +8819,7 @@ window.QUESTION_BANK = [
       "4. Вирус гепатита с."
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 735
   },
   {
@@ -8096,6 +8831,7 @@ window.QUESTION_BANK = [
       "4. Москиты;"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 736
   },
   {
@@ -8107,6 +8843,7 @@ window.QUESTION_BANK = [
       "4. Брюшной тиф, гепатит с, корь"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 737
   },
   {
@@ -8118,6 +8855,7 @@ window.QUESTION_BANK = [
       "4. Дизентерия"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 738
   },
   {
@@ -8129,6 +8867,7 @@ window.QUESTION_BANK = [
       "4. 12 дней"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 739
   },
   {
@@ -8140,6 +8879,7 @@ window.QUESTION_BANK = [
       "4.Стерилизацию изделий медицинского назначения в лечебно-профилактических учреждениях;"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 740
   },
   {
@@ -8151,6 +8891,7 @@ window.QUESTION_BANK = [
       "4. Стронгилоидоза;"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 741
   },
   {
@@ -8162,6 +8903,7 @@ window.QUESTION_BANK = [
       "4. Введение гипериммунного иммуноглобулина"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 742
   },
   {
@@ -8173,6 +8915,7 @@ window.QUESTION_BANK = [
       "Ботулизм"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 743
   },
   {
@@ -8184,6 +8927,7 @@ window.QUESTION_BANK = [
       "ф - 025/у"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 744
   },
   {
@@ -8195,6 +8939,7 @@ window.QUESTION_BANK = [
       "Достаточно сделать запись в медицинской карте больного"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 745
   },
   {
@@ -8206,6 +8951,7 @@ window.QUESTION_BANK = [
       "При повреждении кожи медсестрой во время проведения инъекции больному ВИЧ-инфекцией."
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 746
   },
   {
@@ -8217,6 +8963,7 @@ window.QUESTION_BANK = [
       "Для учета выполненных физиотерапевтических процедур"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 747
   },
   {
@@ -8228,6 +8975,7 @@ window.QUESTION_BANK = [
       "4 50 – летний возраст"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 748
   },
   {
@@ -8239,6 +8987,7 @@ window.QUESTION_BANK = [
       "4 комбинированной форме хронического гипертрофического ринита"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 749
   },
   {
@@ -8250,6 +8999,7 @@ window.QUESTION_BANK = [
       "4 гемофильной палочке"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 750
   },
   {
@@ -8261,6 +9011,7 @@ window.QUESTION_BANK = [
       "4 характерна картина «звездного неба»"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 751
   },
   {
@@ -8272,6 +9023,7 @@ window.QUESTION_BANK = [
       "4 для хронического фарингита"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 752
   },
   {
@@ -8283,6 +9035,7 @@ window.QUESTION_BANK = [
       "4 ультразвуковое исследование слуха"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 753
   },
   {
@@ -8294,6 +9047,7 @@ window.QUESTION_BANK = [
       "4 при болезни Меньера нет изменений слуховой и вестибулярной функции"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 754
   },
   {
@@ -8305,6 +9059,7 @@ window.QUESTION_BANK = [
       "4 отсутствует костное звукопроведение"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 755
   },
   {
@@ -8316,6 +9071,7 @@ window.QUESTION_BANK = [
       "4 наличием краевой перфорации в задних квадрантах барабанной перепонки"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 756
   },
   {
@@ -8327,6 +9083,7 @@ window.QUESTION_BANK = [
       "4 периодические или постоянные гноетечения"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 757
   },
   {
@@ -8338,6 +9095,7 @@ window.QUESTION_BANK = [
       "4 фронтита"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 758
   },
   {
@@ -8349,6 +9107,7 @@ window.QUESTION_BANK = [
       "4 аллергического"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 759
   },
   {
@@ -8360,6 +9119,7 @@ window.QUESTION_BANK = [
       "4 экссудативная"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 760
   },
   {
@@ -8371,6 +9131,7 @@ window.QUESTION_BANK = [
       "4 дна полости носа"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 761
   },
   {
@@ -8382,6 +9143,7 @@ window.QUESTION_BANK = [
       "4 удалить инородное тело и произвести интубацию"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 762
   },
   {
@@ -8393,6 +9155,7 @@ window.QUESTION_BANK = [
       "4 удалить инородное тело сухим способом"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 763
   },
   {
@@ -8404,6 +9167,7 @@ window.QUESTION_BANK = [
       "4 возраста пациента"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 764
   },
   {
@@ -8415,6 +9179,7 @@ window.QUESTION_BANK = [
       "4 при трахеостомии"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 765
   },
   {
@@ -8426,6 +9191,7 @@ window.QUESTION_BANK = [
       "4 абсцесстонзилэктомия"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 766
   },
   {
@@ -8437,6 +9203,7 @@ window.QUESTION_BANK = [
       "4 раннее вскрытие у всех больных"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 767
   },
   {
@@ -8448,6 +9215,7 @@ window.QUESTION_BANK = [
       "4)нижняя стенка"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 768
   },
   {
@@ -8459,6 +9227,7 @@ window.QUESTION_BANK = [
       "4)трех слоев"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 769
   },
   {
@@ -8470,6 +9239,7 @@ window.QUESTION_BANK = [
       "4)правильно А и Б"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 770
   },
   {
@@ -8481,6 +9251,7 @@ window.QUESTION_BANK = [
       "4) склеры"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 771
   },
   {
@@ -8492,6 +9263,7 @@ window.QUESTION_BANK = [
       "4)преломляющая сила хрусталика"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 772
   },
   {
@@ -8503,6 +9275,7 @@ window.QUESTION_BANK = [
       "4) физиологический астигматизм"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 773
   },
   {
@@ -8514,6 +9287,7 @@ window.QUESTION_BANK = [
       "4) всеми перечисленными нервами"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 774
   },
   {
@@ -8525,6 +9299,7 @@ window.QUESTION_BANK = [
       "4)правильно Б и В"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 775
   },
   {
@@ -8536,6 +9311,7 @@ window.QUESTION_BANK = [
       "4)верно А и Б"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 776
   },
   {
@@ -8547,6 +9323,7 @@ window.QUESTION_BANK = [
       "4) 5-ти годам жизни"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 777
   },
   {
@@ -8558,6 +9335,7 @@ window.QUESTION_BANK = [
       "4) деструкцию стекловидного тела"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 778
   },
   {
@@ -8569,6 +9347,7 @@ window.QUESTION_BANK = [
       "4)1:1,5"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 779
   },
   {
@@ -8580,6 +9359,7 @@ window.QUESTION_BANK = [
       "4) развитием плавающих и фиксированных помутнений в стекловидном теле"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 780
   },
   {
@@ -8591,6 +9371,7 @@ window.QUESTION_BANK = [
       "4) травматическая катаракта"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 781
   },
   {
@@ -8602,6 +9383,7 @@ window.QUESTION_BANK = [
       "4) организации консультации врача-офтальмотравматолога в поликлинике"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 782
   },
   {
@@ -8613,6 +9395,7 @@ window.QUESTION_BANK = [
       "4) увеиту"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 783
   },
   {
@@ -8624,6 +9407,7 @@ window.QUESTION_BANK = [
       "4)22 мм. рт. ст."
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 784
   },
   {
@@ -8635,6 +9419,7 @@ window.QUESTION_BANK = [
       "4) по величине легкости оттока"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 785
   },
   {
@@ -8646,6 +9431,7 @@ window.QUESTION_BANK = [
       "4) открытый угол передней камеры глаза"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 786
   },
   {
@@ -8657,6 +9443,7 @@ window.QUESTION_BANK = [
       "4)деструкции стекловидного тела"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 787
   },
   {
@@ -8668,6 +9455,7 @@ window.QUESTION_BANK = [
       "отрицательный зубец Р"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 788
   },
   {
@@ -8679,6 +9467,7 @@ window.QUESTION_BANK = [
       "CRUSADE"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 789
   },
   {
@@ -8690,6 +9479,7 @@ window.QUESTION_BANK = [
       "меньше 140 г/м2"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 790
   },
   {
@@ -8701,6 +9491,7 @@ window.QUESTION_BANK = [
       "у основания мечевидного отростка"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 791
   },
   {
@@ -8712,6 +9503,7 @@ window.QUESTION_BANK = [
       "диастоле сердца"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 792
   },
   {
@@ -8723,6 +9515,7 @@ window.QUESTION_BANK = [
       "градиент давления на митральном клапане"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 793
   },
   {
@@ -8734,6 +9527,7 @@ window.QUESTION_BANK = [
       "ножки пучка Гиса"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 794
   },
   {
@@ -8745,6 +9539,7 @@ window.QUESTION_BANK = [
       "рН-метрия"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 795
   },
   {
@@ -8756,6 +9551,7 @@ window.QUESTION_BANK = [
       "элевация сегмента ST"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 796
   },
   {
@@ -8767,6 +9563,7 @@ window.QUESTION_BANK = [
       "ТТГ"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 797
   },
   {
@@ -8778,6 +9575,7 @@ window.QUESTION_BANK = [
       "желтухой"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 798
   },
   {
@@ -8789,6 +9587,7 @@ window.QUESTION_BANK = [
       "сегментарный эзофагоспазм"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 799
   },
   {
@@ -8800,6 +9599,7 @@ window.QUESTION_BANK = [
       "гипокалиемия"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 800
   },
   {
@@ -8811,6 +9611,7 @@ window.QUESTION_BANK = [
       "гематурия и бактериурия"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 801
   },
   {
@@ -8822,6 +9623,7 @@ window.QUESTION_BANK = [
       "появление бластов, симптом «провала» в общем анализе крови"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 802
   },
   {
@@ -8833,6 +9635,7 @@ window.QUESTION_BANK = [
       "появление бластов, симптом «провала» в общем анализе крови"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 803
   },
   {
@@ -8844,6 +9647,7 @@ window.QUESTION_BANK = [
       "рентгенография крестцово-подвздошных сочленений"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 804
   },
   {
@@ -8855,6 +9659,7 @@ window.QUESTION_BANK = [
       "АЦЦП"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 805
   },
   {
@@ -8866,6 +9671,7 @@ window.QUESTION_BANK = [
       "акроцианоз"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 806
   },
   {
@@ -8877,6 +9683,7 @@ window.QUESTION_BANK = [
       "энтеробактери"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 807
   },
   {
@@ -8888,6 +9695,7 @@ window.QUESTION_BANK = [
       "4. гектическая"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 808
   },
   {
@@ -8899,6 +9707,7 @@ window.QUESTION_BANK = [
       "4. в левой подвздошной области"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 809
   },
   {
@@ -8910,6 +9719,7 @@ window.QUESTION_BANK = [
       "4. щелочная фосфатаза"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 810
   },
   {
@@ -8921,6 +9731,7 @@ window.QUESTION_BANK = [
       "4. лимфатического аппарата толстой кишки"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 811
   },
   {
@@ -8932,6 +9743,7 @@ window.QUESTION_BANK = [
       "4. гепатолиенальный синдром"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 812
   },
   {
@@ -8943,6 +9755,7 @@ window.QUESTION_BANK = [
       "4. поражение других отделов верхних дыхательных путей"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 813
   },
   {
@@ -8954,6 +9767,7 @@ window.QUESTION_BANK = [
       "4. самостоятельное заболевание"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 814
   },
   {
@@ -8965,6 +9779,7 @@ window.QUESTION_BANK = [
       "4. субнормальная"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 815
   },
   {
@@ -8976,6 +9791,7 @@ window.QUESTION_BANK = [
       "4. обезвоживание"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 816
   },
   {
@@ -8987,6 +9803,7 @@ window.QUESTION_BANK = [
       "4. диарейный"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 817
   },
   {
@@ -8998,6 +9815,7 @@ window.QUESTION_BANK = [
       "4. нарушением чувствительности"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 818
   },
   {
@@ -9009,6 +9827,7 @@ window.QUESTION_BANK = [
       "4. индукторы интерфероногенеза"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 819
   },
   {
@@ -9020,6 +9839,7 @@ window.QUESTION_BANK = [
       "5. специфический иммуноглобулин"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 820
   },
   {
@@ -9031,6 +9851,7 @@ window.QUESTION_BANK = [
       "4. ацикловир"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 821
   },
   {
@@ -9042,6 +9863,7 @@ window.QUESTION_BANK = [
       "4. противоклещевой иммуноглобулин"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 822
   },
   {
@@ -9053,6 +9875,7 @@ window.QUESTION_BANK = [
       "4. вирусного гепатита С"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 823
   },
   {
@@ -9064,6 +9887,7 @@ window.QUESTION_BANK = [
       "4. альмагель"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 824
   },
   {
@@ -9075,6 +9899,7 @@ window.QUESTION_BANK = [
       "4. применение кортикостероидов"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 825
   },
   {
@@ -9086,6 +9911,7 @@ window.QUESTION_BANK = [
       "4.Химиотерапия"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 826
   },
   {
@@ -9097,6 +9923,7 @@ window.QUESTION_BANK = [
       "4.Ципрофлоксацин"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 827
   },
   {
@@ -9108,6 +9935,7 @@ window.QUESTION_BANK = [
       "Г) чередование участков раздражения и уплотнения кости"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 828
   },
   {
@@ -9119,6 +9947,7 @@ window.QUESTION_BANK = [
       "Г) ревматизм"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 829
   },
   {
@@ -9130,6 +9959,7 @@ window.QUESTION_BANK = [
       "Г) дистальным поражением артерий нижних конечностей в сочетании с мигрирующим тромбофлебитом в поверхностных венах"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 830
   },
   {
@@ -9141,6 +9971,7 @@ window.QUESTION_BANK = [
       "Г) выявления флеботромбоза поверхностной бедренной вены"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 831
   },
   {
@@ -9152,6 +9983,7 @@ window.QUESTION_BANK = [
       "Г) артерий почек и печени"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 832
   },
   {
@@ -9163,6 +9995,7 @@ window.QUESTION_BANK = [
       "Г) избирательная дисфагия для некоторых продуктов, жидкостей (яблоки, апельсины, газированная вода)"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 833
   },
   {
@@ -9174,6 +10007,7 @@ window.QUESTION_BANK = [
       "Г) острого панкреатита"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 834
   },
   {
@@ -9185,6 +10019,7 @@ window.QUESTION_BANK = [
       "Г) диспептические явления"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 835
   },
   {
@@ -9196,6 +10031,7 @@ window.QUESTION_BANK = [
       "Г) лабораторное обследование мочи и ликвора"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 836
   },
   {
@@ -9207,6 +10043,7 @@ window.QUESTION_BANK = [
       "Г) дуоденальное зондирование"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 837
   },
   {
@@ -9218,6 +10055,7 @@ window.QUESTION_BANK = [
       "Г) компьютерная томография брюшной полости"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 838
   },
   {
@@ -9229,6 +10067,7 @@ window.QUESTION_BANK = [
       "Г) эмболизация селезеночной артерии"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 839
   },
   {
@@ -9240,6 +10079,7 @@ window.QUESTION_BANK = [
       "Г) при трансаортальном среднем систолическом градиенте давления менее 50 мм. рт. ст."
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 840
   },
   {
@@ -9251,6 +10091,7 @@ window.QUESTION_BANK = [
       "4. Удаление тканевых секвестров"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 841
   },
   {
@@ -9262,6 +10103,7 @@ window.QUESTION_BANK = [
       "Г) наложение экстра-интракраниального анастомоза"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 842
   },
   {
@@ -9273,6 +10115,7 @@ window.QUESTION_BANK = [
       "Г) операция аорто-коронарного шунтирования"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 843
   },
   {
@@ -9284,6 +10127,7 @@ window.QUESTION_BANK = [
       "Г) консервативная терапия коронаролитическими препаратами"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 844
   },
   {
@@ -9295,6 +10139,7 @@ window.QUESTION_BANK = [
       "Г) прошивание аневризмы"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 845
   },
   {
@@ -9306,6 +10151,7 @@ window.QUESTION_BANK = [
       "Г) Внутривенное переливание физ. Раствора"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 846
   },
   {
@@ -9317,6 +10163,7 @@ window.QUESTION_BANK = [
       "Г) панкреатодуоденальная резекция"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 847
   },
   {
@@ -9328,6 +10175,7 @@ window.QUESTION_BANK = [
       "г) мезаденита"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 848
   },
   {
@@ -9339,6 +10187,7 @@ window.QUESTION_BANK = [
       "г) обзорная рентгенография брюшной полости"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 849
   },
   {
@@ -9350,6 +10199,7 @@ window.QUESTION_BANK = [
       "г) на 4-5 неделе"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 850
   },
   {
@@ -9361,6 +10211,7 @@ window.QUESTION_BANK = [
       "г) 10-12 лет"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 851
   },
   {
@@ -9372,6 +10223,7 @@ window.QUESTION_BANK = [
       "г) козырьковый периостит"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 852
   },
   {
@@ -9383,6 +10235,7 @@ window.QUESTION_BANK = [
       "г) прорывом гноя в межмышечное пространство"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 853
   },
   {
@@ -9394,6 +10247,7 @@ window.QUESTION_BANK = [
       "г) плеврит"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 854
   },
   {
@@ -9405,6 +10259,7 @@ window.QUESTION_BANK = [
       "г) радикальное удаление с прилежащей клетчаткой"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 855
   },
   {
@@ -9416,6 +10271,7 @@ window.QUESTION_BANK = [
       "г) со слабостью передней брюшной стенки"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 856
   },
   {
@@ -9427,6 +10283,7 @@ window.QUESTION_BANK = [
       "г) наружное паховое кольцо расширенно"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 857
   },
   {
@@ -9438,6 +10295,7 @@ window.QUESTION_BANK = [
       "г) выпячивание чаще появляется при беспокойстве"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 858
   },
   {
@@ -9449,6 +10307,7 @@ window.QUESTION_BANK = [
       "г) гастростомия"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 859
   },
   {
@@ -9460,6 +10319,7 @@ window.QUESTION_BANK = [
       "г) воспалении лимфоузлов брыжейки тонкой кишки"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 860
   },
   {
@@ -9471,6 +10331,7 @@ window.QUESTION_BANK = [
       "г) клинически после первого кормления"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 861
   },
   {
@@ -9482,6 +10343,7 @@ window.QUESTION_BANK = [
       "г) предоперационная подготовка должна быть тщательной до полного купирования симптомов интоксикации, гипербилирубинемии, электролитных нарушений."
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 862
   },
   {
@@ -9493,6 +10355,7 @@ window.QUESTION_BANK = [
       "г) инвертограммой по Вангенстину"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 863
   },
   {
@@ -9504,6 +10367,7 @@ window.QUESTION_BANK = [
       "в) гемофилия"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 864
   },
   {
@@ -9515,6 +10379,7 @@ window.QUESTION_BANK = [
       "г) компьютерной томографии органов малого таза"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 865
   },
   {
@@ -9526,6 +10391,7 @@ window.QUESTION_BANK = [
       "г) ночные боли"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 866
   },
   {
@@ -9537,6 +10403,7 @@ window.QUESTION_BANK = [
       "г) 5 лет"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 867
   },
   {
@@ -9548,6 +10415,7 @@ window.QUESTION_BANK = [
       "4. иммобилизация"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 868
   },
   {
@@ -9559,6 +10427,7 @@ window.QUESTION_BANK = [
       "4. специализированной помощи"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 869
   },
   {
@@ -9570,6 +10439,7 @@ window.QUESTION_BANK = [
       "4. транспортировка на щите с валиком под коленями в положении приведения нижних конечностей."
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 870
   },
   {
@@ -9581,6 +10451,7 @@ window.QUESTION_BANK = [
       "4. Еланского"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 871
   },
   {
@@ -9592,6 +10463,7 @@ window.QUESTION_BANK = [
       "4. отсутствие сухожильных и мышечных рефлексов"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 872
   },
   {
@@ -9603,6 +10475,7 @@ window.QUESTION_BANK = [
       "4. баллотирование надколенника"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 873
   },
   {
@@ -9614,6 +10487,7 @@ window.QUESTION_BANK = [
       "4. изменение длины вывихнутого сегмента"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 874
   },
   {
@@ -9625,6 +10499,7 @@ window.QUESTION_BANK = [
       "4. деформация конечности и геперемия в области перелома"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 875
   },
   {
@@ -9636,6 +10511,7 @@ window.QUESTION_BANK = [
       "4. наличие перелома, его локализация, вид смещения отломков"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 876
   },
   {
@@ -9647,6 +10523,7 @@ window.QUESTION_BANK = [
       "4. ограничение движений в позвоночнике"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 877
   },
   {
@@ -9658,6 +10535,7 @@ window.QUESTION_BANK = [
       "4. гипотрофия мышц бедра"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 878
   },
   {
@@ -9669,6 +10547,7 @@ window.QUESTION_BANK = [
       "4. боли после длительной нагрузки"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 879
   },
   {
@@ -9680,6 +10559,7 @@ window.QUESTION_BANK = [
       "4. перелом надколенника"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 880
   },
   {
@@ -9691,6 +10571,7 @@ window.QUESTION_BANK = [
       "4. парез кишечника, метеоризм"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 881
   },
   {
@@ -9702,6 +10583,7 @@ window.QUESTION_BANK = [
       "4. поражение радиацией и огнестрельное ранение груди"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 882
   },
   {
@@ -9713,6 +10595,7 @@ window.QUESTION_BANK = [
       "4. травматический неврит, контрактура суставов"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 883
   },
   {
@@ -9724,6 +10607,7 @@ window.QUESTION_BANK = [
       "4. сложность иммобилизации гипсовой повязкой"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 884
   },
   {
@@ -9735,6 +10619,7 @@ window.QUESTION_BANK = [
       "4. интерпозиция мягких тканей между отломками"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 885
   },
   {
@@ -9746,6 +10631,7 @@ window.QUESTION_BANK = [
       "4. оперативный"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 886
   },
   {
@@ -9757,6 +10643,7 @@ window.QUESTION_BANK = [
       "4. ношение ортопедической обуви"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 887
   },
   {
@@ -9768,6 +10655,7 @@ window.QUESTION_BANK = [
       "4. со спазмом и тромбированием сосудов"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 888
   },
   {
@@ -9779,6 +10667,7 @@ window.QUESTION_BANK = [
       "4. герметичная повязка на рану"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 889
   },
   {
@@ -9790,6 +10679,7 @@ window.QUESTION_BANK = [
       "4. хирургическая обработка раны с ушиванием открытого пневмоторакса"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 890
   },
   {
@@ -9801,6 +10691,7 @@ window.QUESTION_BANK = [
       "4. наложение зажима на сосуд"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 891
   },
   {
@@ -9812,6 +10703,7 @@ window.QUESTION_BANK = [
       "4. местная анестезия перелома"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 892
   },
   {
@@ -9823,6 +10715,7 @@ window.QUESTION_BANK = [
       "4. своевременной и технически правильно проведенной первичной хирургической обработкой раны."
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 893
   },
   {
@@ -9834,6 +10727,7 @@ window.QUESTION_BANK = [
       "4. первичную хирургическую обработку раны;"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 894
   },
   {
@@ -9845,6 +10739,7 @@ window.QUESTION_BANK = [
       "4. операции по поводу анаэробной инфекции."
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 895
   },
   {
@@ -9856,6 +10751,7 @@ window.QUESTION_BANK = [
       "4. торакотомию и лапаротомию при ранении органов грудной и брюшной полостей."
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 896
   },
   {
@@ -9867,6 +10763,7 @@ window.QUESTION_BANK = [
       "Специализированной помощи"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 897
   },
   {
@@ -9878,6 +10775,7 @@ window.QUESTION_BANK = [
       "4. 50 мг"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 898
   },
   {
@@ -9889,6 +10787,7 @@ window.QUESTION_BANK = [
       "4. ни тахикардию, ни брадикардию"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 899
   },
   {
@@ -9900,6 +10799,7 @@ window.QUESTION_BANK = [
       "4. 20 суток"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 900
   },
   {
@@ -9911,6 +10811,7 @@ window.QUESTION_BANK = [
       "4. 4 г"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 901
   },
   {
@@ -9922,6 +10823,7 @@ window.QUESTION_BANK = [
       "4) Температурной чувствительности"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 902
   },
   {
@@ -9933,6 +10835,7 @@ window.QUESTION_BANK = [
       "4) Экзема"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 903
   },
   {
@@ -9944,6 +10847,7 @@ window.QUESTION_BANK = [
       "4) Нейрогенными"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 904
   },
   {
@@ -9955,6 +10859,7 @@ window.QUESTION_BANK = [
       "4) Крупнобляшечном"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 905
   },
   {
@@ -9966,6 +10871,7 @@ window.QUESTION_BANK = [
       "4) 3-4 недели"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 906
   },
   {
@@ -9977,6 +10883,7 @@ window.QUESTION_BANK = [
       "4) Зостериформная"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 907
   },
   {
@@ -9988,6 +10895,7 @@ window.QUESTION_BANK = [
       "4) Свечения в лучах Вуда"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 908
   },
   {
@@ -9999,6 +10907,7 @@ window.QUESTION_BANK = [
       "4) Пузырь"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 909
   },
   {
@@ -10010,6 +10919,7 @@ window.QUESTION_BANK = [
       "4) Мигрирующий"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 910
   },
   {
@@ -10021,6 +10931,7 @@ window.QUESTION_BANK = [
       "4) sPGA"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 911
   },
   {
@@ -10032,6 +10943,7 @@ window.QUESTION_BANK = [
       "4) sPGA"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 912
   },
   {
@@ -10043,6 +10955,7 @@ window.QUESTION_BANK = [
       "4) Образование пузырьков"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 913
   },
   {
@@ -10054,6 +10967,7 @@ window.QUESTION_BANK = [
       "4) Центробежной эритемы Дарье"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 914
   },
   {
@@ -10065,6 +10979,7 @@ window.QUESTION_BANK = [
       "4) Центробежная"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 915
   },
   {
@@ -10076,6 +10991,7 @@ window.QUESTION_BANK = [
       "4) Аспергиллез"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 916
   },
   {
@@ -10087,6 +11003,7 @@ window.QUESTION_BANK = [
       "4) Топические глюкокортикостероиды"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 917
   },
   {
@@ -10098,6 +11015,7 @@ window.QUESTION_BANK = [
       "4) 0,02% р-р фурацилина"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 918
   },
   {
@@ -10109,6 +11027,7 @@ window.QUESTION_BANK = [
       "4) Аминогликозиды"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 919
   },
   {
@@ -10120,6 +11039,7 @@ window.QUESTION_BANK = [
       "4) Неспецифическую иммунотерапию"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 920
   },
   {
@@ -10131,6 +11051,7 @@ window.QUESTION_BANK = [
       "4) Пустулезного вторичного сифилиса"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 921
   },
   {
@@ -10142,6 +11063,7 @@ window.QUESTION_BANK = [
       "4. туберкулеза"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 922
   },
   {
@@ -10153,6 +11075,7 @@ window.QUESTION_BANK = [
       "4. субъекта преступления"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 923
   },
   {
@@ -10164,6 +11087,7 @@ window.QUESTION_BANK = [
       "4. нижняя;"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 924
   },
   {
@@ -10175,6 +11099,7 @@ window.QUESTION_BANK = [
       "4. билирубином"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 925
   },
   {
@@ -10186,6 +11111,7 @@ window.QUESTION_BANK = [
       "4. колото-резаной"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 926
   },
   {
@@ -10197,6 +11123,7 @@ window.QUESTION_BANK = [
       "4. колото-резаной"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 927
   },
   {
@@ -10208,6 +11135,7 @@ window.QUESTION_BANK = [
       "4. неблизкая дистанция"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 928
   },
   {
@@ -10219,6 +11147,7 @@ window.QUESTION_BANK = [
       "4. клиновидное"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 929
   },
   {
@@ -10230,6 +11159,7 @@ window.QUESTION_BANK = [
       "4. П-образная"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 930
   },
   {
@@ -10241,6 +11171,7 @@ window.QUESTION_BANK = [
       "4. наличием копоти на открытых частях тела"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 931
   },
   {
@@ -10252,6 +11183,7 @@ window.QUESTION_BANK = [
       "4. пергаментное пятно"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 932
   },
   {
@@ -10263,6 +11195,7 @@ window.QUESTION_BANK = [
       "4. газохроматографическое"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 933
   },
   {
@@ -10274,6 +11207,7 @@ window.QUESTION_BANK = [
       "4. едкими щелочами"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 934
   },
   {
@@ -10285,6 +11219,7 @@ window.QUESTION_BANK = [
       "4. отек"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 935
   },
   {
@@ -10296,6 +11231,7 @@ window.QUESTION_BANK = [
       "4. кистях рук"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 936
   },
   {
@@ -10307,6 +11243,7 @@ window.QUESTION_BANK = [
       "4. исход не ясен"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 937
   },
   {
@@ -10318,6 +11255,7 @@ window.QUESTION_BANK = [
       "4. Отравление цианистым калием, 12-16 часов"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 938
   },
   {
@@ -10329,6 +11267,7 @@ window.QUESTION_BANK = [
       "4. Образование карбоксигемоглобина, давность смерти 4-8 часов"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 939
   },
   {
@@ -10340,6 +11279,7 @@ window.QUESTION_BANK = [
       "4. Решение вопроса о живорожденности младенца сомнительно."
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 940
   },
   {
@@ -10351,6 +11291,7 @@ window.QUESTION_BANK = [
       "4. Какова возможная причина смерти"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 941
   },
   {
@@ -10362,6 +11303,7 @@ window.QUESTION_BANK = [
       "повышенной секрецией соматотропина"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 942
   },
   {
@@ -10373,6 +11315,7 @@ window.QUESTION_BANK = [
       "синдрома Шихена"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 943
   },
   {
@@ -10384,6 +11327,7 @@ window.QUESTION_BANK = [
       "высокий уровень Т3 и Т4 св., подавленный ТТГ, положительные АТ к ТПО"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 944
   },
   {
@@ -10395,6 +11339,7 @@ window.QUESTION_BANK = [
       "расторможена"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 945
   },
   {
@@ -10406,6 +11351,7 @@ window.QUESTION_BANK = [
       "аутоиммунный тиреоидит"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 946
   },
   {
@@ -10417,6 +11363,7 @@ window.QUESTION_BANK = [
       "в повышении утилизации глюкозы печенью и мышцами"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 947
   },
   {
@@ -10428,6 +11375,7 @@ window.QUESTION_BANK = [
       "Бигуанидами"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 948
   },
   {
@@ -10439,6 +11387,7 @@ window.QUESTION_BANK = [
       "10% раствора глюкозы"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 949
   },
   {
@@ -10450,6 +11399,7 @@ window.QUESTION_BANK = [
       "посмотреть ТТГ в динамике через 3 месяца"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 950
   },
   {
@@ -10461,6 +11411,7 @@ window.QUESTION_BANK = [
       "Электролитные сдвиги"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 951
   },
   {
@@ -10472,6 +11423,7 @@ window.QUESTION_BANK = [
       "4. наличия контакта с больным туберкулезом"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 952
   },
   {
@@ -10483,6 +11435,7 @@ window.QUESTION_BANK = [
       "крыловидные лопатки"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 953
   },
   {
@@ -10494,6 +11447,7 @@ window.QUESTION_BANK = [
       "лимфоцитов"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 954
   },
   {
@@ -10505,6 +11459,7 @@ window.QUESTION_BANK = [
       "спиномозговая жидкость"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 955
   },
   {
@@ -10516,6 +11471,7 @@ window.QUESTION_BANK = [
       "с рентгенографии"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 956
   },
   {
@@ -10527,6 +11483,7 @@ window.QUESTION_BANK = [
       "хроническое заболевание в стадии ремиссии"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 957
   },
   {
@@ -10538,6 +11495,7 @@ window.QUESTION_BANK = [
       "ПЦР"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 958
   },
   {
@@ -10549,6 +11507,7 @@ window.QUESTION_BANK = [
       "на 21 день от начала заболевания"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 959
   },
   {
@@ -10560,6 +11519,7 @@ window.QUESTION_BANK = [
       "с лимфогранулематозом"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 960
   },
   {
@@ -10571,6 +11531,7 @@ window.QUESTION_BANK = [
       "однократным выделение МБТ"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 961
   },
   {
@@ -10582,6 +11543,7 @@ window.QUESTION_BANK = [
       "очаговый туберкулез"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 962
   },
   {
@@ -10593,6 +11555,7 @@ window.QUESTION_BANK = [
       "циклосерин"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 963
   },
   {
@@ -10604,6 +11567,7 @@ window.QUESTION_BANK = [
       "витамина С"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 964
   },
   {
@@ -10615,6 +11579,7 @@ window.QUESTION_BANK = [
       "преднизолона"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 965
   },
   {
@@ -10626,6 +11591,7 @@ window.QUESTION_BANK = [
       "дисбактериоза"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 966
   },
   {
@@ -10637,6 +11603,7 @@ window.QUESTION_BANK = [
       "сотрудники поликлиники ОЛС"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 967
   },
   {
@@ -10648,6 +11615,7 @@ window.QUESTION_BANK = [
       "вакциной АДС-М"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 968
   },
   {
@@ -10659,6 +11627,7 @@ window.QUESTION_BANK = [
       "бактериологический метод"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 969
   },
   {
@@ -10670,6 +11639,7 @@ window.QUESTION_BANK = [
       "1 раз в 2 года"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 970
   },
   {
@@ -10681,6 +11651,7 @@ window.QUESTION_BANK = [
       "не нуждаются в проведении лечебно-профилактических мероприятий"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 971
   },
   {
@@ -10692,6 +11663,7 @@ window.QUESTION_BANK = [
       "г) тахипноэ"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 972
   },
   {
@@ -10703,6 +11675,7 @@ window.QUESTION_BANK = [
       "г) бледность кожных покровов перешла в цианоз"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 973
   },
   {
@@ -10714,6 +11687,7 @@ window.QUESTION_BANK = [
       "г) верхняя треть грудины"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 974
   },
   {
@@ -10725,6 +11699,7 @@ window.QUESTION_BANK = [
       "г) камфору"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 975
   },
   {
@@ -10736,6 +11711,7 @@ window.QUESTION_BANK = [
       "г) оксибутират натрия"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 976
   },
   {
@@ -10747,6 +11723,7 @@ window.QUESTION_BANK = [
       "г) дофамин"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 977
   },
   {
@@ -10758,6 +11735,7 @@ window.QUESTION_BANK = [
       "г) растворы глюкозы"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 978
   },
   {
@@ -10769,6 +11747,7 @@ window.QUESTION_BANK = [
       "г) кордиамин"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 979
   },
   {
@@ -10780,6 +11759,7 @@ window.QUESTION_BANK = [
       "г) шунтирование крови слева-направо на уровне легких"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 980
   },
   {
@@ -10791,6 +11771,7 @@ window.QUESTION_BANK = [
       "г) в моче содержится ацетон"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 981
   },
   {
@@ -10802,6 +11783,7 @@ window.QUESTION_BANK = [
       "г) метаболический ацидоз"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 982
   },
   {
@@ -10813,6 +11795,7 @@ window.QUESTION_BANK = [
       "г) кетамин"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 983
   },
   {
@@ -10824,6 +11807,7 @@ window.QUESTION_BANK = [
       "г) дистрибутивный шок"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 984
   },
   {
@@ -10835,6 +11819,7 @@ window.QUESTION_BANK = [
       "г) обструктивным"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 985
   },
   {
@@ -10846,6 +11831,7 @@ window.QUESTION_BANK = [
       "г) кардиоверсию"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 986
   },
   {
@@ -10857,6 +11843,7 @@ window.QUESTION_BANK = [
       "г) снижается при любом типе шока"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 987
   },
   {
@@ -10868,6 +11855,7 @@ window.QUESTION_BANK = [
       "г) кордарон"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 988
   },
   {
@@ -10879,6 +11867,7 @@ window.QUESTION_BANK = [
       "г) единичные предсердные экстрасистолы"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 989
   },
   {
@@ -10890,6 +11879,7 @@ window.QUESTION_BANK = [
       "г) центральным венозным давлением"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 990
   },
   {
@@ -10901,6 +11891,7 @@ window.QUESTION_BANK = [
       "г) растворами глюкозы"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 991
   },
   {
@@ -10912,6 +11903,7 @@ window.QUESTION_BANK = [
       "инвазивный рост"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 992
   },
   {
@@ -10923,6 +11915,7 @@ window.QUESTION_BANK = [
       "костной ткани"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 993
   },
   {
@@ -10935,6 +11928,7 @@ window.QUESTION_BANK = [
       "опухоль Вильмса"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 994
   },
   {
@@ -10946,6 +11940,7 @@ window.QUESTION_BANK = [
       "имплантационный путь"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 995
   },
   {
@@ -10957,6 +11952,7 @@ window.QUESTION_BANK = [
       "почки"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 996
   },
   {
@@ -10968,6 +11964,7 @@ window.QUESTION_BANK = [
       "NCI"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 997
   },
   {
@@ -10979,6 +11976,7 @@ window.QUESTION_BANK = [
       "IV"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 998
   },
   {
@@ -10990,6 +11988,7 @@ window.QUESTION_BANK = [
       "иммунологический"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 999
   },
   {
@@ -11001,6 +12000,7 @@ window.QUESTION_BANK = [
       "хирургический метод"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 1000
   },
   {
@@ -11012,6 +12012,7 @@ window.QUESTION_BANK = [
       "абластика и антибластика"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 1001
   },
   {
@@ -11023,6 +12024,7 @@ window.QUESTION_BANK = [
       "областная санитарно-эпидемиологическая станция"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1002
   },
   {
@@ -11034,6 +12036,7 @@ window.QUESTION_BANK = [
       "морфологическим"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 1003
   },
   {
@@ -11045,6 +12048,7 @@ window.QUESTION_BANK = [
       "вообще не ставится на учет"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 1004
   },
   {
@@ -11056,6 +12060,7 @@ window.QUESTION_BANK = [
       "наблюдение за больными, находящимися в ремиссии, для раннего выявления рецидива"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1005
   },
   {
@@ -11067,6 +12072,7 @@ window.QUESTION_BANK = [
       "метастатической"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 1006
   },
   {
@@ -11078,6 +12084,7 @@ window.QUESTION_BANK = [
       "биопсия при фибробронхоскопии"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 1007
   },
   {
@@ -11089,6 +12096,7 @@ window.QUESTION_BANK = [
       "при локализации в кардиальном отделе"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1008
   },
   {
@@ -11100,6 +12108,7 @@ window.QUESTION_BANK = [
       "в надключичный лимфоузел"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 1009
   },
   {
@@ -11111,6 +12120,7 @@ window.QUESTION_BANK = [
       "только хирургическое"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 1010
   },
   {
@@ -11122,6 +12132,7 @@ window.QUESTION_BANK = [
       "энуклеация опухоли"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 1011
   },
   {
@@ -11133,6 +12144,7 @@ window.QUESTION_BANK = [
       "Утилизация"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1012
   },
   {
@@ -11145,6 +12157,7 @@ window.QUESTION_BANK = [
       "С ложки"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1013
   },
   {
@@ -11156,6 +12169,7 @@ window.QUESTION_BANK = [
       "20 мин"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1014
   },
   {
@@ -11168,6 +12182,7 @@ window.QUESTION_BANK = [
       "10"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 1015
   },
   {
@@ -11179,6 +12194,7 @@ window.QUESTION_BANK = [
       "все правильно"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 1016
   },
   {
@@ -11190,6 +12206,7 @@ window.QUESTION_BANK = [
       "Мешка Нечипоренко"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 1017
   },
   {
@@ -11201,6 +12218,7 @@ window.QUESTION_BANK = [
       "создание эпидемиологического благополучия для пациента"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 1018
   },
   {
@@ -11212,6 +12230,7 @@ window.QUESTION_BANK = [
       "самим пострадавшим"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 1019
   },
   {
@@ -11223,6 +12242,7 @@ window.QUESTION_BANK = [
       "Все вышеперечисленное"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 1020
   },
   {
@@ -11234,6 +12254,7 @@ window.QUESTION_BANK = [
       "Все вышеперечисленное"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 1021
   },
   {
@@ -11245,6 +12266,7 @@ window.QUESTION_BANK = [
       "перед проведением медицинской манипуляции"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 1022
   },
   {
@@ -11256,6 +12278,7 @@ window.QUESTION_BANK = [
       "Г"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 1023
   },
   {
@@ -11267,6 +12290,7 @@ window.QUESTION_BANK = [
       "Верно 1, 2, 3"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 1024
   },
   {
@@ -11278,6 +12302,7 @@ window.QUESTION_BANK = [
       "ВСО – алгоритм"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1025
   },
   {
@@ -11289,6 +12314,7 @@ window.QUESTION_BANK = [
       "4. отрасль знаний, наука, в которой излагаются общие вопросы сбора, измерения, мониторинга и анализа массовых статистических (количественных или качественных) данных;"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1026
   },
   {
@@ -11300,6 +12326,7 @@ window.QUESTION_BANK = [
       "4. Простое «слепое» исследование"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 1027
   },
   {
@@ -11311,6 +12338,7 @@ window.QUESTION_BANK = [
       "4. III класс"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1028
   },
   {
@@ -11322,6 +12350,7 @@ window.QUESTION_BANK = [
       "4. D"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 1029
   },
   {
@@ -11333,6 +12362,7 @@ window.QUESTION_BANK = [
       "4. D"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1030
   },
   {
@@ -11344,6 +12374,7 @@ window.QUESTION_BANK = [
       "4. РИНЦ"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1031
   },
   {
@@ -11355,6 +12386,7 @@ window.QUESTION_BANK = [
       "4. Нет правильного ответа"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 1032
   },
   {
@@ -11366,6 +12398,7 @@ window.QUESTION_BANK = [
       "4. На этапе статистического анализа данных"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1033
   },
   {
@@ -11377,6 +12410,7 @@ window.QUESTION_BANK = [
       "4. Клинические рекомендации основаны на результатах рандомизированных клинических исследований"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1034
   },
   {
@@ -11388,6 +12422,7 @@ window.QUESTION_BANK = [
       "4. Систематические обзоры"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 1035
   },
   {
@@ -11399,6 +12434,7 @@ window.QUESTION_BANK = [
       "4. Правильные ответы 1 и 2"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1036
   },
   {
@@ -11410,6 +12446,7 @@ window.QUESTION_BANK = [
       "4. Правильные ответы 1 и 2"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 1037
   },
   {
@@ -11421,6 +12458,7 @@ window.QUESTION_BANK = [
       "4. Эффект плацебо"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1038
   },
   {
@@ -11432,6 +12470,7 @@ window.QUESTION_BANK = [
       "4.Нет правильного ответа"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1039
   },
   {
@@ -11443,6 +12482,7 @@ window.QUESTION_BANK = [
       "4. представление доказательств о необходимости медицинской помощи"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1040
   },
   {
@@ -11454,6 +12494,7 @@ window.QUESTION_BANK = [
       "4. Серия случаев"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1041
   },
   {
@@ -11465,6 +12506,7 @@ window.QUESTION_BANK = [
       "4. описание методов исследования в медицине."
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1042
   },
   {
@@ -11476,6 +12518,7 @@ window.QUESTION_BANK = [
       "4. сбор информации и обработка"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1043
   },
   {
@@ -11487,6 +12530,7 @@ window.QUESTION_BANK = [
       "4. Принцип постоянного знакомства всех участников медицинской области с достижениями науки и практики"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1044
   },
   {
@@ -11498,6 +12542,7 @@ window.QUESTION_BANK = [
       "4. Методы изучения статистик выборки."
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1045
   },
   {
@@ -11509,6 +12554,7 @@ window.QUESTION_BANK = [
       "4. Определение цели исследования.."
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1046
   },
   {
@@ -11520,6 +12566,7 @@ window.QUESTION_BANK = [
       "4. Случай-контроль"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1047
   },
   {
@@ -11531,6 +12578,7 @@ window.QUESTION_BANK = [
       "4. Основы экспериментальной медицины."
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1048
   },
   {
@@ -11542,6 +12590,7 @@ window.QUESTION_BANK = [
       "4. Методы изучения статистик выборки."
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1049
   },
   {
@@ -11553,6 +12602,7 @@ window.QUESTION_BANK = [
       "4. Случай-контроль"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1050
   },
   {
@@ -11564,6 +12614,7 @@ window.QUESTION_BANK = [
       "4. Составление таблиц распределения."
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1051
   },
   {
@@ -11575,6 +12626,7 @@ window.QUESTION_BANK = [
       "свойство объекта, подверженное изучению"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 1052
   },
   {
@@ -11586,6 +12638,7 @@ window.QUESTION_BANK = [
       "4) количеством актов внедрения"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1053
   },
   {
@@ -11597,6 +12650,7 @@ window.QUESTION_BANK = [
       "4)IV"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 1054
   },
   {
@@ -11608,6 +12662,7 @@ window.QUESTION_BANK = [
       "4)оценку выполненной работы"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 1055
   },
   {
@@ -11619,6 +12674,7 @@ window.QUESTION_BANK = [
       "4) нормального распределения."
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 1056
   },
   {
@@ -11630,6 +12686,7 @@ window.QUESTION_BANK = [
       "Тщательно проведенным литературным поиском"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1057
   },
   {
@@ -11641,6 +12698,7 @@ window.QUESTION_BANK = [
       "4) до его завершения"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 1058
   },
   {
@@ -11652,6 +12710,7 @@ window.QUESTION_BANK = [
       "4) все ответы верны."
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 1059
   },
   {
@@ -11663,6 +12722,7 @@ window.QUESTION_BANK = [
       "Проводится в научно-исследовательских учреждениях"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1060
   },
   {
@@ -11674,6 +12734,7 @@ window.QUESTION_BANK = [
       "4. анализ, выводы и предложения для практики"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1061
   },
   {
@@ -11685,6 +12746,7 @@ window.QUESTION_BANK = [
       "4. когортное исследование"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1062
   },
   {
@@ -11696,6 +12758,7 @@ window.QUESTION_BANK = [
       "4. артериальная гипертензия"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1063
   },
   {
@@ -11707,6 +12770,7 @@ window.QUESTION_BANK = [
       "4. возраст пациентов"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1064
   },
   {
@@ -11718,6 +12782,7 @@ window.QUESTION_BANK = [
       "4. относительным риском"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1065
   },
   {
@@ -11729,6 +12794,7 @@ window.QUESTION_BANK = [
       "4. распространенности заболевания в исследуемой популяции"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1066
   },
   {
@@ -11740,6 +12806,7 @@ window.QUESTION_BANK = [
       "Птицы"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1067
   },
   {
@@ -11751,6 +12818,7 @@ window.QUESTION_BANK = [
       "Сочетание экзантемы и диареи"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1068
   },
   {
@@ -11762,6 +12830,7 @@ window.QUESTION_BANK = [
       "Гемипарез"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 1069
   },
   {
@@ -11773,6 +12842,7 @@ window.QUESTION_BANK = [
       "Лобной доли"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 1070
   },
   {
@@ -11784,6 +12854,7 @@ window.QUESTION_BANK = [
       "0-4,5 часа"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 1071
   },
   {
@@ -11795,6 +12866,7 @@ window.QUESTION_BANK = [
       "Цирроз печени"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1072
   },
   {
@@ -11806,6 +12878,7 @@ window.QUESTION_BANK = [
       "Child-Pugh"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1073
   },
   {
@@ -11817,6 +12890,7 @@ window.QUESTION_BANK = [
       "Ингибитор ЦОГ"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 1074
   },
   {
@@ -11828,6 +12902,7 @@ window.QUESTION_BANK = [
       "Подагра"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 1075
   },
   {
@@ -11839,6 +12914,7 @@ window.QUESTION_BANK = [
       "Отсутствие зубца Р, волны ff"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1076
   },
   {
@@ -11850,6 +12926,7 @@ window.QUESTION_BANK = [
       "Нет правильного варианта ответа"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 1077
   },
   {
@@ -11861,6 +12938,7 @@ window.QUESTION_BANK = [
       "Верно 1 и 2"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 1078
   },
   {
@@ -11872,6 +12950,7 @@ window.QUESTION_BANK = [
       "Ингибиторы ФНО-α"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1079
   },
   {
@@ -11883,6 +12962,7 @@ window.QUESTION_BANK = [
       "Нет верного варианта ответа"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1080
   },
   {
@@ -11894,6 +12974,7 @@ window.QUESTION_BANK = [
       "Феохромоцитома"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1081
   },
   {
@@ -11905,6 +12986,7 @@ window.QUESTION_BANK = [
       "МОС25"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1082
   },
   {
@@ -11916,6 +12998,7 @@ window.QUESTION_BANK = [
       "Софосбувир"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1083
   },
   {
@@ -11927,6 +13010,7 @@ window.QUESTION_BANK = [
       "Внекишечных симптомов"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 1084
   },
   {
@@ -11938,6 +13022,7 @@ window.QUESTION_BANK = [
       "КФК и миоглобин"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1085
   },
   {
@@ -11949,6 +13034,7 @@ window.QUESTION_BANK = [
       "Моксонидин"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1086
   },
   {
@@ -11960,6 +13046,7 @@ window.QUESTION_BANK = [
       "Нормальной массе тела"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 1087
   },
   {
@@ -11971,6 +13058,7 @@ window.QUESTION_BANK = [
       "Однократным выделение МБТ"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1088
   },
   {
@@ -11982,6 +13070,7 @@ window.QUESTION_BANK = [
       "Не бывает"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 1089
   },
   {
@@ -11993,6 +13082,7 @@ window.QUESTION_BANK = [
       "7, 8 и 9"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1090
   },
   {
@@ -12004,6 +13094,7 @@ window.QUESTION_BANK = [
       "Йодомарин"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 1091
   },
   {
@@ -12015,6 +13106,7 @@ window.QUESTION_BANK = [
       "Острая"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 1092
   },
   {
@@ -12026,6 +13118,7 @@ window.QUESTION_BANK = [
       "БЦЖ"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1093
   },
   {
@@ -12037,6 +13130,7 @@ window.QUESTION_BANK = [
       "Тимоловой пробы"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 1094
   },
   {
@@ -12048,6 +13142,7 @@ window.QUESTION_BANK = [
       "Подъязычного нерва"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 1095
   },
   {
@@ -12059,6 +13154,7 @@ window.QUESTION_BANK = [
       "Ибупрофен"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 1096
   },
   {
@@ -12070,6 +13166,7 @@ window.QUESTION_BANK = [
       "Мигательный рефлекс"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 1097
   },
   {
@@ -12081,6 +13178,7 @@ window.QUESTION_BANK = [
       "Приступы удушья"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 1098
   },
   {
@@ -12092,6 +13190,7 @@ window.QUESTION_BANK = [
       "Гентамицин+имипинем"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1099
   },
   {
@@ -12103,6 +13202,7 @@ window.QUESTION_BANK = [
       "Цефазолин+азитромицин"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1100
   },
   {
@@ -12114,6 +13214,7 @@ window.QUESTION_BANK = [
       "ОФВ1 больше 0,9"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1101
   },
   {
@@ -12125,6 +13226,7 @@ window.QUESTION_BANK = [
       "На показателях бодиплетизмографии"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1102
   },
   {
@@ -12136,6 +13238,7 @@ window.QUESTION_BANK = [
       "Соблюдение режима зрительной нагрузки"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 1103
   },
   {
@@ -12147,6 +13250,7 @@ window.QUESTION_BANK = [
       "Воспалением зрительного нерва"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1104
   },
   {
@@ -12158,6 +13262,7 @@ window.QUESTION_BANK = [
       "Увеличение радиуса кривизны роговицы, васкуляризация роговицы"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 1105
   },
   {
@@ -12169,6 +13274,7 @@ window.QUESTION_BANK = [
       "МРТ грудной клетки"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1106
   },
   {
@@ -12180,6 +13286,7 @@ window.QUESTION_BANK = [
       "β-адреноблокаторы"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1107
   },
   {
@@ -12191,6 +13298,7 @@ window.QUESTION_BANK = [
       "Вакцинопрофилактика"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 1108
   },
   {
@@ -12202,6 +13310,7 @@ window.QUESTION_BANK = [
       "Антагонисты АТ1-рецепторов к ангиотензину-2"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 1109
   },
   {
@@ -12213,6 +13322,7 @@ window.QUESTION_BANK = [
       "На показателях общего анализа крови"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1110
   },
   {
@@ -12224,6 +13334,7 @@ window.QUESTION_BANK = [
       "Ингибиторы ангиотензин-превращающего фермента"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 1111
   },
   {
@@ -12235,6 +13346,7 @@ window.QUESTION_BANK = [
       "Выраженным соединительнотканным слоем"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1112
   },
   {
@@ -12246,6 +13358,7 @@ window.QUESTION_BANK = [
       "Иммуноглобулинопрофилактика"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 1113
   },
   {
@@ -12257,6 +13370,7 @@ window.QUESTION_BANK = [
       "Мигрирующая эритема вокруг места присасывания клеща"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 1114
   },
   {
@@ -12268,6 +13382,7 @@ window.QUESTION_BANK = [
       "В любой стадии болезни"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 1115
   },
   {
@@ -12279,6 +13394,7 @@ window.QUESTION_BANK = [
       "Базисная терапия ХОБЛ+нитроглицерин"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1116
   },
   {
@@ -12290,6 +13406,7 @@ window.QUESTION_BANK = [
       "Сочетание антиагрегантов и антикоагулянтов"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 1117
   },
   {
@@ -12301,6 +13418,7 @@ window.QUESTION_BANK = [
       "Наружных отделов хиазмы"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1118
   },
   {
@@ -12312,6 +13430,7 @@ window.QUESTION_BANK = [
       "Системная красная волчанка"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 1119
   },
   {
@@ -12323,6 +13442,7 @@ window.QUESTION_BANK = [
       "Моксонидина"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1120
   },
   {
@@ -12334,6 +13454,7 @@ window.QUESTION_BANK = [
       "Аклидиния бромид"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1121
   },
   {
@@ -12345,6 +13466,7 @@ window.QUESTION_BANK = [
       "Использование гемостатической терапии"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1122
   },
   {
@@ -12356,6 +13478,7 @@ window.QUESTION_BANK = [
       "Показатели ОФВ1+ показатели бодиплетизмографии"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1123
   },
   {
@@ -12367,6 +13490,7 @@ window.QUESTION_BANK = [
       "Шесть градаций тяжести одышки"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1124
   },
   {
@@ -12378,6 +13502,7 @@ window.QUESTION_BANK = [
       "При бронхографии"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1125
   },
   {
@@ -12388,6 +13513,7 @@ window.QUESTION_BANK = [
       "Признаками генерализованного кандидоза d.Отсутствием клинических проявлений"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 1126
   },
   {
@@ -12399,6 +13525,7 @@ window.QUESTION_BANK = [
       "Назначить рентгенографию орбиты с индикатором Комберга-Балтина"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 1127
   },
   {
@@ -12410,6 +13537,7 @@ window.QUESTION_BANK = [
       "Отслойка сетчатки"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 1128
   },
   {
@@ -12421,6 +13549,7 @@ window.QUESTION_BANK = [
       "Изменение цвета радужки"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1129
   },
   {
@@ -12432,6 +13561,7 @@ window.QUESTION_BANK = [
       "Все варианты верны"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 1130
   },
   {
@@ -12443,6 +13573,7 @@ window.QUESTION_BANK = [
       "Дефицит фолиевой кислоты"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1131
   },
   {
@@ -12454,6 +13585,7 @@ window.QUESTION_BANK = [
       "Железодефицитной анемией"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 1132
   },
   {
@@ -12465,6 +13597,7 @@ window.QUESTION_BANK = [
       "Назначить препараты железа"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1133
   },
   {
@@ -12476,6 +13609,7 @@ window.QUESTION_BANK = [
       "Снижено содержание сахара и хлоридов, увеличено содержание белка"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 1134
   },
   {
@@ -12487,6 +13621,7 @@ window.QUESTION_BANK = [
       "Внутримышечной"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 1135
   },
   {
@@ -12498,6 +13633,7 @@ window.QUESTION_BANK = [
       "Энцефалитический"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 1136
   },
   {
@@ -12509,6 +13645,7 @@ window.QUESTION_BANK = [
       "Туберкулёзного менингита"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1137
   },
   {
@@ -12520,6 +13657,7 @@ window.QUESTION_BANK = [
       "Подострый септический эндокардит"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1138
   },
   {
@@ -12531,6 +13669,7 @@ window.QUESTION_BANK = [
       "Полном закрытии просвета бронха"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1139
   },
   {
@@ -12542,6 +13681,7 @@ window.QUESTION_BANK = [
       "ИБС: инфаркт миокарда, стенокардию, коронарную реваскуляризацию"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 1140
   },
   {
@@ -12553,6 +13693,7 @@ window.QUESTION_BANK = [
       "anti- HAVIgM"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 1141
   },
   {
@@ -12564,6 +13705,7 @@ window.QUESTION_BANK = [
       "гепатит Д"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1142
   },
   {
@@ -12575,6 +13717,7 @@ window.QUESTION_BANK = [
       "вирусоноситель"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 1143
   },
   {
@@ -12586,6 +13729,7 @@ window.QUESTION_BANK = [
       "Щелчок открытия"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 1144
   },
   {
@@ -12597,6 +13741,7 @@ window.QUESTION_BANK = [
       "Паратонзиллярный абсцесс"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 1145
   },
   {
@@ -12608,6 +13753,7 @@ window.QUESTION_BANK = [
       "Коринебактерий"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 1146
   },
   {
@@ -12619,6 +13765,7 @@ window.QUESTION_BANK = [
       "Полиартрит"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 1147
   },
   {
@@ -12630,6 +13777,7 @@ window.QUESTION_BANK = [
       "R/S< 1 в V1"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 1148
   },
   {
@@ -12641,6 +13789,7 @@ window.QUESTION_BANK = [
       "GOLD"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1149
   },
   {
@@ -12652,6 +13801,7 @@ window.QUESTION_BANK = [
       "35,0-39,9"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 1150
   },
   {
@@ -12663,6 +13813,7 @@ window.QUESTION_BANK = [
       "Разновидность электромеханической диссоциации"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 1151
   },
   {
@@ -12674,6 +13825,7 @@ window.QUESTION_BANK = [
       "Эритроцитам"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 1152
   },
   {
@@ -12685,6 +13837,7 @@ window.QUESTION_BANK = [
       "Ретикулоцитоз"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1153
   },
   {
@@ -12696,6 +13849,7 @@ window.QUESTION_BANK = [
       "Регистрируется ретикулоцитоз"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1154
   },
   {
@@ -12707,6 +13861,7 @@ window.QUESTION_BANK = [
       "Сотрясении головного мозга"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 1155
   },
   {
@@ -12718,6 +13873,7 @@ window.QUESTION_BANK = [
       "Резким падением артериального давления"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 1156
   },
   {
@@ -12728,6 +13884,7 @@ window.QUESTION_BANK = [
       "Эпидемическом цереброспинальном менингитепрепа"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 1157
   },
   {
@@ -12739,6 +13896,7 @@ window.QUESTION_BANK = [
       "Гипохромной микроцитарной ???????"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 1158
   },
   {
@@ -12750,6 +13908,7 @@ window.QUESTION_BANK = [
       "Высокий уровень щелочной фосфотазы"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1159
   },
   {
@@ -12761,6 +13920,7 @@ window.QUESTION_BANK = [
       "Появление тромбоцитоза"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 1160
   },
   {
@@ -12772,6 +13932,7 @@ window.QUESTION_BANK = [
       "Гипохромной микроцитарной"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1161
   },
   {
@@ -12783,6 +13944,7 @@ window.QUESTION_BANK = [
       "Транексамовая кислота"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1162
   },
   {
@@ -12794,6 +13956,7 @@ window.QUESTION_BANK = [
       "P. falciparum"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 1163
   },
   {
@@ -12805,6 +13968,7 @@ window.QUESTION_BANK = [
       "Миалгия, озноб, лихорадка"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1164
   },
   {
@@ -12816,6 +13980,7 @@ window.QUESTION_BANK = [
       "В случаях клинически определяемого инфекционного поражения"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 1165
   },
   {
@@ -12827,6 +13992,7 @@ window.QUESTION_BANK = [
       "Гипертонической болезни"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 1166
   },
   {
@@ -12838,6 +14004,7 @@ window.QUESTION_BANK = [
       "Нормальное внутриглазное давление"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 1167
   },
   {
@@ -12849,6 +14016,7 @@ window.QUESTION_BANK = [
       "Все ответы верны"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 1168
   },
   {
@@ -12860,6 +14028,7 @@ window.QUESTION_BANK = [
       "Прямая гипербилирубинемия"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 1169
   },
   {
@@ -12871,6 +14040,7 @@ window.QUESTION_BANK = [
       "Паразитологический"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 1170
   },
   {
@@ -12882,6 +14052,7 @@ window.QUESTION_BANK = [
       "Везикуло-пустулезная"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1171
   },
   {
@@ -12893,6 +14064,7 @@ window.QUESTION_BANK = [
       "Тромбоцитоз"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 1172
   },
   {
@@ -12904,6 +14076,7 @@ window.QUESTION_BANK = [
       "Анемии тяжелой степени тяжести"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 1173
   },
   {
@@ -12915,6 +14088,7 @@ window.QUESTION_BANK = [
       "В течение 1 года"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 1174
   },
   {
@@ -12926,6 +14100,7 @@ window.QUESTION_BANK = [
       "Препараты железа"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 1175
   },
   {
@@ -12937,6 +14112,7 @@ window.QUESTION_BANK = [
       "Верно все"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 1176
   },
   {
@@ -12948,6 +14124,7 @@ window.QUESTION_BANK = [
       "Ранняя туберкулезная интоксикация"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 1177
   },
   {
@@ -12959,6 +14136,7 @@ window.QUESTION_BANK = [
       "Очагами разных размеров"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 1178
   },
   {
@@ -12970,6 +14148,7 @@ window.QUESTION_BANK = [
       "За 16 недель"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 1179
   },
   {
@@ -12981,6 +14160,7 @@ window.QUESTION_BANK = [
       "Характеризуется нормальным или повышенным уровнем ферритина"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 1180
   },
   {
@@ -12992,6 +14172,7 @@ window.QUESTION_BANK = [
       "Биопробу"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1181
   },
   {
@@ -13003,6 +14184,7 @@ window.QUESTION_BANK = [
       "Биопробу"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 1182
   },
   {
@@ -13014,6 +14196,7 @@ window.QUESTION_BANK = [
       "Аспергиллы"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 1183
   },
   {
@@ -13025,6 +14208,7 @@ window.QUESTION_BANK = [
       "Сужение полей зрения"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1184
   },
   {
@@ -13036,6 +14220,7 @@ window.QUESTION_BANK = [
       "HBcorAg"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1185
   },
   {
@@ -13047,6 +14232,7 @@ window.QUESTION_BANK = [
       "При всех выше перечисленных критериях"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 1186
   },
   {
@@ -13058,6 +14244,7 @@ window.QUESTION_BANK = [
       "Линкосамиды"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 1187
   },
   {
@@ -13069,6 +14256,7 @@ window.QUESTION_BANK = [
       "сознание утрачивается, кожные покровы синюшны с мраморным рисунком, судороги, АД снижено, PaO2 снижается до 50 мм.рт.ст., СО2 возрастает до 50 мм.рт.ст."
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 1188
   },
   {
@@ -13080,6 +14268,7 @@ window.QUESTION_BANK = [
       "Передней серой спайки"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1189
   },
   {
@@ -13091,6 +14280,7 @@ window.QUESTION_BANK = [
       "Высокие уровни: - системного АД - протеинурии"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 1190
   },
   {
@@ -13102,6 +14292,7 @@ window.QUESTION_BANK = [
       "Биназальная гемианопсия"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 1191
   },
   {
@@ -13113,6 +14304,7 @@ window.QUESTION_BANK = [
       "СКФ в пределах 60–89 мл/мин/1,73 м2 при отсутствии маркеров почечного повреждения"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 1192
   },
   {
@@ -13124,6 +14316,7 @@ window.QUESTION_BANK = [
       "Инфаркте мозга"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 1193
   },
   {
@@ -13135,6 +14328,7 @@ window.QUESTION_BANK = [
       "anti-HBs"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 1194
   },
   {
@@ -13146,6 +14340,7 @@ window.QUESTION_BANK = [
       "МРТ, ОФЭКТ"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 1195
   },
   {
@@ -13157,6 +14352,7 @@ window.QUESTION_BANK = [
       "Локального поражения канальцев"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1196
   },
   {
@@ -13168,6 +14364,7 @@ window.QUESTION_BANK = [
       "ДВС-синдром"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1197
   },
   {
@@ -13179,6 +14376,7 @@ window.QUESTION_BANK = [
       "< 140/90"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 1198
   },
   {
@@ -13190,6 +14388,7 @@ window.QUESTION_BANK = [
       "Рекомбинантный белок – комплекс двух антигенов ESAT6 и CFP10"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 1199
   },
   {
@@ -13201,6 +14400,7 @@ window.QUESTION_BANK = [
       "Нерегулярный пульс"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 1200
   },
   {
@@ -13212,6 +14412,7 @@ window.QUESTION_BANK = [
       "Образование булл с прозрачным содержимым на фоне эритемы"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 1201
   },
   {
@@ -13223,6 +14424,7 @@ window.QUESTION_BANK = [
       "Боли в глазу"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1202
   },
   {
@@ -13234,6 +14436,7 @@ window.QUESTION_BANK = [
       "Гипопион"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 1203
   },
   {
@@ -13245,6 +14448,7 @@ window.QUESTION_BANK = [
       "Паратиреоидного"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 1204
   },
   {
@@ -13256,6 +14460,7 @@ window.QUESTION_BANK = [
       "Вследствие дистрофии и атрофии канальцевого эпителия"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 1205
   },
   {
@@ -13267,6 +14472,7 @@ window.QUESTION_BANK = [
       "7–9%"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 1206
   },
   {
@@ -13278,6 +14484,7 @@ window.QUESTION_BANK = [
       "Синдром раздраженного кишечника"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 1207
   },
   {
@@ -13289,6 +14496,7 @@ window.QUESTION_BANK = [
       "< 7,8"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1208
   },
   {
@@ -13300,6 +14508,7 @@ window.QUESTION_BANK = [
       "< 8,0%"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1209
   },
   {
@@ -13311,6 +14520,7 @@ window.QUESTION_BANK = [
       "Геморрагический синдром"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 1210
   },
   {
@@ -13322,6 +14532,7 @@ window.QUESTION_BANK = [
       "Глюкоза"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 1211
   },
   {
@@ -13333,6 +14544,7 @@ window.QUESTION_BANK = [
       "Омепразол, амоксициллин, альмагель"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1212
   },
   {
@@ -13344,6 +14556,7 @@ window.QUESTION_BANK = [
       "Псориатический артрит"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 1213
   },
   {
@@ -13355,6 +14568,7 @@ window.QUESTION_BANK = [
       "• Электролитов"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1214
   },
   {
@@ -13366,6 +14580,7 @@ window.QUESTION_BANK = [
       "• При безнадежном состоянии больного - как крайнее средство - это"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 1215
   },
   {
@@ -13377,6 +14592,7 @@ window.QUESTION_BANK = [
       "• Ревматоидном артрите"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1216
   },
   {
@@ -13388,6 +14604,7 @@ window.QUESTION_BANK = [
       "• показатель соотношения"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 1217
   },
   {
@@ -13399,6 +14616,7 @@ window.QUESTION_BANK = [
       "• Костные эрозии округлой формы, часто со склеротическим ободком - это"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 1218
   },
   {
@@ -13410,6 +14628,7 @@ window.QUESTION_BANK = [
       "• Приближению медицинской помощи к населению - это"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 1219
   },
   {
@@ -13421,6 +14640,7 @@ window.QUESTION_BANK = [
       "• Экспертом страховой медицинской организации"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1220
   },
   {
@@ -13432,6 +14652,7 @@ window.QUESTION_BANK = [
       "• В-макроглобулин"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 1221
   },
   {
@@ -13443,6 +14664,7 @@ window.QUESTION_BANK = [
       "Нейротоксическое - это есть выше"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 1222
   },
   {
@@ -13454,6 +14676,7 @@ window.QUESTION_BANK = [
       "Вымогательством"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 1223
   },
   {
@@ -13465,6 +14688,7 @@ window.QUESTION_BANK = [
       "Повременная"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 1224
   },
   {
@@ -13476,6 +14700,7 @@ window.QUESTION_BANK = [
       "Повышением секреции ренина"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1225
   },
   {
@@ -13487,6 +14712,7 @@ window.QUESTION_BANK = [
       "Скопление лимфы в плевральной полости"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 1226
   },
   {
@@ -13498,6 +14724,7 @@ window.QUESTION_BANK = [
       "инфекционный мононуклеоз"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 1227
   },
   {
@@ -13509,6 +14736,7 @@ window.QUESTION_BANK = [
       "Динамическое наблюдение за здоровьем пациента"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 1228
   },
   {
@@ -13520,6 +14748,7 @@ window.QUESTION_BANK = [
       "Гентамицин+имипинем"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 1229
   },
   {
@@ -13531,6 +14760,7 @@ window.QUESTION_BANK = [
       "Накожной"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 1230
   },
   {
@@ -13542,6 +14772,7 @@ window.QUESTION_BANK = [
       "Гиперлипидемию, отеки, гипоальбуминемию"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 1231
   },
   {
@@ -13553,6 +14784,7 @@ window.QUESTION_BANK = [
       "Острого гепатита С"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 1232
   },
   {
@@ -13564,6 +14796,7 @@ window.QUESTION_BANK = [
       "Сухость кожи, брадикардия, снижение памятиключ"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 1233
   },
   {
@@ -13575,6 +14808,7 @@ window.QUESTION_BANK = [
       "< 2,5 ммоль/л"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 1234
   },
   {
@@ -13586,6 +14820,7 @@ window.QUESTION_BANK = [
       "Менингококкемии"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 1235
   },
   {
@@ -13597,6 +14832,7 @@ window.QUESTION_BANK = [
       "Участковости"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 1236
   },
   {
@@ -13608,6 +14844,7 @@ window.QUESTION_BANK = [
       "Метопролол"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 1237
   },
   {
@@ -13619,6 +14856,7 @@ window.QUESTION_BANK = [
       "Сердечно-сосудистого риска"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 1238
   },
   {
@@ -13630,6 +14868,7 @@ window.QUESTION_BANK = [
       "Остеопороз"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 1239
   },
   {
@@ -13641,6 +14880,7 @@ window.QUESTION_BANK = [
       "Диабетическую нефропати"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1240
   },
   {
@@ -13652,6 +14892,7 @@ window.QUESTION_BANK = [
       "УЗИ желудка"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 1241
   },
   {
@@ -13663,6 +14904,7 @@ window.QUESTION_BANK = [
       "<4,0 ммоль/л"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1242
   },
   {
@@ -13674,6 +14916,7 @@ window.QUESTION_BANK = [
       "Токсического влияния гормонов щитовидной железы"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 1243
   },
   {
@@ -13685,6 +14928,7 @@ window.QUESTION_BANK = [
       "Лейкопения и лимфоцитоз в общем анализе крови"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 1244
   },
   {
@@ -13696,6 +14940,7 @@ window.QUESTION_BANK = [
       "Глаукому- это"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 1245
   },
   {
@@ -13707,6 +14952,7 @@ window.QUESTION_BANK = [
       "Дисфагия"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1246
   },
   {
@@ -13718,6 +14964,7 @@ window.QUESTION_BANK = [
       "Описторхоз"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 1247
   },
   {
@@ -13729,6 +14976,7 @@ window.QUESTION_BANK = [
       "Повышение уровня Т4, Т3"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1248
   },
   {
@@ -13740,6 +14988,7 @@ window.QUESTION_BANK = [
       "Патологическая поражённость"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 1249
   },
   {
@@ -13751,6 +15000,7 @@ window.QUESTION_BANK = [
       "Работающему гражданину, на которого распространяется обязательное медицинское страхование"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 1250
   },
   {
@@ -13762,6 +15012,7 @@ window.QUESTION_BANK = [
       "Карведилол"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 1251
   },
   {
@@ -13773,6 +15024,7 @@ window.QUESTION_BANK = [
       "парагриппе"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 1252
   },
   {
@@ -13784,6 +15036,7 @@ window.QUESTION_BANK = [
       "14 дней"
     ],
     "answer": 3,
+    "source": "gosy_test_2",
     "id": 1253
   },
   {
@@ -13795,6 +15048,7 @@ window.QUESTION_BANK = [
       "Роговица прозрачная, зрачок узкий, реакция зрачка на свет сохранена, конъюнктивальная инъекция"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 1254
   },
   {
@@ -13806,6 +15060,7 @@ window.QUESTION_BANK = [
       "Роспотребнадзор"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1255
   },
   {
@@ -13817,6 +15072,7 @@ window.QUESTION_BANK = [
       "Пассаж контрастного вещества по кишечнику"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 1256
   },
   {
@@ -13828,6 +15084,7 @@ window.QUESTION_BANK = [
       "Пассаж контрастного вещества по кишечнику"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 1257
   },
   {
@@ -13839,6 +15096,7 @@ window.QUESTION_BANK = [
       "дегидратационная терапия"
     ],
     "answer": 2,
+    "source": "gosy_test_2",
     "id": 1258
   },
   {
@@ -13850,6 +15108,7 @@ window.QUESTION_BANK = [
       "Полость с тонкой стенкой без фиброзных и очаговых изменений вокруг"
     ],
     "answer": 1,
+    "source": "gosy_test_2",
     "id": 1259
   },
   {
@@ -13861,6 +15120,7 @@ window.QUESTION_BANK = [
       "выдается справка на весь период заболевания;"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1260
   },
   {
@@ -13872,6 +15132,7 @@ window.QUESTION_BANK = [
       "справка КЭК;"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1261
   },
   {
@@ -13883,6 +15144,7 @@ window.QUESTION_BANK = [
       "закрыть больничный лист;"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1262
   },
   {
@@ -13894,6 +15156,7 @@ window.QUESTION_BANK = [
       "8-10 дней;"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1263
   },
   {
@@ -13905,6 +15168,7 @@ window.QUESTION_BANK = [
       "только в случае госпитализации;"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1264
   },
   {
@@ -13916,6 +15180,7 @@ window.QUESTION_BANK = [
       "медицинские работники учреждений судебно-медицинской экспертизы;"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1265
   },
   {
@@ -13927,6 +15192,7 @@ window.QUESTION_BANK = [
       "участковым врачом на 10 дней;"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1266
   },
   {
@@ -13938,6 +15204,7 @@ window.QUESTION_BANK = [
       "несвоевременная явка на прием;"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1267
   },
   {
@@ -13949,6 +15216,7 @@ window.QUESTION_BANK = [
       "выдается больничный лист при увольнении по любой причине в течении месяца после увольнения; ( выдается всегда вне зависимости от причины )"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1268
   },
   {
@@ -13960,6 +15228,7 @@ window.QUESTION_BANK = [
       "на весь срок лечения;"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1269
   },
   {
@@ -13971,6 +15240,7 @@ window.QUESTION_BANK = [
       "просьба пациента;"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1270
   },
   {
@@ -13982,6 +15252,7 @@ window.QUESTION_BANK = [
       "на следующий день после явки к врачу;"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1271
   },
   {
@@ -13993,6 +15264,7 @@ window.QUESTION_BANK = [
       "до 10 дней по решению КЭК;"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1272
   },
   {
@@ -14004,6 +15276,7 @@ window.QUESTION_BANK = [
       "протезирование;"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1273
   },
   {
@@ -14015,6 +15288,7 @@ window.QUESTION_BANK = [
       "Рекомендации наиболее рационального и полного использования труда лиц с ограниченной трудоспособностью без ущерба для их здоровья;"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1274
   },
   {
@@ -14026,6 +15300,7 @@ window.QUESTION_BANK = [
       "До 4 месяцев;"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1275
   },
   {
@@ -14037,6 +15312,7 @@ window.QUESTION_BANK = [
       "больничный лист продлевается до 10 месяцев;"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1276
   },
   {
@@ -14048,6 +15324,7 @@ window.QUESTION_BANK = [
       "в период карантина;"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1277
   },
   {
@@ -14059,6 +15336,7 @@ window.QUESTION_BANK = [
       "сцинтиграфия миокарад;"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1278
   },
   {
@@ -14070,6 +15348,7 @@ window.QUESTION_BANK = [
       "ЛПУ любого уровня, профиля, ведомственной принадлежности;"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1279
   },
   {
@@ -14081,6 +15360,7 @@ window.QUESTION_BANK = [
       "внутримышечно"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1280
   },
   {
@@ -14092,6 +15372,7 @@ window.QUESTION_BANK = [
       "гипергликемия"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1281
   },
   {
@@ -14103,6 +15384,7 @@ window.QUESTION_BANK = [
       "бисопролол"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1282
   },
   {
@@ -14114,6 +15396,7 @@ window.QUESTION_BANK = [
       "артериальная гипертензия"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1283
   },
   {
@@ -14125,6 +15408,7 @@ window.QUESTION_BANK = [
       "лидокаин"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1284
   },
   {
@@ -14136,6 +15420,7 @@ window.QUESTION_BANK = [
       "антагонисты ат1-рецепторов к ангиотензину 2"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1285
   },
   {
@@ -14147,6 +15432,7 @@ window.QUESTION_BANK = [
       "нитраты"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1286
   },
   {
@@ -14158,6 +15444,7 @@ window.QUESTION_BANK = [
       "доксициклин"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1287
   },
   {
@@ -14169,6 +15456,7 @@ window.QUESTION_BANK = [
       "лимфоциты"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1288
   },
   {
@@ -14180,6 +15468,7 @@ window.QUESTION_BANK = [
       "перерыв на 7 дней"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1289
   },
   {
@@ -14191,6 +15480,7 @@ window.QUESTION_BANK = [
       "этакриновая кислота"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1290
   },
   {
@@ -14202,6 +15492,7 @@ window.QUESTION_BANK = [
       "время кровотечения"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1291
   },
   {
@@ -14213,6 +15504,7 @@ window.QUESTION_BANK = [
       "карбоцистеин"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1292
   },
   {
@@ -14224,6 +15516,7 @@ window.QUESTION_BANK = [
       "обладает цитопротективным действием"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1293
   },
   {
@@ -14235,6 +15528,7 @@ window.QUESTION_BANK = [
       "фозиноприл"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1294
   },
   {
@@ -14246,6 +15540,7 @@ window.QUESTION_BANK = [
       "аналоги простагландинов"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1295
   },
   {
@@ -14257,6 +15552,7 @@ window.QUESTION_BANK = [
       "суммация"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1296
   },
   {
@@ -14268,6 +15564,7 @@ window.QUESTION_BANK = [
       "увеличивают его выведения из организма"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1297
   },
   {
@@ -14279,6 +15576,7 @@ window.QUESTION_BANK = [
       "оксодолин"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1298
   },
   {
@@ -14290,6 +15588,7 @@ window.QUESTION_BANK = [
       "индапамид"
     ],
     "answer": 0,
+    "source": "gosy_test_2",
     "id": 1299
   },
   {
@@ -14301,6 +15600,7 @@ window.QUESTION_BANK = [
       "d. examines"
     ],
     "answer": 3,
+    "source": "gosy_test",
     "id": 1300
   },
   {
@@ -14312,6 +15612,7 @@ window.QUESTION_BANK = [
       "d. is taking"
     ],
     "answer": 0,
+    "source": "gosy_test",
     "id": 1301
   },
   {
@@ -14323,6 +15624,7 @@ window.QUESTION_BANK = [
       "d. should"
     ],
     "answer": 1,
+    "source": "gosy_test",
     "id": 1302
   },
   {
@@ -14334,6 +15636,7 @@ window.QUESTION_BANK = [
       "d. should"
     ],
     "answer": 2,
+    "source": "gosy_test",
     "id": 1303
   },
   {
@@ -14345,6 +15648,7 @@ window.QUESTION_BANK = [
       "d. having been"
     ],
     "answer": 2,
+    "source": "gosy_test",
     "id": 1304
   },
   {
@@ -14356,6 +15660,7 @@ window.QUESTION_BANK = [
       "d. contribute"
     ],
     "answer": 0,
+    "source": "gosy_test",
     "id": 1305
   },
   {
@@ -14367,6 +15672,7 @@ window.QUESTION_BANK = [
       "d. having got"
     ],
     "answer": 2,
+    "source": "gosy_test",
     "id": 1306
   },
   {
@@ -14378,6 +15684,7 @@ window.QUESTION_BANK = [
       "d. to explain"
     ],
     "answer": 3,
+    "source": "gosy_test",
     "id": 1307
   },
   {
@@ -14389,6 +15696,7 @@ window.QUESTION_BANK = [
       "d. arecomposed"
     ],
     "answer": 0,
+    "source": "gosy_test",
     "id": 1308
   },
   {
@@ -14400,6 +15708,7 @@ window.QUESTION_BANK = [
       "4. Мировоззренческий конфликт"
     ],
     "answer": 0,
+    "source": "gosy_test",
     "id": 1309
   },
   {
@@ -14411,6 +15720,7 @@ window.QUESTION_BANK = [
       "4. уменьшается, чтобы осмотическое давление во внутриклеточном пространстве уменьшилось."
     ],
     "answer": 0,
+    "source": "gosy_test",
     "id": 1310
   },
   {
@@ -14422,6 +15732,7 @@ window.QUESTION_BANK = [
       "4. тиксотропия."
     ],
     "answer": 3,
+    "source": "gosy_test",
     "id": 1311
   },
   {
@@ -14433,6 +15744,7 @@ window.QUESTION_BANK = [
       "структура полипептидной цепи, стабилизированная водородными связями"
     ],
     "answer": 2,
+    "source": "gosy_test",
     "id": 1312
   },
   {
@@ -14444,6 +15756,7 @@ window.QUESTION_BANK = [
       "ацил-КоА – транслоказа"
     ],
     "answer": 2,
+    "source": "gosy_test",
     "id": 1313
   },
   {
@@ -14455,6 +15768,7 @@ window.QUESTION_BANK = [
       "- обеспечить регуляцию эмоционального состояния и профилактику утомления организма."
     ],
     "answer": 2,
+    "source": "gosy_test",
     "id": 1314
   },
   {
@@ -14466,6 +15780,7 @@ window.QUESTION_BANK = [
       "-истощение запасов гликогена в рабочих мышцах."
     ],
     "answer": 3,
+    "source": "gosy_test",
     "id": 1315
   },
   {
@@ -14477,6 +15792,7 @@ window.QUESTION_BANK = [
       "-истощение запасов гликогена в рабочих мышцах."
     ],
     "answer": 0,
+    "source": "gosy_test",
     "id": 1316
   },
   {
@@ -14488,6 +15804,7 @@ window.QUESTION_BANK = [
       "-истощение запасов гликогена в рабочих мышцах."
     ],
     "answer": 2,
+    "source": "gosy_test",
     "id": 1317
   },
   {
@@ -14499,6 +15816,7 @@ window.QUESTION_BANK = [
       "4. только юридическими обязанностями"
     ],
     "answer": 0,
+    "source": "gosy_test",
     "id": 1318
   },
   {
@@ -14510,6 +15828,7 @@ window.QUESTION_BANK = [
       "4. при проведении научных исследований"
     ],
     "answer": 3,
+    "source": "gosy_test",
     "id": 1319
   },
   {
@@ -14521,6 +15840,7 @@ window.QUESTION_BANK = [
       "4.Треугольнике Шипо"
     ],
     "answer": 3,
+    "source": "gosy_test",
     "id": 1320
   },
   {
@@ -14532,6 +15852,7 @@ window.QUESTION_BANK = [
       "4. Томпсонова пластинка"
     ],
     "answer": 3,
+    "source": "gosy_test",
     "id": 1321
   },
   {
@@ -14543,6 +15864,7 @@ window.QUESTION_BANK = [
       "4. Адгезия, фагоцитоз, внеклеточный киллинг, внутриклеточный киллинг"
     ],
     "answer": 3,
+    "source": "gosy_test",
     "id": 1322
   },
   {
@@ -14554,6 +15876,7 @@ window.QUESTION_BANK = [
       "4. Процессинг и презентация антигена"
     ],
     "answer": 1,
+    "source": "gosy_test",
     "id": 1323
   },
   {
@@ -14565,6 +15888,7 @@ window.QUESTION_BANK = [
       "4.В тимусе"
     ],
     "answer": 0,
+    "source": "gosy_test",
     "id": 1324
   },
   {
@@ -14576,6 +15900,7 @@ window.QUESTION_BANK = [
       "4. промышленных предприятий"
     ],
     "answer": 0,
+    "source": "gosy_test",
     "id": 1325
   },
   {
@@ -14586,6 +15911,7 @@ window.QUESTION_BANK = [
       "3. бурая индурация 4. мукоидное набухание"
     ],
     "answer": 2,
+    "source": "gosy_test",
     "id": 1326
   },
   {
@@ -14597,6 +15923,7 @@ window.QUESTION_BANK = [
       "г - 45-.рт.ст."
     ],
     "answer": 1,
+    "source": "gosy_test",
     "id": 1327
   },
   {
@@ -14608,6 +15935,7 @@ window.QUESTION_BANK = [
       "4) голосовое дрожание нормальной силы"
     ],
     "answer": 0,
+    "source": "gosy_test",
     "id": 1328
   },
   {
@@ -14619,6 +15947,7 @@ window.QUESTION_BANK = [
       "биологической антисептики"
     ],
     "answer": 0,
+    "source": "gosy_test",
     "id": 1329
   },
   {
@@ -14630,6 +15959,7 @@ window.QUESTION_BANK = [
       "4) В первые 48 часов до начала заболевания"
     ],
     "answer": 3,
+    "source": "gosy_test",
     "id": 1330
   },
   {
@@ -14641,6 +15971,7 @@ window.QUESTION_BANK = [
       "4) Инфаркт миокарда"
     ],
     "answer": 1,
+    "source": "gosy_test",
     "id": 1331
   },
   {
@@ -14652,6 +15983,7 @@ window.QUESTION_BANK = [
       "4) занятия на тренажерах субмаксимальной мощности"
     ],
     "answer": 0,
+    "source": "gosy_test",
     "id": 1332
   },
   {
@@ -14663,6 +15995,7 @@ window.QUESTION_BANK = [
       "4) лимфоток"
     ],
     "answer": 1,
+    "source": "gosy_test",
     "id": 1333
   },
   {
@@ -14674,6 +16007,7 @@ window.QUESTION_BANK = [
       "4.желудочках мозга"
     ],
     "answer": 1,
+    "source": "gosy_test",
     "id": 1334
   },
   {
@@ -14685,6 +16019,7 @@ window.QUESTION_BANK = [
       "4. Отек легких"
     ],
     "answer": 0,
+    "source": "gosy_test",
     "id": 1335
   },
   {
@@ -14696,6 +16031,7 @@ window.QUESTION_BANK = [
       "4. Купренил."
     ],
     "answer": 0,
+    "source": "gosy_test",
     "id": 1336
   },
   {
@@ -14707,6 +16043,7 @@ window.QUESTION_BANK = [
       "г) измерения АД"
     ],
     "answer": 2,
+    "source": "gosy_test",
     "id": 1337
   },
   {
@@ -14718,6 +16055,7 @@ window.QUESTION_BANK = [
       "4 экссудативная"
     ],
     "answer": 0,
+    "source": "gosy_test",
     "id": 1338
   },
   {
@@ -14729,6 +16067,7 @@ window.QUESTION_BANK = [
       "4. гектическая"
     ],
     "answer": 1,
+    "source": "gosy_test",
     "id": 1339
   },
   {
@@ -14740,6 +16079,7 @@ window.QUESTION_BANK = [
       "4.Ципрофлоксацин"
     ],
     "answer": 0,
+    "source": "gosy_test",
     "id": 1340
   },
   {
@@ -14751,6 +16091,7 @@ window.QUESTION_BANK = [
       "4. 50 мг"
     ],
     "answer": 0,
+    "source": "gosy_test",
     "id": 1341
   },
   {
@@ -14762,6 +16103,7 @@ window.QUESTION_BANK = [
       "4) Нейрогенными"
     ],
     "answer": 0,
+    "source": "gosy_test",
     "id": 1342
   },
   {
@@ -14773,6 +16115,7 @@ window.QUESTION_BANK = [
       "4) Крупнобляшечном"
     ],
     "answer": 0,
+    "source": "gosy_test",
     "id": 1343
   },
   {
@@ -14784,6 +16127,7 @@ window.QUESTION_BANK = [
       "4. нижняя;"
     ],
     "answer": 1,
+    "source": "gosy_test",
     "id": 1344
   },
   {
@@ -14795,6 +16139,7 @@ window.QUESTION_BANK = [
       "4. Какова возможная причина смерти"
     ],
     "answer": 1,
+    "source": "gosy_test",
     "id": 1345
   },
   {
@@ -14806,6 +16151,7 @@ window.QUESTION_BANK = [
       "хирургический метод"
     ],
     "answer": 1,
+    "source": "gosy_test",
     "id": 1346
   },
   {
@@ -14817,6 +16163,7 @@ window.QUESTION_BANK = [
       "4. РИНЦ"
     ],
     "answer": 0,
+    "source": "gosy_test",
     "id": 1347
   },
   {
@@ -14828,6 +16175,7 @@ window.QUESTION_BANK = [
       "выдается справка на весь период заболевания;"
     ],
     "answer": 0,
+    "source": "gosy_test",
     "id": 1348
   },
   {
@@ -14839,6 +16187,7 @@ window.QUESTION_BANK = [
       "выдается больничный лист при увольнении по любой причине в течении месяца после увольнения;"
     ],
     "answer": 0,
+    "source": "gosy_test",
     "id": 1349
   },
   {
@@ -14850,6 +16199,7 @@ window.QUESTION_BANK = [
       "на следующий день после явки к врачу;"
     ],
     "answer": 0,
+    "source": "gosy_test",
     "id": 1350
   }
 ];
